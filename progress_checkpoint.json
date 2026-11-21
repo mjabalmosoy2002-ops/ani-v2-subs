@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 1774,
+  "uploaded_episodes": 1816,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:02:59.870264+00:00",
+  "updated_at": "2026-11-21T12:03:30.329943+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -14,6 +14,7 @@
     "arcane-season-2-a1zmb",
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk",
+    "battle-spirits-re-zekkai-no-ku-thbod",
     "black-clover-season-2",
     "blue-box-season-2",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
@@ -62,16 +63,20 @@
     "one-piece-odmau",
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2",
     "parasite-dolls-abk28",
+    "psyren-wmsqi",
     "quiet-please-cst6b",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "red-river-993eb",
     "rilakkuma-qvmgp",
     "sasaki-and-peeps-season-2-6ri4s",
+    "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
     "smoking-behind-the-supermarket-with-you-e086a",
+    "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee",
     "sorry-about-my-little-brothers-ee156",
     "space-warrior-baldios-7w7uq",
     "spare-me-great-lord-season-3-qvvwj",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
+    "suikoden-the-anime-gowvw",
     "tank-chair-kjquw",
     "tantei-wa-mou-shindeiru-season-2",
     "tensei-shitara-ken-deshita-2nd-season",
@@ -86,6 +91,7 @@
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf",
+    "the-ramparts-of-ice-season-2-qgjev",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "the-vermilion-mask-8msvh",
     "the-world-s-strongest-witch-wipbv",
@@ -116,6 +122,7 @@
     "arcane-season-2-a1zmb",
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk",
+    "battle-spirits-re-zekkai-no-ku-thbod",
     "black-clover-season-2",
     "blue-box-season-2",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
@@ -166,16 +173,20 @@
     "one-piece-odmau",
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2",
     "parasite-dolls-abk28",
+    "psyren-wmsqi",
     "quiet-please-cst6b",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "red-river-993eb",
     "rilakkuma-qvmgp",
     "sasaki-and-peeps-season-2-6ri4s",
+    "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
     "smoking-behind-the-supermarket-with-you-e086a",
+    "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee",
     "sorry-about-my-little-brothers-ee156",
     "space-warrior-baldios-7w7uq",
     "spare-me-great-lord-season-3-qvvwj",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
+    "suikoden-the-anime-gowvw",
     "tank-chair-kjquw",
     "tantei-wa-mou-shindeiru-season-2",
     "tensei-shitara-ken-deshita-2nd-season",
@@ -190,6 +201,7 @@
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf",
+    "the-ramparts-of-ice-season-2-qgjev",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "the-vermilion-mask-8msvh",
     "the-world-s-strongest-witch-wipbv",
@@ -214,7 +226,6 @@
   "in_progress_animes": {
     "a-wild-last-boss-appeared-season-2-vuehs": 4,
     "ace-of-diamond-ova-wubtw": 4,
-    "battle-spirits-re-zekkai-no-ku-thbod": 2,
     "be-forever-yamato-rebel-3199-1z1pt": 3,
     "beyblade-x-aj6fn": 1,
     "beyond-time-s-gaze-2nd-season-t9pzl": 4,
@@ -240,7 +251,6 @@
     "overgeared-rah7b": 3,
     "pokemon-horizons-the-series-2obfr": 1,
     "pokemon-to-be-a-pokemon-master-bcafm": 7,
-    "psyren-wmsqi": 2,
     "punirunes-puni-4-qxmzq": 3,
     "raised-by-demons-panda-li-r3lzo": 4,
     "ranma-1-2-2024-season-3-jmxy2": 3,
@@ -250,16 +260,12 @@
     "seeing-double-ufj0o": 4,
     "shiawase-sou-no-okojo-san-dmpdp": 5,
     "shiguang-dailiren-iii": 4,
-    "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9": 2,
-    "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee": 2,
     "soar-high-isami-lmfmm": 4,
     "star-detective-precure-jjsd0": 3,
     "stitch-yf7hn": 4,
-    "suikoden-the-anime-gowvw": 2,
     "tayutama-kiss-on-my-deity-n81to": 8,
     "the-classroom-of-a-black-cat-and-a-witch-bavvd": 2,
     "the-exiled-heavy-knight-knows-how-to-game-the-system": 1,
-    "the-ramparts-of-ice-season-2-qgjev": 1,
     "ushiro-no-shoumen-kamui-san-1f2b5": 5,
     "wild-knights-gulkeeva-yowia": 3,
     "wounded-man-nvhpj": 4,
@@ -380,6 +386,15 @@
       22,
       23,
       24
+    ],
+    "battle-spirits-re-zekkai-no-ku-thbod": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "beyblade-x-aj6fn": [
       1,
@@ -1346,6 +1361,14 @@
       7,
       8
     ],
+    "psyren-wmsqi": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "punirunes-puni-4-qxmzq": [
       1,
       3
@@ -1576,6 +1599,15 @@
       7,
       9
     ],
+    "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
     "smoking-behind-the-supermarket-with-you-e086a": [
       1,
       2,
@@ -1589,6 +1621,15 @@
       10,
       11,
       12
+    ],
+    "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "soar-high-isami-lmfmm": [
       9
@@ -1692,6 +1733,15 @@
       7,
       8,
       9
+    ],
+    "suikoden-the-anime-gowvw": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "tank-chair-kjquw": [
       1,
@@ -1924,6 +1974,16 @@
       7
     ],
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "the-ramparts-of-ice-season-2-qgjev": [
       1,
       2,
       3,
