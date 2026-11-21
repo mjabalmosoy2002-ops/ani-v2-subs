@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:14:09.831276+00:00",
+  "updated_at": "2026-11-21T12:14:13.076802+00:00",
   "summary": {
-    "partial_missing_anime": 6,
+    "partial_missing_anime": 11,
     "completely_missing_anime": 1
   },
   "partial_missing": [
@@ -119,6 +119,105 @@
       "source_url": "https://anichi.cz/anime/shiguang-dailiren-iii",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795263219491
+    },
+    {
+      "slug": "ushiro-no-shoumen-kamui-san-1f2b5",
+      "title": "KAMUI: He's Behind You S1",
+      "official_search_name": "KAMUI: He's Behind You S1",
+      "matched_folder": "ushiro-no-shoumen-kamui-san",
+      "archive_path_prefix": "subtitles/ushiro-no-shoumen-kamui-san/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "available_episodes_count": 1,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/ushiro-no-shoumen-kamui-san-1f2b5",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263250487
+    },
+    {
+      "slug": "chocotto-sister-ky3qh",
+      "title": "Chocotto Sister S1",
+      "official_search_name": "Chocotto Sister S1",
+      "matched_folder": "chocotto-sister",
+      "archive_path_prefix": "subtitles/chocotto-sister/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        16
+      ],
+      "available_episodes_count": 23,
+      "total_episodes": 24,
+      "source_url": "https://anichi.cz/anime/chocotto-sister-ky3qh",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263251249
+    },
+    {
+      "slug": "digimon-beatbreak-u2o7s",
+      "title": "Digimon Beatbreak S1",
+      "official_search_name": "Digimon Beatbreak S1",
+      "matched_folder": "digimon-beatbreak",
+      "archive_path_prefix": "subtitles/digimon-beatbreak/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        26,
+        29
+      ],
+      "available_episodes_count": 47,
+      "total_episodes": 49,
+      "source_url": "https://anichi.cz/anime/digimon-beatbreak-u2o7s",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263251853
+    },
+    {
+      "slug": "tayutama-kiss-on-my-deity-n81to",
+      "title": "Tayutama: Kiss on My Deity S1",
+      "official_search_name": "Tayutama: Kiss on My Deity S1",
+      "matched_folder": "tayutama-kiss-on-my-deity",
+      "archive_path_prefix": "subtitles/tayutama-kiss-on-my-deity/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        4,
+        9
+      ],
+      "available_episodes_count": 9,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/tayutama-kiss-on-my-deity-n81to",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263252507
+    },
+    {
+      "slug": "pokemon-to-be-a-pokemon-master-bcafm",
+      "title": "Pokémon: To Be a Pokémon Master S1",
+      "official_search_name": "Pokémon: To Be a Pokémon Master S1",
+      "matched_folder": "pokemon-to-be-a-pokemon-master",
+      "archive_path_prefix": "subtitles/pokemon-to-be-a-pokemon-master/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        3
+      ],
+      "available_episodes_count": 5,
+      "total_episodes": 8,
+      "source_url": "https://anichi.cz/anime/pokemon-to-be-a-pokemon-master-bcafm",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263252743
     }
   ],
   "completely_missing": [
