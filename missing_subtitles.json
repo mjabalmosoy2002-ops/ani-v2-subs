@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:22:47.420354+00:00",
+  "updated_at": "2026-11-21T11:24:07.963651+00:00",
   "summary": {
-    "partial_missing_anime": 6,
+    "partial_missing_anime": 8,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -141,6 +141,41 @@
       "source_url": "https://anichi.cz/anime/digimon-beatbreak-u2o7s",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795260121401
+    },
+    {
+      "slug": "re-zero-starting-life-in-another-world-season-4-4hk9h",
+      "title": "Re:ZERO -Starting Life in Another World S4",
+      "official_search_name": "Re:ZERO -Starting Life in Another World S4",
+      "matched_folder": "re-zero-starting-life-in-another-world",
+      "archive_path_prefix": "subtitles/re-zero-starting-life-in-another-world/s4/",
+      "season": 4,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4
+      ],
+      "available_episodes_count": 17,
+      "total_episodes": 19,
+      "source_url": "https://anichi.cz/anime/re-zero-starting-life-in-another-world-season-4-4hk9h",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260172260
+    },
+    {
+      "slug": "yuu-gi-ou-go-rush-h8gbw",
+      "title": "Yuu Gi Ou: Go Rush!! S1",
+      "official_search_name": "Yuu Gi Ou: Go Rush!! S1",
+      "matched_folder": "yuu-gi-ou-go-rush",
+      "archive_path_prefix": "subtitles/yuu-gi-ou-go-rush/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        26,
+        98
+      ],
+      "available_episodes_count": 142,
+      "total_episodes": 151,
+      "source_url": "https://anichi.cz/anime/yuu-gi-ou-go-rush-h8gbw",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260239380
     }
   ],
   "completely_missing": [],
