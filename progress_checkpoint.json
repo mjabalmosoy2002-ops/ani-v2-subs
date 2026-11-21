@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 1816,
+  "uploaded_episodes": 1849,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:03:30.329943+00:00",
+  "updated_at": "2026-11-21T12:03:57.439798+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -29,6 +29,7 @@
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33",
     "dragon-ball-super-beerus-xtjlb",
     "draw-this-then-die-5xdt",
+    "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "firefly-wedding-vkwqm",
     "flaming-dodgeball-girl-danko-394e2",
@@ -137,6 +138,7 @@
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33",
     "dragon-ball-super-beerus-xtjlb",
     "draw-this-then-die-5xdt",
+    "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "fate-grand-order-you-ve-lost-ritsuka-fujimaru-iqy54",
     "firefly-wedding-vkwqm",
@@ -235,7 +237,6 @@
     "chocotto-sister-ky3qh": 8,
     "daemons-of-the-shadow-realm-hxj32": 10,
     "digimon-beatbreak-u2o7s": 9,
-    "dreamland-z8wn3": 3,
     "garzey-s-wing-hisu2": 3,
     "hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara-ecfkj": 3,
     "hatenkou-yugi-ussoz": 6,
@@ -395,6 +396,30 @@
       5,
       6,
       7
+    ],
+    "be-forever-yamato-rebel-3199-1z1pt": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      20,
+      21,
+      22,
+      23,
+      24
     ],
     "beyblade-x-aj6fn": [
       1,
@@ -727,6 +752,13 @@
       11,
       12
     ],
+    "dreamland-z8wn3": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg": [
       1,
       2,
@@ -914,6 +946,14 @@
       4,
       5,
       6
+    ],
+    "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "keroro-crcm7": [
       1,
