@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:11:16.443866+00:00",
+  "updated_at": "2026-11-21T11:11:43.560336+00:00",
   "summary": {
-    "partial_missing_anime": 1,
+    "partial_missing_anime": 2,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -26,6 +26,23 @@
       "source_url": "https://anichi.cz/anime/pokemon-horizons-the-series-2obfr",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795259433723
+    },
+    {
+      "slug": "the-classroom-of-a-black-cat-and-a-witch-bavvd",
+      "title": "The Classroom of a Black Cat and a Witch S1",
+      "official_search_name": "The Classroom of a Black Cat and a Witch S1",
+      "matched_folder": "the-classroom-of-a-black-cat-and-a-witch",
+      "archive_path_prefix": "subtitles/the-classroom-of-a-black-cat-and-a-witch/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4
+      ],
+      "available_episodes_count": 23,
+      "total_episodes": 24,
+      "source_url": "https://anichi.cz/anime/the-classroom-of-a-black-cat-and-a-witch-bavvd",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795259479657
     }
   ],
   "completely_missing": [],
