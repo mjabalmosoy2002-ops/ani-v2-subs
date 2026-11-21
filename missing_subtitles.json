@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:20:25.482212+00:00",
+  "updated_at": "2026-11-21T11:21:21.314898+00:00",
   "summary": {
-    "partial_missing_anime": 4,
+    "partial_missing_anime": 5,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -96,6 +96,33 @@
       "source_url": "https://anichi.cz/anime/shiguang-dailiren-iii",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795259972140
+    },
+    {
+      "slug": "ushiro-no-shoumen-kamui-san-1f2b5",
+      "title": "KAMUI: He's Behind You S1",
+      "official_search_name": "KAMUI: He's Behind You S1",
+      "matched_folder": "ushiro-no-shoumen-kamui-san",
+      "archive_path_prefix": "subtitles/ushiro-no-shoumen-kamui-san/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "available_episodes_count": 1,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/ushiro-no-shoumen-kamui-san-1f2b5",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260037464
     }
   ],
   "completely_missing": [],
