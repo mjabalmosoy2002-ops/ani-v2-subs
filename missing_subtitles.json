@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:25:03.058730+00:00",
+  "updated_at": "2026-11-21T12:27:16.119551+00:00",
   "summary": {
-    "partial_missing_anime": 7,
-    "completely_missing_anime": 0
+    "partial_missing_anime": 19,
+    "completely_missing_anime": 1
   },
   "partial_missing": [
     {
@@ -22,7 +22,7 @@
       "total_episodes": 73,
       "source_url": "https://anichi.cz/anime/koupen-chan-ln1xa",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795263727054
+      "checked_at_ms": 1795263963900
     },
     {
       "slug": "beyblade-x-aj6fn",
@@ -44,7 +44,7 @@
       "total_episodes": 139,
       "source_url": "https://anichi.cz/anime/beyblade-x-aj6fn",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795263741245
+      "checked_at_ms": 1795263943066
     },
     {
       "slug": "star-detective-precure-jjsd0",
@@ -61,7 +61,7 @@
       "total_episodes": 41,
       "source_url": "https://anichi.cz/anime/star-detective-precure-jjsd0",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795263741455
+      "checked_at_ms": 1795263964295
     },
     {
       "slug": "pokemon-horizons-the-series-2obfr",
@@ -73,13 +73,16 @@
       "status": "partial_missing",
       "missing_episodes": [
         135,
-        136
+        136,
+        150,
+        152,
+        158
       ],
       "available_episodes_count": 145,
       "total_episodes": 158,
       "source_url": "https://anichi.cz/anime/pokemon-horizons-the-series-2obfr",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795263746039
+      "checked_at_ms": 1795263939384
     },
     {
       "slug": "the-classroom-of-a-black-cat-and-a-witch-bavvd",
@@ -96,7 +99,7 @@
       "total_episodes": 24,
       "source_url": "https://anichi.cz/anime/the-classroom-of-a-black-cat-and-a-witch-bavvd",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795263855282
+      "checked_at_ms": 1795263947060
     },
     {
       "slug": "case-closed-w8ehk",
@@ -137,9 +140,297 @@
       "total_episodes": 12,
       "source_url": "https://anichi.cz/anime/shiguang-dailiren-iii",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795263898534
+      "checked_at_ms": 1795264024377
+    },
+    {
+      "slug": "ushiro-no-shoumen-kamui-san-1f2b5",
+      "title": "KAMUI: He's Behind You S1",
+      "official_search_name": "KAMUI: He's Behind You S1",
+      "matched_folder": "ushiro-no-shoumen-kamui-san",
+      "archive_path_prefix": "subtitles/ushiro-no-shoumen-kamui-san/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "available_episodes_count": 1,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/ushiro-no-shoumen-kamui-san-1f2b5",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263917758
+    },
+    {
+      "slug": "hatenkou-yugi-ussoz",
+      "title": "Hatenkou Yugi S1",
+      "official_search_name": "Hatenkou Yugi S1",
+      "matched_folder": "hatenkou-yugi",
+      "archive_path_prefix": "subtitles/hatenkou-yugi/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        3,
+        5,
+        7
+      ],
+      "available_episodes_count": 5,
+      "total_episodes": 8,
+      "source_url": "https://anichi.cz/anime/hatenkou-yugi-ussoz",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263917887
+    },
+    {
+      "slug": "pokemon-to-be-a-pokemon-master-bcafm",
+      "title": "Pokémon: To Be a Pokémon Master S1",
+      "official_search_name": "Pokémon: To Be a Pokémon Master S1",
+      "matched_folder": "pokemon-to-be-a-pokemon-master",
+      "archive_path_prefix": "subtitles/pokemon-to-be-a-pokemon-master/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        3
+      ],
+      "available_episodes_count": 5,
+      "total_episodes": 8,
+      "source_url": "https://anichi.cz/anime/pokemon-to-be-a-pokemon-master-bcafm",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263918011
+    },
+    {
+      "slug": "chocotto-sister-ky3qh",
+      "title": "Chocotto Sister S1",
+      "official_search_name": "Chocotto Sister S1",
+      "matched_folder": "chocotto-sister",
+      "archive_path_prefix": "subtitles/chocotto-sister/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        16
+      ],
+      "available_episodes_count": 23,
+      "total_episodes": 24,
+      "source_url": "https://anichi.cz/anime/chocotto-sister-ky3qh",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263918262
+    },
+    {
+      "slug": "tayutama-kiss-on-my-deity-n81to",
+      "title": "Tayutama: Kiss on My Deity S1",
+      "official_search_name": "Tayutama: Kiss on My Deity S1",
+      "matched_folder": "tayutama-kiss-on-my-deity",
+      "archive_path_prefix": "subtitles/tayutama-kiss-on-my-deity/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        4,
+        9
+      ],
+      "available_episodes_count": 9,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/tayutama-kiss-on-my-deity-n81to",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263918288
+    },
+    {
+      "slug": "digimon-beatbreak-u2o7s",
+      "title": "Digimon Beatbreak S1",
+      "official_search_name": "Digimon Beatbreak S1",
+      "matched_folder": "digimon-beatbreak",
+      "archive_path_prefix": "subtitles/digimon-beatbreak/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        26,
+        29
+      ],
+      "available_episodes_count": 47,
+      "total_episodes": 49,
+      "source_url": "https://anichi.cz/anime/digimon-beatbreak-u2o7s",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263919004
+    },
+    {
+      "slug": "daemons-of-the-shadow-realm-hxj32",
+      "title": "Daemons of the Shadow Realm S1",
+      "official_search_name": "Daemons of the Shadow Realm S1",
+      "matched_folder": "daemons-of-the-shadow",
+      "archive_path_prefix": "subtitles/daemons-of-the-shadow/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4,
+        6
+      ],
+      "available_episodes_count": 22,
+      "total_episodes": 24,
+      "source_url": "https://anichi.cz/anime/daemons-of-the-shadow-realm-hxj32",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263919451
+    },
+    {
+      "slug": "re-zero-starting-life-in-another-world-season-4-4hk9h",
+      "title": "Re:ZERO -Starting Life in Another World S4",
+      "official_search_name": "Re:ZERO -Starting Life in Another World S4",
+      "matched_folder": "re-zero-starting-life-in-another-world",
+      "archive_path_prefix": "subtitles/re-zero-starting-life-in-another-world/s4/",
+      "season": 4,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4
+      ],
+      "available_episodes_count": 17,
+      "total_episodes": 19,
+      "source_url": "https://anichi.cz/anime/re-zero-starting-life-in-another-world-season-4-4hk9h",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263923740
+    },
+    {
+      "slug": "yuu-gi-ou-go-rush-h8gbw",
+      "title": "Yuu Gi Ou: Go Rush!! S1",
+      "official_search_name": "Yuu Gi Ou: Go Rush!! S1",
+      "matched_folder": "yuu-gi-ou-go-rush",
+      "archive_path_prefix": "subtitles/yuu-gi-ou-go-rush/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        26,
+        98
+      ],
+      "available_episodes_count": 142,
+      "total_episodes": 151,
+      "source_url": "https://anichi.cz/anime/yuu-gi-ou-go-rush-h8gbw",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263926207
+    },
+    {
+      "slug": "renegade-immortal-ogxqp",
+      "title": "Renegade Immortal S1",
+      "official_search_name": "Renegade Immortal S1",
+      "matched_folder": "renegade-immortal",
+      "archive_path_prefix": "subtitles/renegade-immortal/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        76,
+        79,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        94,
+        96,
+        98,
+        138,
+        139
+      ],
+      "available_episodes_count": 120,
+      "total_episodes": 152,
+      "source_url": "https://anichi.cz/anime/renegade-immortal-ogxqp",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263927479
+    },
+    {
+      "slug": "mao-fv7yd",
+      "title": "Mao S1",
+      "official_search_name": "Mao S1",
+      "matched_folder": "mao",
+      "archive_path_prefix": "subtitles/mao/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4,
+        6
+      ],
+      "available_episodes_count": 24,
+      "total_episodes": 26,
+      "source_url": "https://anichi.cz/anime/mao-fv7yd",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263927716
+    },
+    {
+      "slug": "cb-character-nagai-gou-world-kdfnf",
+      "title": "CB Character: Nagai Gou World S1",
+      "official_search_name": "CB Character: Nagai Gou World S1",
+      "matched_folder": "cb-character-nagai-gou-world",
+      "archive_path_prefix": "subtitles/cb-character-nagai-gou-world/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        2,
+        3
+      ],
+      "available_episodes_count": 1,
+      "total_episodes": 3,
+      "source_url": "https://anichi.cz/anime/cb-character-nagai-gou-world-kdfnf",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795264034489
     }
   ],
-  "completely_missing": [],
-  "missing_animes": []
+  "completely_missing": [
+    {
+      "slug": "kusuriya-no-hitorigoto-3rd-season",
+      "title": "The Apothecary Diaries S3",
+      "official_search_name": "The Apothecary Diaries S3",
+      "matched_folder": "kusuriya-no-hitorigoto",
+      "archive_path_prefix": "subtitles/kusuriya-no-hitorigoto/s3/",
+      "season": 3,
+      "status": "partial_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 7,
+      "total_episodes": 8,
+      "missing_episodes": [
+        1
+      ],
+      "source_url": "https://anichi.cz/watch/kusuriya-no-hitorigoto-3rd-season/ep-1",
+      "checked_at_ms": 1795263930199
+    }
+  ],
+  "missing_animes": [
+    {
+      "slug": "kusuriya-no-hitorigoto-3rd-season",
+      "title": "The Apothecary Diaries S3",
+      "official_search_name": "The Apothecary Diaries S3",
+      "matched_folder": "kusuriya-no-hitorigoto",
+      "archive_path_prefix": "subtitles/kusuriya-no-hitorigoto/s3/",
+      "season": 3,
+      "status": "partial_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 7,
+      "total_episodes": 8,
+      "missing_episodes": [
+        1
+      ],
+      "source_url": "https://anichi.cz/watch/kusuriya-no-hitorigoto-3rd-season/ep-1",
+      "checked_at_ms": 1795263930199
+    }
+  ]
 }

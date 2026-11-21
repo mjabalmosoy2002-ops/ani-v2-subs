@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 3138,
+  "uploaded_episodes": 3171,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:25:03.058730+00:00",
+  "updated_at": "2026-11-21T12:27:16.119551+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -17,6 +17,7 @@
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk",
     "battle-spirits-re-zekkai-no-ku-thbod",
+    "be-forever-yamato-rebel-3199-1z1pt",
     "beyond-time-s-gaze-2nd-season-t9pzl",
     "black-clover-season-2",
     "blue-box-season-2",
@@ -40,6 +41,7 @@
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "fx-fighter-kurumi-chan-lwljc",
     "garzey-s-wing-hisu2",
+    "genjitsu-no-rimuru-sunshine-in-the-slime-ndlcs",
     "golden-curse-daoau",
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
@@ -57,6 +59,7 @@
     "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
     "keroro-crcm7",
     "kirarin-revolution-c59ge",
+    "kusuriya-no-hitorigoto-3rd-season",
     "legend-of-basara-wbauj",
     "legendary-brave-da-garn-yjwey",
     "magic-knight-rayearth-2026-hurbe",
@@ -84,6 +87,7 @@
     "rilakkuma-qvmgp",
     "romelia-war-chronicle-kontm",
     "sasaki-and-peeps-season-2-6ri4s",
+    "scott-pilgrim-takes-off-k7nrs",
     "seeing-double-ufj0o",
     "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-ang96",
     "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
@@ -93,6 +97,7 @@
     "space-warrior-baldios-7w7uq",
     "spare-me-great-lord-season-3-qvvwj",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
+    "stitch-yf7hn",
     "suikoden-the-anime-gowvw",
     "tactical-roar-6bnye",
     "tank-chair-kjquw",
@@ -145,6 +150,7 @@
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk",
     "battle-spirits-re-zekkai-no-ku-thbod",
+    "be-forever-yamato-rebel-3199-1z1pt",
     "beyond-time-s-gaze-2nd-season-t9pzl",
     "black-clover-season-2",
     "blue-box-season-2",
@@ -170,6 +176,7 @@
     "fx-fighter-kurumi-chan-lwljc",
     "gambler-densetsu-tetsuya-yy1ng",
     "garzey-s-wing-hisu2",
+    "genjitsu-no-rimuru-sunshine-in-the-slime-ndlcs",
     "golden-curse-daoau",
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
@@ -187,6 +194,7 @@
     "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
     "keroro-crcm7",
     "kirarin-revolution-c59ge",
+    "kusuriya-no-hitorigoto-3rd-season",
     "legend-of-basara-wbauj",
     "legendary-brave-da-garn-yjwey",
     "magic-knight-rayearth-2026-hurbe",
@@ -214,6 +222,7 @@
     "rilakkuma-qvmgp",
     "romelia-war-chronicle-kontm",
     "sasaki-and-peeps-season-2-6ri4s",
+    "scott-pilgrim-takes-off-k7nrs",
     "seeing-double-ufj0o",
     "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-ang96",
     "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
@@ -223,6 +232,7 @@
     "space-warrior-baldios-7w7uq",
     "spare-me-great-lord-season-3-qvvwj",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
+    "stitch-yf7hn",
     "suikoden-the-anime-gowvw",
     "tactical-roar-6bnye",
     "tank-chair-kjquw",
@@ -265,7 +275,6 @@
   ],
   "in_progress_animes": {
     "battle-spirits-shounen-toppa-bashin-hvjsl": 4,
-    "be-forever-yamato-rebel-3199-1z1pt": 3,
     "beyblade-x-aj6fn": 1,
     "bleach-thousand-year-blood-war-the-calamity-iptkn": 8,
     "brave-command-dagwon-pugmt": 4,
@@ -275,12 +284,10 @@
     "chousoku-henkei-gyrozetter-y4e6r": 4,
     "daemons-of-the-shadow-realm-hxj32": 10,
     "digimon-beatbreak-u2o7s": 9,
-    "genjitsu-no-rimuru-sunshine-in-the-slime-ndlcs": 4,
     "hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara-ecfkj": 3,
     "hatenkou-yugi-ussoz": 6,
     "kaitou-tenshi-twin-angel-bvysb": 4,
     "koupen-chan-ln1xa": 3,
-    "kusuriya-no-hitorigoto-3rd-season": 1,
     "lupin-the-thiiirrrd-ky11o": 4,
     "mao-fv7yd": 11,
     "overgeared-rah7b": 3,
@@ -289,12 +296,10 @@
     "punirunes-puni-4-qxmzq": 3,
     "re-zero-starting-life-in-another-world-season-4-4hk9h": 9,
     "renegade-immortal-ogxqp": 10,
-    "scott-pilgrim-takes-off-k7nrs": 4,
     "shiawase-sou-no-okojo-san-dmpdp": 5,
     "shiguang-dailiren-iii": 4,
     "soar-high-isami-lmfmm": 4,
     "star-detective-precure-jjsd0": 3,
-    "stitch-yf7hn": 4,
     "tayutama-kiss-on-my-deity-n81to": 8,
     "the-classroom-of-a-black-cat-and-a-witch-bavvd": 2,
     "the-magic-of-chocolate-y9kx4": 4,
@@ -462,11 +467,14 @@
       16,
       17,
       18,
+      19,
       20,
       21,
       22,
       23,
-      24
+      24,
+      25,
+      26
     ],
     "beyblade-x-aj6fn": [
       1,
@@ -1829,6 +1837,9 @@
       1219,
       1220
     ],
+    "cb-character-nagai-gou-world-kdfnf": [
+      1
+    ],
     "chitose-is-in-the-ramune-bottle-part-2-q6hus": [
       1,
       2,
@@ -2074,6 +2085,10 @@
       1,
       2,
       3
+    ],
+    "genjitsu-no-rimuru-sunshine-in-the-slime-ndlcs": [
+      1,
+      2
     ],
     "golden-curse-daoau": [
       1,
@@ -2344,6 +2359,9 @@
       43,
       44,
       45
+    ],
+    "lupin-the-thiiirrrd-ky11o": [
+      1
     ],
     "magic-knight-rayearth-2026-hurbe": [
       1,
@@ -2927,6 +2945,16 @@
       6,
       7
     ],
+    "scott-pilgrim-takes-off-k7nrs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
     "seeing-double-ufj0o": [
       1,
       2,
@@ -3107,6 +3135,24 @@
     ],
     "stitch-yf7hn": [
       1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
       20,
       21,
       22,
