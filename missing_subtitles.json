@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:25:57.234643+00:00",
+  "updated_at": "2026-11-21T11:26:07.569828+00:00",
   "summary": {
-    "partial_missing_anime": 10,
+    "partial_missing_anime": 11,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -239,6 +239,24 @@
       "source_url": "https://anichi.cz/anime/renegade-immortal-ogxqp",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795260309645
+    },
+    {
+      "slug": "mao-fv7yd",
+      "title": "Mao S1",
+      "official_search_name": "Mao S1",
+      "matched_folder": "mao",
+      "archive_path_prefix": "subtitles/mao/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4,
+        6
+      ],
+      "available_episodes_count": 24,
+      "total_episodes": 26,
+      "source_url": "https://anichi.cz/anime/mao-fv7yd",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260364133
     }
   ],
   "completely_missing": [],
