@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:27:51.608426+00:00",
+  "updated_at": "2026-11-21T11:29:32.030229+00:00",
   "summary": {
-    "partial_missing_anime": 11,
+    "partial_missing_anime": 12,
     "completely_missing_anime": 2
   },
   "partial_missing": [
@@ -254,6 +254,28 @@
       "source_url": "https://anichi.cz/anime/mao-fv7yd",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795260364133
+    },
+    {
+      "slug": "beyblade-x-aj6fn",
+      "title": "BEYBLADE X S1",
+      "official_search_name": "BEYBLADE X S1",
+      "matched_folder": "beyblade-x",
+      "archive_path_prefix": "subtitles/beyblade-x/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ],
+      "available_episodes_count": 112,
+      "total_episodes": 139,
+      "source_url": "https://anichi.cz/anime/beyblade-x-aj6fn",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260559499
     }
   ],
   "completely_missing": [
