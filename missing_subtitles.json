@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T13:53:50.900771+00:00",
+  "updated_at": "2026-11-21T14:01:08.175219+00:00",
   "summary": {
     "partial_missing_anime": 16,
-    "completely_missing_anime": 12
+    "completely_missing_anime": 13
   },
   "partial_missing": [
     {
@@ -217,7 +217,7 @@
       "total_episodes": 24,
       "source_url": "https://anichi.cz/anime/daemons-of-the-shadow-realm-hxj32",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795268658555
+      "checked_at_ms": 1795269376905
     },
     {
       "slug": "mao-fv7yd",
@@ -298,7 +298,7 @@
       "total_episodes": 152,
       "source_url": "https://anichi.cz/anime/renegade-immortal-ogxqp",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795268670149
+      "checked_at_ms": 1795269528423
     },
     {
       "slug": "lightspeed-electroid-albegas-mhhm2",
@@ -784,6 +784,35 @@
       ],
       "source_url": "https://anichi.cz/watch/hayate-the-combat-butler-wqczo/ep-1",
       "checked_at_ms": 1795269139288
+    },
+    {
+      "slug": "sparks-of-tomorrow-a28c7",
+      "title": "Sparks of Tomorrow S1",
+      "official_search_name": "Sparks of Tomorrow S1",
+      "matched_folder": "sparks-of-tomorrow",
+      "archive_path_prefix": "subtitles/sparks-of-tomorrow/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 13,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_url": "https://anichi.cz/watch/sparks-of-tomorrow-a28c7/ep-1",
+      "checked_at_ms": 1795269484337
     }
   ],
   "missing_animes": [
@@ -1234,6 +1263,35 @@
       ],
       "source_url": "https://anichi.cz/watch/hayate-the-combat-butler-wqczo/ep-1",
       "checked_at_ms": 1795269139288
+    },
+    {
+      "slug": "sparks-of-tomorrow-a28c7",
+      "title": "Sparks of Tomorrow S1",
+      "official_search_name": "Sparks of Tomorrow S1",
+      "matched_folder": "sparks-of-tomorrow",
+      "archive_path_prefix": "subtitles/sparks-of-tomorrow/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 13,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_url": "https://anichi.cz/watch/sparks-of-tomorrow-a28c7/ep-1",
+      "checked_at_ms": 1795269484337
     }
   ]
 }
