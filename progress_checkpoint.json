@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 3137,
+  "uploaded_episodes": 3138,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:16:50.368034+00:00",
+  "updated_at": "2026-11-21T12:25:03.058730+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -85,6 +85,7 @@
     "romelia-war-chronicle-kontm",
     "sasaki-and-peeps-season-2-6ri4s",
     "seeing-double-ufj0o",
+    "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-ang96",
     "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
     "smoking-behind-the-supermarket-with-you-e086a",
     "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee",
@@ -214,6 +215,7 @@
     "romelia-war-chronicle-kontm",
     "sasaki-and-peeps-season-2-6ri4s",
     "seeing-double-ufj0o",
+    "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-ang96",
     "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
     "smoking-behind-the-supermarket-with-you-e086a",
     "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee",
@@ -290,7 +292,6 @@
     "scott-pilgrim-takes-off-k7nrs": 4,
     "shiawase-sou-no-okojo-san-dmpdp": 5,
     "shiguang-dailiren-iii": 4,
-    "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-ang96": 4,
     "soar-high-isami-lmfmm": 4,
     "star-detective-precure-jjsd0": 3,
     "stitch-yf7hn": 4,
@@ -2964,6 +2965,9 @@
       4,
       7,
       9
+    ],
+    "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-ang96": [
+      1
     ],
     "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9": [
       1,
