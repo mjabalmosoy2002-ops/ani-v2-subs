@@ -1,11 +1,12 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "last_page": 1,
   "uploaded_episodes": 0,
   "skipped_existing": 0,
-  "updated_at": "2026-11-21T07:05:50.103549+00:00",
-  "note": "Reset all saved progress/state files while preserving protected subtitles archive",
+  "updated_at_ms": 1795249307805,
+  "note": "Safe reset of checkpoint & missing list only (subtitles archive untouched)",
+  "in_progress_animes": {},
+  "uploaded_episodes_by_slug": {},
   "completed_animes": [],
-  "processed_slugs": [],
-  "retry_pending_slugs": []
+  "processed_slugs": []
 }
