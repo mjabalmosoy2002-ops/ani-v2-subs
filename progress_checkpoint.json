@@ -1,13 +1,14 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 1849,
+  "uploaded_episodes": 1892,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:03:57.439798+00:00",
+  "updated_at": "2026-11-21T12:05:41.895180+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
     "a-tale-of-the-secret-saint-z50ms",
+    "a-wild-last-boss-appeared-season-2-vuehs",
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "aoashi-2nd-season",
     "aoki-denshou-welsh-shedar-ri0vi",
@@ -17,6 +18,7 @@
     "battle-spirits-re-zekkai-no-ku-thbod",
     "black-clover-season-2",
     "blue-box-season-2",
+    "cardfight-vanguard-divinez-parallactic-clash-a50nl",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
     "chitose-is-in-the-ramune-bottle-part-2-q6hus",
     "choujun-choujou-senpai-gouba",
@@ -39,6 +41,7 @@
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7",
+    "horror-collector-mjlir",
     "hotel-inhumans-season-2-u4pgt",
     "i-m-dating-a-dark-summoner-wfo1x",
     "i-m-looking-for-a-zombie-4go9p",
@@ -51,6 +54,7 @@
     "kirarin-revolution-c59ge",
     "legendary-brave-da-garn-yjwey",
     "magic-knight-rayearth-2026-hurbe",
+    "magicalexplorer-49d6g",
     "mahou-shoujo-ikusei-keikaku-restart-tpssv",
     "maomao-no-hitorigoto-2nd-season-invr3",
     "mebius-dust-a698c",
@@ -66,6 +70,7 @@
     "parasite-dolls-abk28",
     "psyren-wmsqi",
     "quiet-please-cst6b",
+    "ranma-1-2-2024-season-3-jmxy2",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "red-river-993eb",
     "rilakkuma-qvmgp",
@@ -109,6 +114,7 @@
     "wellber-no-monogatari-sisters-of-wellber-ijkhp",
     "with-vengeance-sincerely-your-broken-saintess-season-2-nq8n3",
     "world-is-dancing",
+    "wounded-man-nvhpj",
     "you-and-i-are-polar-opposites-season-2-24a37",
     "youjo-senki-ii",
     "youjo-shenki-cd9f0"
@@ -117,6 +123,7 @@
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
     "a-tale-of-the-secret-saint-z50ms",
+    "a-wild-last-boss-appeared-season-2-vuehs",
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "aoashi-2nd-season",
     "aoki-denshou-welsh-shedar-ri0vi",
@@ -126,6 +133,7 @@
     "battle-spirits-re-zekkai-no-ku-thbod",
     "black-clover-season-2",
     "blue-box-season-2",
+    "cardfight-vanguard-divinez-parallactic-clash-a50nl",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
     "chitose-is-in-the-ramune-bottle-part-2-q6hus",
     "choujun-choujou-senpai-gouba",
@@ -150,6 +158,7 @@
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7",
+    "horror-collector-mjlir",
     "hotel-inhumans-season-2-u4pgt",
     "i-m-dating-a-dark-summoner-wfo1x",
     "i-m-looking-for-a-zombie-4go9p",
@@ -162,6 +171,7 @@
     "kirarin-revolution-c59ge",
     "legendary-brave-da-garn-yjwey",
     "magic-knight-rayearth-2026-hurbe",
+    "magicalexplorer-49d6g",
     "mahou-shoujo-ikusei-keikaku-restart-tpssv",
     "maomao-no-hitorigoto-2nd-season-invr3",
     "mebius-dust-a698c",
@@ -177,6 +187,7 @@
     "parasite-dolls-abk28",
     "psyren-wmsqi",
     "quiet-please-cst6b",
+    "ranma-1-2-2024-season-3-jmxy2",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "red-river-993eb",
     "rilakkuma-qvmgp",
@@ -221,18 +232,17 @@
     "white-cat-legend-season-3-opvqj",
     "with-vengeance-sincerely-your-broken-saintess-season-2-nq8n3",
     "world-is-dancing",
+    "wounded-man-nvhpj",
     "you-and-i-are-polar-opposites-season-2-24a37",
     "youjo-senki-ii",
     "youjo-shenki-cd9f0"
   ],
   "in_progress_animes": {
-    "a-wild-last-boss-appeared-season-2-vuehs": 4,
     "ace-of-diamond-ova-wubtw": 4,
     "be-forever-yamato-rebel-3199-1z1pt": 3,
     "beyblade-x-aj6fn": 1,
     "beyond-time-s-gaze-2nd-season-t9pzl": 4,
     "bleach-thousand-year-blood-war-the-calamity-iptkn": 8,
-    "cardfight-vanguard-divinez-parallactic-clash-a50nl": 4,
     "case-closed-w8ehk": 4,
     "chocotto-sister-ky3qh": 8,
     "daemons-of-the-shadow-realm-hxj32": 10,
@@ -240,13 +250,11 @@
     "garzey-s-wing-hisu2": 3,
     "hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara-ecfkj": 3,
     "hatenkou-yugi-ussoz": 6,
-    "horror-collector-mjlir": 3,
     "isekai-office-worker-the-other-world-s-books-depend-on-the-bean-counter-i-let-my-thoughts-wander-gvtbp": 4,
     "kaitou-tenshi-twin-angel-bvysb": 4,
     "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95": 3,
     "koupen-chan-ln1xa": 3,
     "kusuriya-no-hitorigoto-3rd-season": 1,
-    "magicalexplorer-49d6g": 3,
     "mao-fv7yd": 11,
     "musha-knight-commando-sd-gundam-emergency-sortie-psvuu": 10,
     "overgeared-rah7b": 3,
@@ -254,7 +262,6 @@
     "pokemon-to-be-a-pokemon-master-bcafm": 7,
     "punirunes-puni-4-qxmzq": 3,
     "raised-by-demons-panda-li-r3lzo": 4,
-    "ranma-1-2-2024-season-3-jmxy2": 3,
     "re-zero-starting-life-in-another-world-season-4-4hk9h": 9,
     "renegade-immortal-ogxqp": 10,
     "romelia-war-chronicle-kontm": 4,
@@ -269,7 +276,6 @@
     "the-exiled-heavy-knight-knows-how-to-game-the-system": 1,
     "ushiro-no-shoumen-kamui-san-1f2b5": 5,
     "wild-knights-gulkeeva-yowia": 3,
-    "wounded-man-nvhpj": 4,
     "yuu-gi-ou-go-rush-h8gbw": 9
   },
   "uploaded_episodes_by_slug": {
@@ -306,6 +312,16 @@
       7
     ],
     "a-tale-of-the-secret-saint-z50ms": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "a-wild-last-boss-appeared-season-2-vuehs": [
       1,
       2,
       3,
@@ -562,6 +578,18 @@
       4,
       5,
       6
+    ],
+    "cardfight-vanguard-divinez-parallactic-clash-a50nl": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
     ],
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h": [
       1,
@@ -875,6 +903,14 @@
       6,
       7
     ],
+    "horror-collector-mjlir": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "hotel-inhumans-season-2-u4pgt": [
       1,
       2,
@@ -1079,6 +1115,16 @@
       5,
       6,
       7
+    ],
+    "magicalexplorer-49d6g": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
     ],
     "mao-fv7yd": [
       1,
@@ -1411,7 +1457,11 @@
     ],
     "punirunes-puni-4-qxmzq": [
       1,
-      3
+      2,
+      3,
+      5,
+      6,
+      7
     ],
     "quiet-please-cst6b": [
       1,
@@ -1429,6 +1479,15 @@
       6,
       7,
       8
+    ],
+    "ranma-1-2-2024-season-3-jmxy2": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "re-zero-starting-life-in-another-world-season-4-4hk9h": [
       1,
