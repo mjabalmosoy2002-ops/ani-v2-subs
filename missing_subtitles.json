@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:14:42.693584+00:00",
+  "updated_at": "2026-11-21T12:16:50.368034+00:00",
   "summary": {
-    "partial_missing_anime": 17,
-    "completely_missing_anime": 2
+    "partial_missing_anime": 20,
+    "completely_missing_anime": 4
   },
   "partial_missing": [
     {
@@ -26,7 +26,7 @@
       "total_episodes": 139,
       "source_url": "https://anichi.cz/anime/beyblade-x-aj6fn",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795262444560
+      "checked_at_ms": 1795263303856
     },
     {
       "slug": "pokemon-horizons-the-series-2obfr",
@@ -44,7 +44,7 @@
       "total_episodes": 158,
       "source_url": "https://anichi.cz/anime/pokemon-horizons-the-series-2obfr",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795262519865
+      "checked_at_ms": 1795263300239
     },
     {
       "slug": "the-classroom-of-a-black-cat-and-a-witch-bavvd",
@@ -61,7 +61,7 @@
       "total_episodes": 24,
       "source_url": "https://anichi.cz/anime/the-classroom-of-a-black-cat-and-a-witch-bavvd",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795262602444
+      "checked_at_ms": 1795263309916
     },
     {
       "slug": "koupen-chan-ln1xa",
@@ -73,13 +73,30 @@
       "status": "partial_missing",
       "missing_episodes": [
         34,
-        46
+        46,
+        66,
+        67,
+        68,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        82,
+        83,
+        84
       ],
       "available_episodes_count": 48,
       "total_episodes": 73,
       "source_url": "https://anichi.cz/anime/koupen-chan-ln1xa",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795262645032
+      "checked_at_ms": 1795263323761
     },
     {
       "slug": "star-detective-precure-jjsd0",
@@ -96,7 +113,7 @@
       "total_episodes": 41,
       "source_url": "https://anichi.cz/anime/star-detective-precure-jjsd0",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795262645890
+      "checked_at_ms": 1795263315829
     },
     {
       "slug": "shiguang-dailiren-iii",
@@ -342,6 +359,87 @@
       "source_url": "https://anichi.cz/anime/case-closed-w8ehk",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795263281105
+    },
+    {
+      "slug": "renegade-immortal-ogxqp",
+      "title": "Renegade Immortal S1",
+      "official_search_name": "Renegade Immortal S1",
+      "matched_folder": "renegade-immortal",
+      "archive_path_prefix": "subtitles/renegade-immortal/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        76,
+        79,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        94,
+        96,
+        98,
+        138,
+        139
+      ],
+      "available_episodes_count": 120,
+      "total_episodes": 152,
+      "source_url": "https://anichi.cz/anime/renegade-immortal-ogxqp",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263285812
+    },
+    {
+      "slug": "punirunes-puni-4-qxmzq",
+      "title": "Punirunes Puni 4 S4",
+      "official_search_name": "Punirunes Puni 4 S4",
+      "matched_folder": "punirunes-puni",
+      "archive_path_prefix": "subtitles/punirunes-puni/s4/",
+      "season": 4,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4
+      ],
+      "available_episodes_count": 6,
+      "total_episodes": 7,
+      "source_url": "https://anichi.cz/anime/punirunes-puni-4-qxmzq",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263323152
+    },
+    {
+      "slug": "be-forever-yamato-rebel-3199-1z1pt",
+      "title": "Be Forever Yamato: Rebel 3199 S1",
+      "official_search_name": "Be Forever Yamato: Rebel 3199 S1",
+      "matched_folder": "be-forever-yamato-rebel-3199",
+      "archive_path_prefix": "subtitles/be-forever-yamato-rebel-3199/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        19,
+        25,
+        26
+      ],
+      "available_episodes_count": 23,
+      "total_episodes": 26,
+      "source_url": "https://anichi.cz/anime/be-forever-yamato-rebel-3199-1z1pt",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263328371
     }
   ],
   "completely_missing": [
@@ -382,6 +480,60 @@
       ],
       "source_url": "https://anichi.cz/watch/musha-knight-commando-sd-gundam-emergency-sortie-psvuu/ep-1",
       "checked_at_ms": 1795263259836
+    },
+    {
+      "slug": "tactical-roar-6bnye",
+      "title": "Tactical Roar S1",
+      "official_search_name": "Tactical Roar S1",
+      "matched_folder": "tactical-roar",
+      "archive_path_prefix": "subtitles/tactical-roar/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 11,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_url": "https://anichi.cz/watch/tactical-roar-6bnye/ep-1",
+      "checked_at_ms": 1795263372731
+    },
+    {
+      "slug": "legend-of-basara-wbauj",
+      "title": "Legend of Basara S1",
+      "official_search_name": "Legend of Basara S1",
+      "matched_folder": "legend-of-basara",
+      "archive_path_prefix": "subtitles/legend-of-basara/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 11,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_url": "https://anichi.cz/watch/legend-of-basara-wbauj/ep-1",
+      "checked_at_ms": 1795263410173
     }
   ],
   "missing_animes": [
@@ -422,6 +574,60 @@
       ],
       "source_url": "https://anichi.cz/watch/musha-knight-commando-sd-gundam-emergency-sortie-psvuu/ep-1",
       "checked_at_ms": 1795263259836
+    },
+    {
+      "slug": "tactical-roar-6bnye",
+      "title": "Tactical Roar S1",
+      "official_search_name": "Tactical Roar S1",
+      "matched_folder": "tactical-roar",
+      "archive_path_prefix": "subtitles/tactical-roar/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 11,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_url": "https://anichi.cz/watch/tactical-roar-6bnye/ep-1",
+      "checked_at_ms": 1795263372731
+    },
+    {
+      "slug": "legend-of-basara-wbauj",
+      "title": "Legend of Basara S1",
+      "official_search_name": "Legend of Basara S1",
+      "matched_folder": "legend-of-basara",
+      "archive_path_prefix": "subtitles/legend-of-basara/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 11,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source_url": "https://anichi.cz/watch/legend-of-basara-wbauj/ep-1",
+      "checked_at_ms": 1795263410173
     }
   ]
 }
