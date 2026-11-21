@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:31:41.765365+00:00",
+  "updated_at": "2026-11-21T11:34:44.491073+00:00",
   "summary": {
-    "partial_missing_anime": 12,
-    "completely_missing_anime": 7
+    "partial_missing_anime": 14,
+    "completely_missing_anime": 9
   },
   "partial_missing": [
     {
@@ -276,6 +276,41 @@
       "source_url": "https://anichi.cz/anime/beyblade-x-aj6fn",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795260559499
+    },
+    {
+      "slug": "star-detective-precure-jjsd0",
+      "title": "Star Detective Precure! S1",
+      "official_search_name": "Star Detective Precure! S1",
+      "matched_folder": "star-detective-precure",
+      "archive_path_prefix": "subtitles/star-detective-precure/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        11
+      ],
+      "available_episodes_count": 40,
+      "total_episodes": 41,
+      "source_url": "https://anichi.cz/anime/star-detective-precure-jjsd0",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260819233
+    },
+    {
+      "slug": "koupen-chan-ln1xa",
+      "title": "Koupen Chan S1",
+      "official_search_name": "Koupen Chan S1",
+      "matched_folder": "koupen-chan",
+      "archive_path_prefix": "subtitles/koupen-chan/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        34,
+        46
+      ],
+      "available_episodes_count": 48,
+      "total_episodes": 73,
+      "source_url": "https://anichi.cz/anime/koupen-chan-ln1xa",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260849598
     }
   ],
   "completely_missing": [
@@ -571,6 +606,55 @@
       ],
       "source_url": "https://anichi.cz/watch/kirarin-revolution-c59ge/ep-1",
       "checked_at_ms": 1795260663873
+    },
+    {
+      "slug": "cluster-edge-cqc9n",
+      "title": "Cluster Edge S1",
+      "official_search_name": "Cluster Edge S1",
+      "matched_folder": "cluster-edge",
+      "archive_path_prefix": "subtitles/cluster-edge/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 10,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "source_url": "https://anichi.cz/watch/cluster-edge-cqc9n/ep-1",
+      "checked_at_ms": 1795260770293
+    },
+    {
+      "slug": "there-is-also-a-hole-in-the-student-organization-l9gqz",
+      "title": "There Is Also a Hole in the Student Organization! S1",
+      "official_search_name": "There Is Also a Hole in the Student Organization! S1",
+      "matched_folder": "there-is-also-a-hole-in-the-student-organization",
+      "archive_path_prefix": "subtitles/there-is-also-a-hole-in-the-student-organization/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 7,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1",
+      "checked_at_ms": 1795260823870
     }
   ],
   "missing_animes": [
@@ -866,6 +950,55 @@
       ],
       "source_url": "https://anichi.cz/watch/kirarin-revolution-c59ge/ep-1",
       "checked_at_ms": 1795260663873
+    },
+    {
+      "slug": "cluster-edge-cqc9n",
+      "title": "Cluster Edge S1",
+      "official_search_name": "Cluster Edge S1",
+      "matched_folder": "cluster-edge",
+      "archive_path_prefix": "subtitles/cluster-edge/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 10,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "source_url": "https://anichi.cz/watch/cluster-edge-cqc9n/ep-1",
+      "checked_at_ms": 1795260770293
+    },
+    {
+      "slug": "there-is-also-a-hole-in-the-student-organization-l9gqz",
+      "title": "There Is Also a Hole in the Student Organization! S1",
+      "official_search_name": "There Is Also a Hole in the Student Organization! S1",
+      "matched_folder": "there-is-also-a-hole-in-the-student-organization",
+      "archive_path_prefix": "subtitles/there-is-also-a-hole-in-the-student-organization/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 7,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1",
+      "checked_at_ms": 1795260823870
     }
   ]
 }
