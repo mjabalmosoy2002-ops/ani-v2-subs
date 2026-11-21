@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:11:54.105740+00:00",
+  "updated_at": "2026-11-21T11:20:25.482212+00:00",
   "summary": {
-    "partial_missing_anime": 2,
+    "partial_missing_anime": 4,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -43,6 +43,59 @@
       "source_url": "https://anichi.cz/anime/the-classroom-of-a-black-cat-and-a-witch-bavvd",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795259479657
+    },
+    {
+      "slug": "case-closed-w8ehk",
+      "title": "Case Closed S1",
+      "official_search_name": "Case Closed S1",
+      "matched_folder": "case-closed",
+      "archive_path_prefix": "subtitles/case-closed/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        212,
+        278,
+        280,
+        353,
+        361,
+        435,
+        439,
+        441,
+        442,
+        446,
+        632,
+        717,
+        1199,
+        1200,
+        1201
+      ],
+      "available_episodes_count": 1202,
+      "total_episodes": 1220,
+      "source_url": "https://anichi.cz/anime/case-closed-w8ehk",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795259959496
+    },
+    {
+      "slug": "shiguang-dailiren-iii",
+      "title": "Shiguang Dailiren III S3",
+      "official_search_name": "Shiguang Dailiren III S3",
+      "matched_folder": "shiguang-dailiren",
+      "archive_path_prefix": "subtitles/shiguang-dailiren/s3/",
+      "season": 3,
+      "status": "partial_missing",
+      "missing_episodes": [
+        5,
+        6,
+        8,
+        10,
+        11,
+        12
+      ],
+      "available_episodes_count": 6,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/shiguang-dailiren-iii",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795259972140
     }
   ],
   "completely_missing": [],
