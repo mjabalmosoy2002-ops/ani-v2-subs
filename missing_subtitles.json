@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:14:36.511419+00:00",
+  "updated_at": "2026-11-21T12:14:42.693584+00:00",
   "summary": {
-    "partial_missing_anime": 16,
+    "partial_missing_anime": 17,
     "completely_missing_anime": 2
   },
   "partial_missing": [
@@ -306,6 +306,42 @@
       "source_url": "https://anichi.cz/anime/mao-fv7yd",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795263266734
+    },
+    {
+      "slug": "case-closed-w8ehk",
+      "title": "Case Closed S1",
+      "official_search_name": "Case Closed S1",
+      "matched_folder": "case-closed",
+      "archive_path_prefix": "subtitles/case-closed/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        212,
+        292,
+        299,
+        302,
+        317,
+        318,
+        319,
+        328,
+        330,
+        404,
+        407,
+        422,
+        435,
+        632,
+        635,
+        736,
+        752,
+        1199,
+        1200,
+        1201
+      ],
+      "available_episodes_count": 1177,
+      "total_episodes": 1220,
+      "source_url": "https://anichi.cz/anime/case-closed-w8ehk",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263281105
     }
   ],
   "completely_missing": [

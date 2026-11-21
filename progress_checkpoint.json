@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 3104,
+  "uploaded_episodes": 3129,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:14:36.511419+00:00",
+  "updated_at": "2026-11-21T12:14:42.693584+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -74,6 +74,7 @@
     "parasite-dolls-abk28",
     "psyren-wmsqi",
     "quiet-please-cst6b",
+    "raised-by-demons-panda-li-r3lzo",
     "ranma-1-2-2024-season-3-jmxy2",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "red-river-993eb",
@@ -197,6 +198,7 @@
     "parasite-dolls-abk28",
     "psyren-wmsqi",
     "quiet-please-cst6b",
+    "raised-by-demons-panda-li-r3lzo",
     "ranma-1-2-2024-season-3-jmxy2",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "red-river-993eb",
@@ -269,7 +271,6 @@
     "pokemon-horizons-the-series-2obfr": 1,
     "pokemon-to-be-a-pokemon-master-bcafm": 7,
     "punirunes-puni-4-qxmzq": 3,
-    "raised-by-demons-panda-li-r3lzo": 4,
     "re-zero-starting-life-in-another-world-season-4-4hk9h": 9,
     "renegade-immortal-ogxqp": 10,
     "shiawase-sou-no-okojo-san-dmpdp": 5,
@@ -2694,7 +2695,17 @@
       5,
       6,
       7,
-      8
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
     ],
     "ranma-1-2-2024-season-3-jmxy2": [
       1,
@@ -2757,11 +2768,13 @@
     ],
     "renegade-immortal-ogxqp": [
       1,
+      2,
       3,
       4,
       5,
       6,
       7,
+      8,
       9,
       10,
       11,
@@ -2902,6 +2915,12 @@
     "shiawase-sou-no-okojo-san-dmpdp": [
       1,
       2,
+      4,
+      5,
+      7,
+      8,
+      11,
+      12,
       15,
       16,
       19,
@@ -2959,6 +2978,7 @@
       7
     ],
     "soar-high-isami-lmfmm": [
+      8,
       9
     ],
     "space-warrior-baldios-7w7uq": [
@@ -3060,6 +3080,14 @@
       7,
       8,
       9
+    ],
+    "stitch-yf7hn": [
+      1,
+      20,
+      21,
+      22,
+      23,
+      24
     ],
     "suikoden-the-anime-gowvw": [
       1,
