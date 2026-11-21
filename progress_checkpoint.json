@@ -1,13 +1,14 @@
 {
   "schema_version": 2,
   "last_page": 2,
-  "uploaded_episodes": 107,
+  "uploaded_episodes": 135,
   "skipped_existing": 0,
-  "updated_at": "2026-11-21T22:50:21.075511+00:00",
+  "updated_at": "2026-11-21T22:51:05.545612+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "devils-crest-dk12t",
     "dreamland-z8wn3",
+    "fx-fighter-kurumi-chan-lwljc",
     "horror-collector-mjlir",
     "i-m-looking-for-a-zombie-4go9p",
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
@@ -16,11 +17,13 @@
     "romelia-war-chronicle-kontm",
     "spare-me-great-lord-season-3-qvvwj",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
+    "the-ramparts-of-ice-season-2-qgjev",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "the-vermilion-mask-8msvh"
   ],
   "processed_slugs": [
     "a-good-day-to-ascend-dwvdr",
+    "a-returner-s-magic-should-be-special-season-2",
     "a-tale-of-the-secret-saint-z50ms",
     "a-wild-last-boss-appeared-season-2-vuehs",
     "aoki-denshou-welsh-shedar-ri0vi",
@@ -29,8 +32,10 @@
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
     "case-closed-w8ehk",
     "devils-crest-dk12t",
+    "dragon-ball-super-beerus-xtjlb",
     "dreamland-z8wn3",
     "firefly-wedding-vkwqm",
+    "fx-fighter-kurumi-chan-lwljc",
     "horror-collector-mjlir",
     "i-m-looking-for-a-zombie-4go9p",
     "ingoku-danchi-deviant-s-apartment-complex-shvpb",
@@ -39,6 +44,7 @@
     "kusuriya-no-hitorigoto-3rd-season",
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "magicalexplorer-49d6g",
+    "nia-liston-the-merciless-maiden-wjjhe",
     "pokemon-horizons-the-series-2obfr",
     "ranma-1-2-2024-season-3-jmxy2",
     "rilakkuma-qvmgp",
@@ -47,7 +53,9 @@
     "spare-me-great-lord-season-3-qvvwj",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
     "tetsuryou-meet-with-tetsudou-musume-pyia6",
+    "the-exiled-heavy-knight-knows-how-to-game-the-system",
     "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
+    "the-ramparts-of-ice-season-2-qgjev",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "the-vermilion-mask-8msvh",
     "there-is-also-a-hole-in-the-student-organization-l9gqz",
@@ -55,6 +63,7 @@
     "tokyo-revengers-war-of-the-three-titan-arc-i9anq",
     "tougen-anki-nikko-kegon-falls-arc-n3rlf",
     "vertex-force-sswex",
-    "with-vengeance-sincerely-your-broken-saintess-season-2-nq8n3"
+    "with-vengeance-sincerely-your-broken-saintess-season-2-nq8n3",
+    "world-is-dancing"
   ]
 }
