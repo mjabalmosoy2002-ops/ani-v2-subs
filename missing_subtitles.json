@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at_ms": 1795259023840,
+  "updated_at_ms": 1795259033582,
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 1,
+    "completely_missing_anime": 2,
     "total_missing_episodes_in_partial": 0
   },
   "partial_missing": [],
@@ -23,6 +23,22 @@
       "source_url": "https://anichi.cz/watch/gambler-densetsu-tetsuya-yy1ng/ep-1",
       "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية (الأرشيف: subtitles/gambler-densetsu-tetsuya/s1/ | اسم البحث الرسمي: Gambler Densetsu Tetsuya S1)",
       "checked_at_ms": 1795258986712
+    },
+    {
+      "slug": "white-cat-legend-season-3-opvqj",
+      "title": "White Cat Legend Season 3",
+      "official_search_name": "White Cat Legend Season 3",
+      "matched_folder": "white-cat-legend",
+      "archive_path_prefix": "subtitles/white-cat-legend/s3/",
+      "season": 3,
+      "status": "completely_missing",
+      "missing_episodes": [1, 2, 3, 4, 5, 6, 7, 8],
+      "missing_episodes_count": 8,
+      "available_episodes_count": 0,
+      "total_episodes": 8,
+      "source_url": "https://anichi.cz/watch/white-cat-legend-season-3-opvqj/ep-1",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية (الأرشيف: subtitles/white-cat-legend/s3/ | اسم البحث الرسمي: White Cat Legend Season 3)",
+      "checked_at_ms": 1795259031607
     }
   ],
   "missing_animes": [
@@ -41,6 +57,22 @@
       "source_url": "https://anichi.cz/watch/gambler-densetsu-tetsuya-yy1ng/ep-1",
       "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية (الأرشيف: subtitles/gambler-densetsu-tetsuya/s1/ | اسم البحث الرسمي: Gambler Densetsu Tetsuya S1)",
       "checked_at_ms": 1795258986712
+    },
+    {
+      "slug": "white-cat-legend-season-3-opvqj",
+      "title": "White Cat Legend Season 3",
+      "official_search_name": "White Cat Legend Season 3",
+      "matched_folder": "white-cat-legend",
+      "archive_path_prefix": "subtitles/white-cat-legend/s3/",
+      "season": 3,
+      "status": "completely_missing",
+      "missing_episodes": [1, 2, 3, 4, 5, 6, 7, 8],
+      "missing_episodes_count": 8,
+      "available_episodes_count": 0,
+      "total_episodes": 8,
+      "source_url": "https://anichi.cz/watch/white-cat-legend-season-3-opvqj/ep-1",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية (الأرشيف: subtitles/white-cat-legend/s3/ | اسم البحث الرسمي: White Cat Legend Season 3)",
+      "checked_at_ms": 1795259031607
     }
   ]
 }
