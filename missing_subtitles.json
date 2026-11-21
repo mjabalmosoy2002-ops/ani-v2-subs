@@ -1,13 +1,29 @@
 {
   "schema_version": 2,
-  "updated_at_ms": 1795259033582,
+  "updated_at_ms": 1795259042000,
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 2,
+    "completely_missing_anime": 3,
     "total_missing_episodes_in_partial": 0
   },
   "partial_missing": [],
   "completely_missing": [
+    {
+      "slug": "fate-grand-order-you-ve-lost-ritsuka-fujimaru-iqy54",
+      "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru S1",
+      "official_search_name": "Fate/Grand Order: You've Lost Ritsuka Fujimaru S1",
+      "matched_folder": "fate-grand-order-you-ve-lost-ritsuka-fujimaru",
+      "archive_path_prefix": "subtitles/fate-grand-order-you-ve-lost-ritsuka-fujimaru/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "missing_episodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "missing_episodes_count": 29,
+      "available_episodes_count": 0,
+      "total_episodes": 29,
+      "source_url": "https://anichi.cz/watch/fate-grand-order-you-ve-lost-ritsuka-fujimaru-iqy54/ep-1",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية (الأرشيف: subtitles/fate-grand-order-you-ve-lost-ritsuka-fujimaru/s1/ | اسم البحث الرسمي: Fate/Grand Order: You've Lost Ritsuka Fujimaru S1)",
+      "checked_at_ms": 1795259039995
+    },
     {
       "slug": "gambler-densetsu-tetsuya-yy1ng",
       "title": "Gambler Densetsu Tetsuya S1",
@@ -42,6 +58,22 @@
     }
   ],
   "missing_animes": [
+    {
+      "slug": "fate-grand-order-you-ve-lost-ritsuka-fujimaru-iqy54",
+      "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru S1",
+      "official_search_name": "Fate/Grand Order: You've Lost Ritsuka Fujimaru S1",
+      "matched_folder": "fate-grand-order-you-ve-lost-ritsuka-fujimaru",
+      "archive_path_prefix": "subtitles/fate-grand-order-you-ve-lost-ritsuka-fujimaru/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "missing_episodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "missing_episodes_count": 29,
+      "available_episodes_count": 0,
+      "total_episodes": 29,
+      "source_url": "https://anichi.cz/watch/fate-grand-order-you-ve-lost-ritsuka-fujimaru-iqy54/ep-1",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية (الأرشيف: subtitles/fate-grand-order-you-ve-lost-ritsuka-fujimaru/s1/ | اسم البحث الرسمي: Fate/Grand Order: You've Lost Ritsuka Fujimaru S1)",
+      "checked_at_ms": 1795259039995
+    },
     {
       "slug": "gambler-densetsu-tetsuya-yy1ng",
       "title": "Gambler Densetsu Tetsuya S1",
