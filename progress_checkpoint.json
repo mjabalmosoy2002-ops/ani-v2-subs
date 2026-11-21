@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 69,
+  "uploaded_episodes": 39,
   "skipped_existing": 0,
-  "updated_at": "2026-11-21T22:30:57.724762+00:00",
+  "updated_at": "2026-11-21T22:45:28.216945+00:00",
   "completed_animes": [
     "dreamland-z8wn3",
     "horror-collector-mjlir",
@@ -11,18 +11,29 @@
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "magicalexplorer-49d6g",
     "ranma-1-2-2024-season-3-jmxy2",
+    "romelia-war-chronicle-kontm",
+    "spare-me-great-lord-season-3-qvvwj",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc"
   ],
   "processed_slugs": [
+    "a-tale-of-the-secret-saint-z50ms",
+    "a-wild-last-boss-appeared-season-2-vuehs",
     "black-clover-season-2",
+    "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
+    "case-closed-w8ehk",
     "dreamland-z8wn3",
     "horror-collector-mjlir",
     "i-m-looking-for-a-zombie-4go9p",
     "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "magicalexplorer-49d6g",
+    "pokemon-horizons-the-series-2obfr",
     "ranma-1-2-2024-season-3-jmxy2",
+    "rilakkuma-qvmgp",
+    "romelia-war-chronicle-kontm",
+    "spare-me-great-lord-season-3-qvvwj",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
-    "there-is-also-a-hole-in-the-student-organization-l9gqz"
+    "there-is-also-a-hole-in-the-student-organization-l9gqz",
+    "vertex-force-sswex"
   ]
 }
