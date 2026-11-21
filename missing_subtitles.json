@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:01:59.277722+00:00",
+  "updated_at": "2026-11-21T12:02:59.870264+00:00",
   "summary": {
-    "partial_missing_anime": 1,
+    "partial_missing_anime": 2,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -27,6 +27,24 @@
       "source_url": "https://anichi.cz/anime/beyblade-x-aj6fn",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795262444560
+    },
+    {
+      "slug": "pokemon-horizons-the-series-2obfr",
+      "title": "Pokémon Horizons: The Series S1",
+      "official_search_name": "Pokémon Horizons: The Series S1",
+      "matched_folder": "pokemon-horizons-the-series",
+      "archive_path_prefix": "subtitles/pokemon-horizons-the-series/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        135,
+        136
+      ],
+      "available_episodes_count": 145,
+      "total_episodes": 158,
+      "source_url": "https://anichi.cz/anime/pokemon-horizons-the-series-2obfr",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795262519865
     }
   ],
   "completely_missing": [],

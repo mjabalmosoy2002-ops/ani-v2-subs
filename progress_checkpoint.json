@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 1759,
+  "uploaded_episodes": 1774,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T12:01:59.277722+00:00",
+  "updated_at": "2026-11-21T12:02:59.870264+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -32,6 +32,7 @@
     "firefly-wedding-vkwqm",
     "flaming-dodgeball-girl-danko-394e2",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
+    "fx-fighter-kurumi-chan-lwljc",
     "golden-curse-daoau",
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
@@ -81,6 +82,7 @@
     "the-elusive-samurai-season-2-0oowo",
     "the-eternal-supreme-li-yunxiao-igcwd",
     "the-five-star-stories-xfqjg",
+    "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf",
@@ -133,6 +135,7 @@
     "firefly-wedding-vkwqm",
     "flaming-dodgeball-girl-danko-394e2",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
+    "fx-fighter-kurumi-chan-lwljc",
     "gambler-densetsu-tetsuya-yy1ng",
     "golden-curse-daoau",
     "great-dangaioh-wsxxs",
@@ -183,6 +186,7 @@
     "the-elusive-samurai-season-2-0oowo",
     "the-eternal-supreme-li-yunxiao-igcwd",
     "the-five-star-stories-xfqjg",
+    "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf",
@@ -221,7 +225,6 @@
     "daemons-of-the-shadow-realm-hxj32": 10,
     "digimon-beatbreak-u2o7s": 9,
     "dreamland-z8wn3": 3,
-    "fx-fighter-kurumi-chan-lwljc": 1,
     "garzey-s-wing-hisu2": 3,
     "hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara-ecfkj": 3,
     "hatenkou-yugi-ussoz": 6,
@@ -256,7 +259,6 @@
     "tayutama-kiss-on-my-deity-n81to": 8,
     "the-classroom-of-a-black-cat-and-a-witch-bavvd": 2,
     "the-exiled-heavy-knight-knows-how-to-game-the-system": 1,
-    "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx": 1,
     "the-ramparts-of-ice-season-2-qgjev": 1,
     "ushiro-no-shoumen-kamui-san-1f2b5": 5,
     "wild-knights-gulkeeva-yowia": 3,
@@ -749,6 +751,16 @@
       4,
       5,
       6
+    ],
+    "fx-fighter-kurumi-chan-lwljc": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
     ],
     "garzey-s-wing-hisu2": [
       2,
@@ -1892,6 +1904,15 @@
     ],
     "the-five-star-stories-xfqjg": [
       1
+    ],
+    "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin": [
       1,
