@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:05:57.266043+00:00",
+  "updated_at": "2026-11-21T12:14:09.831276+00:00",
   "summary": {
-    "partial_missing_anime": 5,
+    "partial_missing_anime": 6,
     "completely_missing_anime": 1
   },
   "partial_missing": [
@@ -97,6 +97,28 @@
       "source_url": "https://anichi.cz/anime/star-detective-precure-jjsd0",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795262645890
+    },
+    {
+      "slug": "shiguang-dailiren-iii",
+      "title": "Shiguang Dailiren III S3",
+      "official_search_name": "Shiguang Dailiren III S3",
+      "matched_folder": "shiguang-dailiren",
+      "archive_path_prefix": "subtitles/shiguang-dailiren/s3/",
+      "season": 3,
+      "status": "partial_missing",
+      "missing_episodes": [
+        5,
+        6,
+        8,
+        10,
+        11,
+        12
+      ],
+      "available_episodes_count": 6,
+      "total_episodes": 12,
+      "source_url": "https://anichi.cz/anime/shiguang-dailiren-iii",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263219491
     }
   ],
   "completely_missing": [
