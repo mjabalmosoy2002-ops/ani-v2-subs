@@ -1,11 +1,12 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 1698,
+  "uploaded_episodes": 1759,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T11:37:17.784306+00:00",
+  "updated_at": "2026-11-21T12:01:59.277722+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
+    "a-returner-s-magic-should-be-special-season-2",
     "a-tale-of-the-secret-saint-z50ms",
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "aoashi-2nd-season",
@@ -25,11 +26,13 @@
     "dark-machine-the-animation-jt0nm",
     "devils-crest-dk12t",
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33",
+    "dragon-ball-super-beerus-xtjlb",
     "draw-this-then-die-5xdt",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "firefly-wedding-vkwqm",
     "flaming-dodgeball-girl-danko-394e2",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
+    "golden-curse-daoau",
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7",
@@ -37,6 +40,7 @@
     "i-m-dating-a-dark-summoner-wfo1x",
     "i-m-looking-for-a-zombie-4go9p",
     "ingoku-danchi-deviant-s-apartment-complex-shvpb",
+    "juuou-mujin-dandivine-nw38l",
     "kaiju-no-8-narumi-s-week-at-work-xueqa",
     "kanata-kara-9tdfw",
     "karas-euatw",
@@ -52,6 +56,7 @@
     "my-girlfriend-s-friend-6icla",
     "my-happy-marriage-special-episodes-kk6tk",
     "my-stepmother-and-stepsisters-aren-t-wicked-7aa48",
+    "nia-liston-the-merciless-maiden-wjjhe",
     "now-that-i-can-control-reality-with-a-mouse-cursor-i-m-gonna-click-away-on-the-girls-1r9ln",
     "one-piece-odmau",
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2",
@@ -101,6 +106,7 @@
   ],
   "processed_slugs": [
     "a-good-day-to-ascend-dwvdr",
+    "a-returner-s-magic-should-be-special-season-2",
     "a-tale-of-the-secret-saint-z50ms",
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "aoashi-2nd-season",
@@ -120,6 +126,7 @@
     "dark-machine-the-animation-jt0nm",
     "devils-crest-dk12t",
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33",
+    "dragon-ball-super-beerus-xtjlb",
     "draw-this-then-die-5xdt",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "fate-grand-order-you-ve-lost-ritsuka-fujimaru-iqy54",
@@ -127,6 +134,7 @@
     "flaming-dodgeball-girl-danko-394e2",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "gambler-densetsu-tetsuya-yy1ng",
+    "golden-curse-daoau",
     "great-dangaioh-wsxxs",
     "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7",
@@ -134,6 +142,7 @@
     "i-m-dating-a-dark-summoner-wfo1x",
     "i-m-looking-for-a-zombie-4go9p",
     "ingoku-danchi-deviant-s-apartment-complex-shvpb",
+    "juuou-mujin-dandivine-nw38l",
     "kaiju-no-8-narumi-s-week-at-work-xueqa",
     "kanata-kara-9tdfw",
     "karas-euatw",
@@ -149,6 +158,7 @@
     "my-girlfriend-s-friend-6icla",
     "my-happy-marriage-special-episodes-kk6tk",
     "my-stepmother-and-stepsisters-aren-t-wicked-7aa48",
+    "nia-liston-the-merciless-maiden-wjjhe",
     "now-that-i-can-control-reality-with-a-mouse-cursor-i-m-gonna-click-away-on-the-girls-1r9ln",
     "one-piece-odmau",
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2",
@@ -198,7 +208,6 @@
     "youjo-shenki-cd9f0"
   ],
   "in_progress_animes": {
-    "a-returner-s-magic-should-be-special-season-2": 1,
     "a-wild-last-boss-appeared-season-2-vuehs": 4,
     "ace-of-diamond-ova-wubtw": 4,
     "battle-spirits-re-zekkai-no-ku-thbod": 2,
@@ -211,16 +220,13 @@
     "chocotto-sister-ky3qh": 8,
     "daemons-of-the-shadow-realm-hxj32": 10,
     "digimon-beatbreak-u2o7s": 9,
-    "dragon-ball-super-beerus-xtjlb": 1,
     "dreamland-z8wn3": 3,
     "fx-fighter-kurumi-chan-lwljc": 1,
     "garzey-s-wing-hisu2": 3,
-    "golden-curse-daoau": 1,
     "hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara-ecfkj": 3,
     "hatenkou-yugi-ussoz": 6,
     "horror-collector-mjlir": 3,
     "isekai-office-worker-the-other-world-s-books-depend-on-the-bean-counter-i-let-my-thoughts-wander-gvtbp": 4,
-    "juuou-mujin-dandivine-nw38l": 1,
     "kaitou-tenshi-twin-angel-bvysb": 4,
     "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95": 3,
     "koupen-chan-ln1xa": 3,
@@ -228,7 +234,6 @@
     "magicalexplorer-49d6g": 3,
     "mao-fv7yd": 11,
     "musha-knight-commando-sd-gundam-emergency-sortie-psvuu": 10,
-    "nia-liston-the-merciless-maiden-wjjhe": 1,
     "overgeared-rah7b": 3,
     "pokemon-horizons-the-series-2obfr": 1,
     "pokemon-to-be-a-pokemon-master-bcafm": 7,
@@ -281,6 +286,15 @@
       19,
       20,
       21
+    ],
+    "a-returner-s-magic-should-be-special-season-2": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "a-tale-of-the-secret-saint-z50ms": [
       1,
@@ -674,6 +688,14 @@
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33": [
       1
     ],
+    "dragon-ball-super-beerus-xtjlb": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "draw-this-then-die-5xdt": [
       1,
       2,
@@ -731,6 +753,24 @@
     "garzey-s-wing-hisu2": [
       2,
       3
+    ],
+    "golden-curse-daoau": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
     ],
     "great-dangaioh-wsxxs": [
       1,
@@ -815,6 +855,15 @@
       10,
       11,
       12
+    ],
+    "juuou-mujin-dandivine-nw38l": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "kaiju-no-8-narumi-s-week-at-work-xueqa": [
       1,
@@ -1093,6 +1142,15 @@
       10,
       11,
       12
+    ],
+    "nia-liston-the-merciless-maiden-wjjhe": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2": [
       1,
@@ -1811,6 +1869,26 @@
       32,
       33,
       34
+    ],
+    "the-exiled-heavy-knight-knows-how-to-game-the-system": [
+      1,
+      3,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
     ],
     "the-five-star-stories-xfqjg": [
       1
