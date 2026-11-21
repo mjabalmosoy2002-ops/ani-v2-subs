@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:21:47.600700+00:00",
+  "updated_at": "2026-11-21T11:22:47.420354+00:00",
   "summary": {
-    "partial_missing_anime": 5,
+    "partial_missing_anime": 6,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -123,6 +123,24 @@
       "source_url": "https://anichi.cz/anime/ushiro-no-shoumen-kamui-san-1f2b5",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795260037464
+    },
+    {
+      "slug": "digimon-beatbreak-u2o7s",
+      "title": "Digimon Beatbreak S1",
+      "official_search_name": "Digimon Beatbreak S1",
+      "matched_folder": "digimon-beatbreak",
+      "archive_path_prefix": "subtitles/digimon-beatbreak/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        26,
+        29
+      ],
+      "available_episodes_count": 47,
+      "total_episodes": 49,
+      "source_url": "https://anichi.cz/anime/digimon-beatbreak-u2o7s",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260121401
     }
   ],
   "completely_missing": [],
