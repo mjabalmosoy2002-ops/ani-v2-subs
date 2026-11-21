@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:14:26.414746+00:00",
+  "updated_at": "2026-11-21T12:14:29.981631+00:00",
   "summary": {
-    "partial_missing_anime": 15,
+    "partial_missing_anime": 16,
     "completely_missing_anime": 2
   },
   "partial_missing": [
@@ -288,6 +288,24 @@
       "source_url": "https://anichi.cz/anime/daemons-of-the-shadow-realm-hxj32",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795263259563
+    },
+    {
+      "slug": "mao-fv7yd",
+      "title": "Mao S1",
+      "official_search_name": "Mao S1",
+      "matched_folder": "mao",
+      "archive_path_prefix": "subtitles/mao/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4,
+        6
+      ],
+      "available_episodes_count": 24,
+      "total_episodes": 26,
+      "source_url": "https://anichi.cz/anime/mao-fv7yd",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263266734
     }
   ],
   "completely_missing": [
