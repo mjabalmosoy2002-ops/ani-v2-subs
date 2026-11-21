@@ -1,0 +1,82 @@
+{
+  "schema_version": 3,
+  "last_page": 1,
+  "uploaded_episodes": 5,
+  "skipped_existing": 128,
+  "updated_at": "2026-11-21T16:10:28.732393+00:00",
+  "completed_animes": [
+    "a-good-day-to-ascend-dwvdr",
+    "a-tale-of-the-secret-saint-z50ms",
+    "a-wild-last-boss-appeared-season-2-vuehs",
+    "aoki-denshou-welsh-shedar-ri0vi",
+    "black-clover-season-2",
+    "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
+    "firefly-wedding-vkwqm",
+    "i-m-looking-for-a-zombie-4go9p",
+    "ingoku-danchi-deviant-s-apartment-complex-shvpb",
+    "keroro-crcm7",
+    "rilakkuma-qvmgp",
+    "romelia-war-chronicle-kontm",
+    "sorry-about-my-little-brothers-ee156",
+    "spare-me-great-lord-season-3-qvvwj",
+    "tetsuryou-meet-with-tetsudou-musume-pyia6",
+    "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
+    "the-vermilion-mask-8msvh",
+    "toaru-anbu-no-item-rujkt",
+    "tokyo-revengers-war-of-the-three-titan-arc-i9anq",
+    "tougen-anki-nikko-kegon-falls-arc-n3rlf",
+    "with-vengeance-sincerely-your-broken-saintess-season-2-nq8n3"
+  ],
+  "processed_slugs": [
+    "a-good-day-to-ascend-dwvdr",
+    "a-tale-of-the-secret-saint-z50ms",
+    "a-wild-last-boss-appeared-season-2-vuehs",
+    "aoki-denshou-welsh-shedar-ri0vi",
+    "black-clover-season-2",
+    "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
+    "firefly-wedding-vkwqm",
+    "i-m-looking-for-a-zombie-4go9p",
+    "ingoku-danchi-deviant-s-apartment-complex-shvpb",
+    "keroro-crcm7",
+    "rilakkuma-qvmgp",
+    "romelia-war-chronicle-kontm",
+    "sorry-about-my-little-brothers-ee156",
+    "spare-me-great-lord-season-3-qvvwj",
+    "tetsuryou-meet-with-tetsudou-musume-pyia6",
+    "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
+    "the-vermilion-mask-8msvh",
+    "toaru-anbu-no-item-rujkt",
+    "tokyo-revengers-war-of-the-three-titan-arc-i9anq",
+    "tougen-anki-nikko-kegon-falls-arc-n3rlf",
+    "with-vengeance-sincerely-your-broken-saintess-season-2-nq8n3"
+  ],
+  "in_progress_animes": {
+    "beyblade-x-aj6fn": 1,
+    "case-closed-w8ehk": 1,
+    "devils-crest-dk12t": 1,
+    "fx-fighter-kurumi-chan-lwljc": 1,
+    "kusuriya-no-hitorigoto-3rd-season": 1,
+    "pokemon-horizons-the-series-2obfr": 1,
+    "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit": 1,
+    "the-exiled-heavy-knight-knows-how-to-game-the-system": 1
+  },
+  "uploaded_episodes_by_slug": {
+    "a-tale-of-the-secret-saint-z50ms": [
+      9
+    ],
+    "a-wild-last-boss-appeared-season-2-vuehs": [
+      9
+    ],
+    "i-m-looking-for-a-zombie-4go9p": [
+      7
+    ],
+    "romelia-war-chronicle-kontm": [
+      8
+    ],
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc": [
+      8
+    ]
+  }
+}
