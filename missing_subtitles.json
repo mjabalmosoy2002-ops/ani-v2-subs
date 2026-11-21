@@ -1,10 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at_ms": 1795250491189,
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 0,
-    "total_missing_episodes_in_partial": 0
+    "completely_missing_anime": 0
   },
   "partial_missing": [],
   "completely_missing": [],
