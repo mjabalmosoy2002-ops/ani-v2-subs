@@ -1,12 +1,57 @@
 {
   "schema_version": 2,
-  "updated_at_ms": 1795282472668,
+  "updated_at": "2026-11-21T22:29:55.696134+00:00",
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 0,
-    "total_missing_episodes_in_partial": 0
+    "completely_missing_anime": 1
   },
   "partial_missing": [],
-  "completely_missing": [],
-  "missing_animes": []
+  "completely_missing": [
+    {
+      "slug": "there-is-also-a-hole-in-the-student-organization-l9gqz",
+      "title": "Even the Student Council Has Its Holes!",
+      "matched_folder": "there-is-also-a-hole-in-the-student-organization",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 8,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1",
+      "checked_at_ms": 1795300067020
+    }
+  ],
+  "missing_animes": [
+    {
+      "slug": "there-is-also-a-hole-in-the-student-organization-l9gqz",
+      "title": "Even the Student Council Has Its Holes!",
+      "matched_folder": "there-is-also-a-hole-in-the-student-organization",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 8,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1",
+      "checked_at_ms": 1795300067020
+    }
+  ]
 }
