@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:36:05.703515+00:00",
+  "updated_at": "2026-11-21T11:37:17.784306+00:00",
   "summary": {
     "partial_missing_anime": 14,
-    "completely_missing_anime": 9
+    "completely_missing_anime": 11
   },
   "partial_missing": [
     {
@@ -92,7 +92,7 @@
       "total_episodes": 12,
       "source_url": "https://anichi.cz/anime/shiguang-dailiren-iii",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
-      "checked_at_ms": 1795259972140
+      "checked_at_ms": 1795261005254
     },
     {
       "slug": "ushiro-no-shoumen-kamui-san-1f2b5",
@@ -655,6 +655,51 @@
       ],
       "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1",
       "checked_at_ms": 1795260823870
+    },
+    {
+      "slug": "wellber-no-monogatari-sisters-of-wellber-ijkhp",
+      "title": "Wellber no Monogatari: Sisters of Wellber S1",
+      "official_search_name": "Wellber no Monogatari: Sisters of Wellber S1",
+      "matched_folder": "wellber-no-monogatari-sisters-of-wellber",
+      "archive_path_prefix": "subtitles/wellber-no-monogatari-sisters-of-wellber/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 10,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "source_url": "https://anichi.cz/watch/wellber-no-monogatari-sisters-of-wellber-ijkhp/ep-1",
+      "checked_at_ms": 1795260982443
+    },
+    {
+      "slug": "ultraviolet-code-044-zbx4p",
+      "title": "Ultraviolet: Code 044 S1",
+      "official_search_name": "Ultraviolet: Code 044 S1",
+      "matched_folder": "ultraviolet-code-044",
+      "archive_path_prefix": "subtitles/ultraviolet-code-044/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 3,
+      "missing_episodes": [
+        1,
+        2,
+        3
+      ],
+      "source_url": "https://anichi.cz/watch/ultraviolet-code-044-zbx4p/ep-1",
+      "checked_at_ms": 1795260984456
     }
   ],
   "missing_animes": [
@@ -999,6 +1044,51 @@
       ],
       "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1",
       "checked_at_ms": 1795260823870
+    },
+    {
+      "slug": "wellber-no-monogatari-sisters-of-wellber-ijkhp",
+      "title": "Wellber no Monogatari: Sisters of Wellber S1",
+      "official_search_name": "Wellber no Monogatari: Sisters of Wellber S1",
+      "matched_folder": "wellber-no-monogatari-sisters-of-wellber",
+      "archive_path_prefix": "subtitles/wellber-no-monogatari-sisters-of-wellber/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 10,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "source_url": "https://anichi.cz/watch/wellber-no-monogatari-sisters-of-wellber-ijkhp/ep-1",
+      "checked_at_ms": 1795260982443
+    },
+    {
+      "slug": "ultraviolet-code-044-zbx4p",
+      "title": "Ultraviolet: Code 044 S1",
+      "official_search_name": "Ultraviolet: Code 044 S1",
+      "matched_folder": "ultraviolet-code-044",
+      "archive_path_prefix": "subtitles/ultraviolet-code-044/s1/",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 3,
+      "missing_episodes": [
+        1,
+        2,
+        3
+      ],
+      "source_url": "https://anichi.cz/watch/ultraviolet-code-044-zbx4p/ep-1",
+      "checked_at_ms": 1795260984456
     }
   ]
 }
