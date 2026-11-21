@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T12:14:13.076802+00:00",
+  "updated_at": "2026-11-21T12:14:15.917059+00:00",
   "summary": {
-    "partial_missing_anime": 11,
+    "partial_missing_anime": 12,
     "completely_missing_anime": 1
   },
   "partial_missing": [
@@ -218,6 +218,23 @@
       "source_url": "https://anichi.cz/anime/pokemon-to-be-a-pokemon-master-bcafm",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795263252743
+    },
+    {
+      "slug": "hatenkou-yugi-ussoz",
+      "title": "Hatenkou Yugi S1",
+      "official_search_name": "Hatenkou Yugi S1",
+      "matched_folder": "hatenkou-yugi",
+      "archive_path_prefix": "subtitles/hatenkou-yugi/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        7
+      ],
+      "available_episodes_count": 5,
+      "total_episodes": 8,
+      "source_url": "https://anichi.cz/anime/hatenkou-yugi-ussoz",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795263254397
     }
   ],
   "completely_missing": [
