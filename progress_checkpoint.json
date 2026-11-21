@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 4157,
+  "uploaded_episodes": 4165,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T13:19:04.292007+00:00",
+  "updated_at": "2026-11-21T13:19:51.372284+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -133,6 +133,7 @@
     "sorry-about-my-little-brothers-ee156",
     "space-warrior-baldios-7w7uq",
     "spare-me-great-lord-season-3-qvvwj",
+    "star-blazers-space-battleship-yamato-2205-kkhmn",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
     "stitch-yf7hn",
     "suikoden-the-anime-gowvw",
@@ -322,6 +323,7 @@
     "sorry-about-my-little-brothers-ee156",
     "space-warrior-baldios-7w7uq",
     "spare-me-great-lord-season-3-qvvwj",
+    "star-blazers-space-battleship-yamato-2205-kkhmn",
     "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-gqbit",
     "stitch-yf7hn",
     "suikoden-the-anime-gowvw",
@@ -422,7 +424,6 @@
     "shiguang-dailiren-iii": 4,
     "softenni-the-animation-z8vmu": 5,
     "soultaker-wgctp": 6,
-    "star-blazers-space-battleship-yamato-2205-kkhmn": 7,
     "star-detective-precure-jjsd0": 3,
     "tayutama-kiss-on-my-deity-n81to": 8,
     "tenamonya-voyagers-0clla": 7,
@@ -3941,6 +3942,16 @@
       8,
       9,
       10
+    ],
+    "star-blazers-space-battleship-yamato-2205-kkhmn": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
     ],
     "star-detective-precure-jjsd0": [
       1,
