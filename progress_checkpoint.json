@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 2,
-  "uploaded_episodes": 22,
+  "uploaded_episodes": 44,
   "skipped_existing": 1180,
-  "updated_at_ms": 1795258909120,
+  "updated_at_ms": 1795258914831,
   "note": "",
   "in_progress_animes": {
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8": 2,
@@ -11,15 +11,16 @@
     "chocotto-sister-ky3qh": 8,
     "choujun-choujou-senpai-gouba": 2,
     "dark-machine-the-animation-jt0nm": 2,
-    "hotel-inhumans-season-2-u4pgt": 2,
     "i-m-dating-a-dark-summoner-wfo1x": 2,
     "kanata-kara-9tdfw": 2,
     "magic-knight-rayearth-2026-hurbe": 2,
     "red-river-993eb": 2,
     "sasaki-and-peeps-season-2-6ri4s": 2,
     "tantei-wa-mou-shindeiru-season-2": 2,
+    "tayutama-kiss-on-my-deity-n81to": 8,
     "tensei-shitara-ken-deshita-2nd-season": 2,
     "the-classroom-of-a-black-cat-and-a-witch-bavvd": 2,
+    "the-five-star-stories-xfqjg": 8,
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin": 2,
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf": 2,
     "the-world-s-strongest-witch-wipbv": 2,
@@ -27,11 +28,16 @@
   },
   "uploaded_episodes_by_slug": {
     "chitose-is-in-the-ramune-bottle-part-2-q6hus": [1],
+    "choujun-choujou-senpai-gouba": [1],
+    "dark-machine-the-animation-jt0nm": [1],
+    "hotel-inhumans-season-2-u4pgt": [1, 2, 3, 4, 5, 6, 7],
     "magic-knight-rayearth-2026-hurbe": [1, 2, 3, 5, 6, 7],
+    "red-river-993eb": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13],
     "tantei-wa-mou-shindeiru-season-2": [1, 3, 6, 7],
+    "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin": [1],
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf": [1],
     "youjo-senki-ii": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
-  "completed_animes": ["one-piece-odmau"],
-  "processed_slugs": ["one-piece-odmau"]
+  "completed_animes": ["hotel-inhumans-season-2-u4pgt", "one-piece-odmau"],
+  "processed_slugs": ["hotel-inhumans-season-2-u4pgt", "one-piece-odmau"]
 }
