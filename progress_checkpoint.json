@@ -1,14 +1,16 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 516,
+  "uploaded_episodes": 544,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T11:10:43.045906+00:00",
+  "updated_at": "2026-11-21T11:11:16.443866+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
+    "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "aoki-denshou-welsh-shedar-ri0vi",
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
+    "choujun-choujou-senpai-gouba",
     "cocoon-one-summer-of-girlhood-evv55",
     "dark-machine-the-animation-jt0nm",
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33",
@@ -20,19 +22,24 @@
     "magic-knight-rayearth-2026-hurbe",
     "mebius-dust-a698c",
     "one-piece-odmau",
+    "parasite-dolls-abk28",
+    "red-river-993eb",
     "sasaki-and-peeps-season-2-6ri4s",
     "tantei-wa-mou-shindeiru-season-2",
     "tensei-shitara-ken-deshita-2nd-season",
     "the-five-star-stories-xfqjg",
+    "the-world-s-strongest-witch-wipbv",
     "uncle-s-obsession-with-cute-things-jbqqb",
     "wacky-science-fiction-series-wandaba-style-hsf9l",
     "youjo-senki-ii"
   ],
   "processed_slugs": [
     "a-good-day-to-ascend-dwvdr",
+    "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "aoki-denshou-welsh-shedar-ri0vi",
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
+    "choujun-choujou-senpai-gouba",
     "cocoon-one-summer-of-girlhood-evv55",
     "dark-machine-the-animation-jt0nm",
     "doraemon-the-movie-2026-new-nobita-and-the-castle-of-the-undersea-devil-xcy33",
@@ -46,18 +53,20 @@
     "magic-knight-rayearth-2026-hurbe",
     "mebius-dust-a698c",
     "one-piece-odmau",
+    "parasite-dolls-abk28",
+    "red-river-993eb",
     "sasaki-and-peeps-season-2-6ri4s",
     "sorry-about-my-little-brothers-ee156",
     "tantei-wa-mou-shindeiru-season-2",
     "tensei-shitara-ken-deshita-2nd-season",
     "the-five-star-stories-xfqjg",
+    "the-world-s-strongest-witch-wipbv",
     "uncle-s-obsession-with-cute-things-jbqqb",
     "wacky-science-fiction-series-wandaba-style-hsf9l",
     "white-cat-legend-season-3-opvqj",
     "youjo-senki-ii"
   ],
   "in_progress_animes": {
-    "ace-of-diamond-act-ii-season-2-part-2-u6gir": 3,
     "arcane-season-2-a1zmb": 8,
     "ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-huvyk": 9,
     "beyond-time-s-gaze-2nd-season-t9pzl": 4,
@@ -66,7 +75,6 @@
     "case-closed-w8ehk": 4,
     "chitose-is-in-the-ramune-bottle-part-2-q6hus": 2,
     "chocotto-sister-ky3qh": 8,
-    "choujun-choujou-senpai-gouba": 2,
     "cyberpunk-edgerunners-2": 9,
     "daemons-of-the-shadow-realm-hxj32": 10,
     "dara-san-of-the-reiwa-era-5jhg": 11,
@@ -89,14 +97,12 @@
     "my-stepmother-and-stepsisters-aren-t-wicked-7aa48": 11,
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2": 10,
     "overgeared-rah7b": 3,
-    "parasite-dolls-abk28": 2,
     "pokemon-horizons-the-series-2obfr": 1,
     "pokemon-to-be-a-pokemon-master-bcafm": 7,
     "quiet-please-cst6b": 9,
     "raised-by-demons-panda-li-r3lzo": 4,
     "re-zero-starting-life-in-another-world-season-4-4hk9h": 9,
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s": 3,
-    "red-river-993eb": 2,
     "renegade-immortal-ogxqp": 10,
     "romelia-war-chronicle-kontm": 4,
     "shiawase-sou-no-okojo-san-dmpdp": 5,
@@ -112,7 +118,6 @@
     "the-eternal-supreme-li-yunxiao-igcwd": 4,
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin": 2,
     "the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-kjenf": 2,
-    "the-world-s-strongest-witch-wipbv": 2,
     "ushiro-no-shoumen-kamui-san-1f2b5": 5,
     "welcome-to-demon-school-iruma-kun-season-4-kiuuj": 11,
     "you-and-i-are-polar-opposites-season-2-24a37": 9,
@@ -144,7 +149,12 @@
       21
     ],
     "ace-of-diamond-act-ii-season-2-part-2-u6gir": [
-      1
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
     ],
     "aoki-denshou-welsh-shedar-ri0vi": [
       1,
@@ -178,7 +188,13 @@
       2
     ],
     "choujun-choujou-senpai-gouba": [
-      1
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "cocoon-one-summer-of-girlhood-evv55": [
       1
@@ -394,6 +410,11 @@
       9,
       10
     ],
+    "parasite-dolls-abk28": [
+      1,
+      2,
+      3
+    ],
     "pokemon-horizons-the-series-2obfr": [
       1,
       2,
@@ -566,7 +587,15 @@
       9,
       10,
       11,
-      13
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
     ],
     "romelia-war-chronicle-kontm": [
       1
@@ -670,7 +699,13 @@
       1
     ],
     "the-world-s-strongest-witch-wipbv": [
-      1
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ],
     "uncle-s-obsession-with-cute-things-jbqqb": [
       1,
