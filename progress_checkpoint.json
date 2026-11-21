@@ -1,10 +1,11 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 39,
+  "uploaded_episodes": 80,
   "skipped_existing": 0,
-  "updated_at": "2026-11-21T22:45:28.216945+00:00",
+  "updated_at": "2026-11-21T22:47:07.475578+00:00",
   "completed_animes": [
+    "a-good-day-to-ascend-dwvdr",
     "dreamland-z8wn3",
     "horror-collector-mjlir",
     "i-m-looking-for-a-zombie-4go9p",
@@ -13,27 +14,36 @@
     "ranma-1-2-2024-season-3-jmxy2",
     "romelia-war-chronicle-kontm",
     "spare-me-great-lord-season-3-qvvwj",
-    "the-seven-knights-of-the-marronnier-kingdom-oqdfc"
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
+    "the-vermilion-mask-8msvh"
   ],
   "processed_slugs": [
+    "a-good-day-to-ascend-dwvdr",
     "a-tale-of-the-secret-saint-z50ms",
     "a-wild-last-boss-appeared-season-2-vuehs",
+    "aoki-denshou-welsh-shedar-ri0vi",
     "black-clover-season-2",
     "cardfight-vanguard-divinez-parallactic-fate-n4d8h",
     "case-closed-w8ehk",
     "dreamland-z8wn3",
+    "firefly-wedding-vkwqm",
     "horror-collector-mjlir",
     "i-m-looking-for-a-zombie-4go9p",
     "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
+    "keroro-crcm7",
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "magicalexplorer-49d6g",
     "pokemon-horizons-the-series-2obfr",
     "ranma-1-2-2024-season-3-jmxy2",
     "rilakkuma-qvmgp",
     "romelia-war-chronicle-kontm",
+    "sorry-about-my-little-brothers-ee156",
     "spare-me-great-lord-season-3-qvvwj",
     "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
+    "the-vermilion-mask-8msvh",
     "there-is-also-a-hole-in-the-student-organization-l9gqz",
+    "tokyo-revengers-war-of-the-three-titan-arc-i9anq",
+    "tougen-anki-nikko-kegon-falls-arc-n3rlf",
     "vertex-force-sswex"
   ]
 }

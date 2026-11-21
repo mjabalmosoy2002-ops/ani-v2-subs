@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T22:45:28.216945+00:00",
+  "updated_at": "2026-11-21T22:47:07.475578+00:00",
   "summary": {
     "partial_missing_anime": 1,
-    "completely_missing_anime": 1
+    "completely_missing_anime": 2
   },
   "partial_missing": [
     {
@@ -91,6 +91,40 @@
       ],
       "source_url": "https://anichi.cz/watch/rilakkuma-qvmgp/ep-1",
       "checked_at_ms": 1795301046215
+    },
+    {
+      "slug": "sorry-about-my-little-brothers-ee156",
+      "title": "Sorry About My Little Brothers",
+      "matched_folder": "sorry-about-my-little-brothers",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 20,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "source_url": "https://anichi.cz/watch/sorry-about-my-little-brothers-ee156/ep-1",
+      "checked_at_ms": 1795301181814
     }
   ],
   "missing_animes": [
@@ -140,6 +174,40 @@
       ],
       "source_url": "https://anichi.cz/watch/rilakkuma-qvmgp/ep-1",
       "checked_at_ms": 1795301046215
+    },
+    {
+      "slug": "sorry-about-my-little-brothers-ee156",
+      "title": "Sorry About My Little Brothers",
+      "matched_folder": "sorry-about-my-little-brothers",
+      "season": 1,
+      "status": "completely_missing",
+      "reason": "لا توجد مسارات ترجمة CC بعد المحاولة الاحتياطية",
+      "available_episodes_count": 0,
+      "total_episodes": 20,
+      "missing_episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "source_url": "https://anichi.cz/watch/sorry-about-my-little-brothers-ee156/ep-1",
+      "checked_at_ms": 1795301181814
     }
   ]
 }
