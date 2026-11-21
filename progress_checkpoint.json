@@ -1,20 +1,28 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 33,
+  "uploaded_episodes": 69,
   "skipped_existing": 0,
-  "updated_at": "2026-11-21T22:29:55.696134+00:00",
+  "updated_at": "2026-11-21T22:30:57.724762+00:00",
   "completed_animes": [
     "dreamland-z8wn3",
     "horror-collector-mjlir",
+    "i-m-looking-for-a-zombie-4go9p",
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
-    "ranma-1-2-2024-season-3-jmxy2"
+    "magicalexplorer-49d6g",
+    "ranma-1-2-2024-season-3-jmxy2",
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc"
   ],
   "processed_slugs": [
+    "black-clover-season-2",
     "dreamland-z8wn3",
     "horror-collector-mjlir",
+    "i-m-looking-for-a-zombie-4go9p",
+    "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
     "magical-sisters-lulutto-lilly-part-2-8iqk0",
+    "magicalexplorer-49d6g",
     "ranma-1-2-2024-season-3-jmxy2",
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "there-is-also-a-hole-in-the-student-organization-l9gqz"
   ]
 }
