@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T11:24:07.963651+00:00",
+  "updated_at": "2026-11-21T11:25:57.234643+00:00",
   "summary": {
-    "partial_missing_anime": 8,
+    "partial_missing_anime": 10,
     "completely_missing_anime": 0
   },
   "partial_missing": [
@@ -176,6 +176,69 @@
       "source_url": "https://anichi.cz/anime/yuu-gi-ou-go-rush-h8gbw",
       "reason": "حلقات محددة بدون مسار ترجمة متاح",
       "checked_at_ms": 1795260239380
+    },
+    {
+      "slug": "daemons-of-the-shadow-realm-hxj32",
+      "title": "Daemons of the Shadow Realm S1",
+      "official_search_name": "Daemons of the Shadow Realm S1",
+      "matched_folder": "daemons-of-the-shadow",
+      "archive_path_prefix": "subtitles/daemons-of-the-shadow/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        4,
+        6
+      ],
+      "available_episodes_count": 22,
+      "total_episodes": 24,
+      "source_url": "https://anichi.cz/anime/daemons-of-the-shadow-realm-hxj32",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260258974
+    },
+    {
+      "slug": "renegade-immortal-ogxqp",
+      "title": "Renegade Immortal S1",
+      "official_search_name": "Renegade Immortal S1",
+      "matched_folder": "renegade-immortal",
+      "archive_path_prefix": "subtitles/renegade-immortal/s1/",
+      "season": 1,
+      "status": "partial_missing",
+      "missing_episodes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        76,
+        79,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        94,
+        96,
+        98,
+        138,
+        139
+      ],
+      "available_episodes_count": 118,
+      "total_episodes": 152,
+      "source_url": "https://anichi.cz/anime/renegade-immortal-ogxqp",
+      "reason": "حلقات محددة بدون مسار ترجمة متاح",
+      "checked_at_ms": 1795260309645
     }
   ],
   "completely_missing": [],
