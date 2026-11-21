@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 3451,
+  "uploaded_episodes": 3501,
   "skipped_existing": 1180,
-  "updated_at": "2026-11-21T13:06:41.615077+00:00",
+  "updated_at": "2026-11-21T13:06:58.606547+00:00",
   "completed_animes": [
     "a-good-day-to-ascend-dwvdr",
     "a-returner-s-magic-should-be-special-season-2",
@@ -56,6 +56,7 @@
     "hotel-inhumans-season-2-u4pgt",
     "i-m-dating-a-dark-summoner-wfo1x",
     "i-m-looking-for-a-zombie-4go9p",
+    "igpx-immortal-grand-prix-bkun8",
     "ingoku-danchi-deviant-s-apartment-complex-shvpb",
     "isekai-office-worker-the-other-world-s-books-depend-on-the-bean-counter-i-let-my-thoughts-wander-gvtbp",
     "juuou-mujin-dandivine-nw38l",
@@ -123,6 +124,7 @@
     "the-eternal-supreme-li-yunxiao-igcwd",
     "the-exiled-heavy-knight-knows-how-to-game-the-system",
     "the-five-star-stories-xfqjg",
+    "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a",
     "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
@@ -151,6 +153,7 @@
     "you-and-i-are-polar-opposites-season-2-24a37",
     "youjo-senki-ii",
     "youjo-shenki-cd9f0",
+    "yutori-chan-vpjmi",
     "zoids-wild-senki-3uluw"
   ],
   "processed_slugs": [
@@ -206,6 +209,7 @@
     "hotel-inhumans-season-2-u4pgt",
     "i-m-dating-a-dark-summoner-wfo1x",
     "i-m-looking-for-a-zombie-4go9p",
+    "igpx-immortal-grand-prix-bkun8",
     "ingoku-danchi-deviant-s-apartment-complex-shvpb",
     "isekai-office-worker-the-other-world-s-books-depend-on-the-bean-counter-i-let-my-thoughts-wander-gvtbp",
     "juuou-mujin-dandivine-nw38l",
@@ -273,6 +277,7 @@
     "the-eternal-supreme-li-yunxiao-igcwd",
     "the-exiled-heavy-knight-knows-how-to-game-the-system",
     "the-five-star-stories-xfqjg",
+    "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a",
     "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx",
     "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
@@ -302,6 +307,7 @@
     "you-and-i-are-polar-opposites-season-2-24a37",
     "youjo-senki-ii",
     "youjo-shenki-cd9f0",
+    "yutori-chan-vpjmi",
     "zoids-wild-senki-3uluw"
   ],
   "in_progress_animes": {
@@ -319,7 +325,6 @@
     "fortune-quest-o9ch6": 5,
     "hataraku-saibou-necchuushou-moshimo-pocari-sweat-ga-attara-ecfkj": 3,
     "hatenkou-yugi-ussoz": 6,
-    "igpx-immortal-grand-prix-bkun8": 5,
     "joker-zqvwd": 5,
     "kaitou-tenshi-twin-angel-bvysb": 4,
     "koupen-chan-ln1xa": 3,
@@ -338,14 +343,12 @@
     "star-detective-precure-jjsd0": 3,
     "tayutama-kiss-on-my-deity-n81to": 8,
     "the-classroom-of-a-black-cat-and-a-witch-bavvd": 2,
-    "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a": 5,
     "the-new-adventures-of-gigantor-5mymm": 5,
     "theultraman-nftz3": 5,
     "tribe-cool-crew-svdkg": 5,
     "ushiro-no-shoumen-kamui-san-1f2b5": 5,
     "wild-knights-gulkeeva-yowia": 3,
     "x-men-tellg": 5,
-    "yutori-chan-vpjmi": 5,
     "yuu-gi-ou-go-rush-h8gbw": 9,
     "zettai-shounen-v1wyk": 5
   },
@@ -2381,6 +2384,21 @@
       5,
       6
     ],
+    "igpx-immortal-grand-prix-bkun8": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
     "ingoku-danchi-deviant-s-apartment-complex-shvpb": [
       1,
       2,
@@ -3650,6 +3668,20 @@
     "the-five-star-stories-xfqjg": [
       1
     ],
+    "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-3cd1a": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "the-iceblade-sorcerer-shall-rule-the-world-ii-d9nlx": [
       1,
       2,
@@ -3938,6 +3970,33 @@
       10,
       11,
       12
+    ],
+    "yutori-chan-vpjmi": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
     ],
     "yuu-gi-ou-go-rush-h8gbw": [
       1,
