@@ -2,21 +2,21 @@
     "schema_version": 4,
     "total_animes": 2,
     "animes": {
-        "black-clover-season-2": {
-            "slug": "black-clover-season-2",
+        "bleach": {
+            "slug": "bleach",
             "old_slug": null,
-            "title": "Black Clover Season 2",
-            "anilist_id": 195604,
+            "title": "Bleach",
+            "anilist_id": 269,
             "mal_id": null,
             "aliases": [],
             "seasons": {
-                "s2": {
+                "s1": {
                     "count": 1,
                     "episodes": [
                         1
                     ],
                     "missing": [],
-                    "path_pattern": "subtitles/black-clover-season-2/s2/ep_{ep}.srt"
+                    "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
                 }
             }
         },
