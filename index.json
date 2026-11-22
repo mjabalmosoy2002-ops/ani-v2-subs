@@ -1,7 +1,25 @@
 {
     "schema_version": 4,
-    "total_animes": 4,
+    "total_animes": 5,
     "animes": {
+        "a-returner-s-magic-should-be-special": {
+            "slug": "a-returner-s-magic-should-be-special",
+            "old_slug": null,
+            "title": "A Returner's Magic Should Be Special",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "special_s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/a-returner-s-magic-should-be-special/special/s1/ep_{ep}.srt"
+                }
+            }
+        },
         "bleach": {
             "slug": "bleach",
             "old_slug": null,
