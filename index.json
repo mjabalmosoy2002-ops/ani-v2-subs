@@ -1,7 +1,25 @@
 {
     "schema_version": 4,
-    "total_animes": 5,
+    "total_animes": 6,
     "animes": {
+        "aoashi-2nd-season": {
+            "slug": "aoashi-2nd-season",
+            "old_slug": null,
+            "title": "Aoashi 2nd Season",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/aoashi-2nd-season/s2/ep_{ep}.srt"
+                }
+            }
+        },
         "black-clover": {
             "slug": "black-clover",
             "old_slug": null,
