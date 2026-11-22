@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 2,
+    "total_animes": 3,
     "animes": {
         "bleach": {
             "slug": "bleach",
@@ -17,6 +17,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "one-piece": {
+            "slug": "one-piece",
+            "old_slug": null,
+            "title": "One Piece",
+            "anilist_id": 21,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
                 }
             }
         },
