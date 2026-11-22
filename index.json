@@ -29,9 +29,10 @@
             "aliases": [],
             "seasons": {
                 "s1": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        7
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
