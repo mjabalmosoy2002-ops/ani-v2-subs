@@ -1,7 +1,25 @@
 {
     "schema_version": 4,
-    "total_animes": 6,
+    "total_animes": 7,
     "animes": {
+        "ao-ashi": {
+            "slug": "ao-ashi",
+            "old_slug": null,
+            "title": "Ao Ashi",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/ao-ashi/s1/ep_{ep}.srt"
+                }
+            }
+        },
         "black-clover": {
             "slug": "black-clover",
             "old_slug": null,
