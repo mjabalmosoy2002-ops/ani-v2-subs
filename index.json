@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 3,
+    "total_animes": 4,
     "animes": {
         "bleach": {
             "slug": "bleach",
@@ -20,6 +20,24 @@
                 }
             }
         },
+        "gachiakuta": {
+            "slug": "gachiakuta",
+            "old_slug": null,
+            "title": "Gachiakuta",
+            "anilist_id": 178025,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        5
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+                }
+            }
+        },
         "one-piece": {
             "slug": "one-piece",
             "old_slug": null,
@@ -29,10 +47,9 @@
             "aliases": [],
             "seasons": {
                 "s1": {
-                    "count": 2,
+                    "count": 1,
                     "episodes": [
-                        1,
-                        7
+                        1
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
