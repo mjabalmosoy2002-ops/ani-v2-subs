@@ -1,0 +1,24 @@
+{
+    "schema_version": 4,
+    "total_animes": 1,
+    "animes": {
+        "tokyo-revengers-war-of-the-three-titan-arc": {
+            "slug": "tokyo-revengers-war-of-the-three-titan-arc",
+            "old_slug": null,
+            "title": "Tokyo Revengers: War of the Three Titan Arc",
+            "anilist_id": 178083,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
+                }
+            }
+        }
+    }
+}
