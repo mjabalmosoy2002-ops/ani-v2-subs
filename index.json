@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 15,
+    "total_animes": 16,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -230,6 +230,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/mission-yozakura-family-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "naruto-shippuden": {
+            "slug": "naruto-shippuden",
+            "old_slug": null,
+            "title": "Naruto: Shippuden",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/naruto-shippuden/s1/ep_{ep}.srt"
                 }
             }
         },
