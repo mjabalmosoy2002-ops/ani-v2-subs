@@ -85,9 +85,10 @@
             "aliases": [],
             "seasons": {
                 "s4": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
