@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 7,
+    "total_animes": 8,
     "animes": {
         "ao-ashi": {
             "slug": "ao-ashi",
@@ -91,6 +91,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu": {
+            "slug": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
+            "old_slug": null,
+            "title": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/s1/ep_{ep}.srt"
                 }
             }
         },
