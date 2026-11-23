@@ -1,0 +1,740 @@
+{
+  "schema_version": 4,
+  "total_animes": 33,
+  "animes": {
+    "a-gatherer-s-adventure-in-isekai": {
+      "slug": "a-gatherer-s-adventure-in-isekai",
+      "old_slug": null,
+      "title": "A Gatherer S Adventure In Isekai",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 3,
+          "episodes": [
+            2,
+            9,
+            10
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "ace-of-diamond-act-ii-season-2": {
+      "slug": "ace-of-diamond-act-ii-season-2",
+      "old_slug": null,
+      "title": "Ace Of Diamond Act Ii Season 2",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s2": {
+          "count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/ace-of-diamond-act-ii-season-2/s2/ep_{ep}.srt"
+        }
+      }
+    },
+    "ao-ashi": {
+      "slug": "ao-ashi",
+      "old_slug": null,
+      "title": "Ao Ashi",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 2,
+          "episodes": [
+            2,
+            9
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/ao-ashi/s1/ep_{ep}.srt"
+        },
+        "s2": {
+          "count": 7,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/ao-ashi/s2/ep_{ep}.srt"
+        }
+      }
+    },
+    "aoashi-2nd-season": {
+      "slug": "aoashi-2nd-season",
+      "old_slug": null,
+      "title": "Aoashi 2Nd Season",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s2": {
+          "count": 1,
+          "episodes": [
+            1
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/aoashi-2nd-season/s2/ep_{ep}.srt"
+        }
+      }
+    },
+    "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world": {
+      "slug": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world",
+      "old_slug": null,
+      "title": "As A Reincarnated Aristocrat I Ll Use My Appraisal Skill To Rise In The World",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s3": {
+          "count": 6,
+          "episodes": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world/s3/ep_{ep}.srt"
+        }
+      }
+    },
+    "black-clover": {
+      "slug": "black-clover",
+      "old_slug": null,
+      "title": "Black Clover",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 1,
+          "episodes": [
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/black-clover/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "black-clover-season-2": {
+      "slug": "black-clover-season-2",
+      "old_slug": null,
+      "title": "Black Clover Season 2",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s2": {
+          "count": 1,
+          "episodes": [
+            1
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/black-clover-season-2/s2/ep_{ep}.srt"
+        }
+      }
+    },
+    "bleach": {
+      "slug": "bleach",
+      "old_slug": null,
+      "title": "Bleach",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 1,
+          "episodes": [
+            1
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "bleach-thousand-year-blood-war-the-separation": {
+      "slug": "bleach-thousand-year-blood-war-the-separation",
+      "old_slug": null,
+      "title": "Bleach Thousand Year Blood War The Separation",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 2,
+          "episodes": [
+            2,
+            3
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/bleach-thousand-year-blood-war-the-separation/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "classroom-of-the-elite-iv": {
+      "slug": "classroom-of-the-elite-iv",
+      "old_slug": null,
+      "title": "Classroom Of The Elite Iv",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s4": {
+          "count": 3,
+          "episodes": [
+            1,
+            2,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
+        }
+      }
+    },
+    "dragon-ball-super-beerus": {
+      "slug": "dragon-ball-super-beerus",
+      "old_slug": null,
+      "title": "Dragon Ball Super Beerus",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 2,
+          "episodes": [
+            1,
+            2
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/dragon-ball-super-beerus/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "dreamland": {
+      "slug": "dreamland",
+      "old_slug": null,
+      "title": "Dreamland",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 6,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/dreamland/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg": {
+      "slug": "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
+      "old_slug": null,
+      "title": "Even Though I M A Super Timid Noble Girl I Accepted The Bet From My Cunning Fiance Cozcg",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "firefly-wedding": {
+      "slug": "firefly-wedding",
+      "old_slug": null,
+      "title": "Firefly Wedding",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 1,
+          "episodes": [
+            1
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/firefly-wedding/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "full-clearing-another-world-under-a-goddess-with-zero-believers": {
+      "slug": "full-clearing-another-world-under-a-goddess-with-zero-believers",
+      "old_slug": null,
+      "title": "Full Clearing Another World Under A Goddess With Zero Believers",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/full-clearing-another-world-under-a-goddess-with-zero-believers/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "gachiakuta": {
+      "slug": "gachiakuta",
+      "old_slug": null,
+      "title": "Gachiakuta",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 3,
+          "episodes": [
+            5,
+            6,
+            14
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "horror-collector-mjlir": {
+      "slug": "horror-collector-mjlir",
+      "old_slug": null,
+      "title": "Horror Collector Mjlir",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/horror-collector-mjlir/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "hotel-inhumans-season-2": {
+      "slug": "hotel-inhumans-season-2",
+      "old_slug": null,
+      "title": "Hotel Inhumans Season 2",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s2": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
+        }
+      }
+    },
+    "kanata-kara": {
+      "slug": "kanata-kara",
+      "old_slug": null,
+      "title": "Kanata Kara",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/kanata-kara/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu": {
+      "slug": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
+      "old_slug": null,
+      "title": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 1,
+          "episodes": [
+            2
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "magical-sisters-lulutto-lilly": {
+      "slug": "magical-sisters-lulutto-lilly",
+      "old_slug": null,
+      "title": "Magical Sisters Lulutto Lilly",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/magical-sisters-lulutto-lilly/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "magicalexplorer": {
+      "slug": "magicalexplorer",
+      "old_slug": null,
+      "title": "Magicalexplorer",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/magicalexplorer/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "mission-yozakura-family-season-2": {
+      "slug": "mission-yozakura-family-season-2",
+      "old_slug": null,
+      "title": "Mission Yozakura Family Season 2",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s2": {
+          "count": 7,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/mission-yozakura-family-season-2/s2/ep_{ep}.srt"
+        }
+      }
+    },
+    "one-piece": {
+      "slug": "one-piece",
+      "old_slug": null,
+      "title": "One Piece",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 2,
+          "episodes": [
+            1,
+            7
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "overgeared": {
+      "slug": "overgeared",
+      "old_slug": null,
+      "title": "Overgeared",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 9,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/overgeared/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "ranma-1-2-2024": {
+      "slug": "ranma-1-2-2024",
+      "old_slug": null,
+      "title": "Ranma 1 2 2024",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s3": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/ranma-1-2-2024/s3/ep_{ep}.srt"
+        }
+      }
+    },
+    "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship": {
+      "slug": "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship",
+      "old_slug": null,
+      "title": "Reborn As A Space Mercenary I Woke Up Piloting The Strongest Starship",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "tank-chair-kjquw": {
+      "slug": "tank-chair-kjquw",
+      "old_slug": null,
+      "title": "Tank Chair Kjquw",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/tank-chair-kjquw/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "the-exiled-heavy-knight-knows-how-to-game-the-system": {
+      "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+      "old_slug": null,
+      "title": "The Exiled Heavy Knight Knows How To Game The System",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 1,
+          "episodes": [
+            2
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/the-exiled-heavy-knight-knows-how-to-game-the-system/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "tokyo-revengers-war-of-the-three-titan-arc": {
+      "slug": "tokyo-revengers-war-of-the-three-titan-arc",
+      "old_slug": null,
+      "title": "Tokyo Revengers War Of The Three Titan Arc",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 1,
+          "episodes": [
+            1
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "umayuru-full-gate": {
+      "slug": "umayuru-full-gate",
+      "old_slug": null,
+      "title": "Umayuru Full Gate",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 6,
+          "episodes": [
+            1,
+            2,
+            4,
+            5,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/umayuru-full-gate/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "uncle-s-obsession-with-cute-things": {
+      "slug": "uncle-s-obsession-with-cute-things",
+      "old_slug": null,
+      "title": "Uncle S Obsession With Cute Things",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 8,
+          "episodes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/uncle-s-obsession-with-cute-things/s1/ep_{ep}.srt"
+        }
+      }
+    },
+    "vertex-force-sswex": {
+      "slug": "vertex-force-sswex",
+      "old_slug": null,
+      "title": "Vertex Force Sswex",
+      "anilist_id": null,
+      "mal_id": null,
+      "aliases": [],
+      "seasons": {
+        "s1": {
+          "count": 7,
+          "episodes": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "missing": [],
+          "path_pattern": "subtitles/vertex-force-sswex/s1/ep_{ep}.srt"
+        }
+      }
+    }
+  }
+}
