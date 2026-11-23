@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 8,
+    "total_animes": 9,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -73,6 +73,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "classroom-of-the-elite-iv": {
+            "slug": "classroom-of-the-elite-iv",
+            "old_slug": null,
+            "title": "Classroom of the Elite IV",
+            "anilist_id": 180745,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s4": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
                 }
             }
         },
