@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 14,
+    "total_animes": 15,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -191,6 +191,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "magical-sisters-lulutto": {
+            "slug": "magical-sisters-lulutto",
+            "old_slug": null,
+            "title": "Magical Sisters Lulutto Lilly",
+            "anilist_id": 178749,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/magical-sisters-lulutto/s1/ep_{ep}.srt"
                 }
             }
         },
