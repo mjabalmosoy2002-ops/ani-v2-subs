@@ -189,9 +189,10 @@
             "format": "TV",
             "seasons": {
                 "s3": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3/s3/ep_{ep}.srt"
