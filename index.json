@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 12,
+    "total_animes": 13,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -149,6 +149,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "hotel-inhumans-season-2": {
+            "slug": "hotel-inhumans-season-2",
+            "old_slug": null,
+            "title": "Hotel Inhumans Season 2",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
                 }
             }
         },
