@@ -11,10 +11,11 @@
             "aliases": [],
             "seasons": {
                 "s1": {
-                    "count": 2,
+                    "count": 3,
                     "episodes": [
                         2,
-                        9
+                        9,
+                        10
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
