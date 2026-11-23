@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 13,
+    "total_animes": 14,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -111,6 +111,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
+                }
+            }
+        },
+        "dr-stone-science-future": {
+            "slug": "dr-stone-science-future",
+            "old_slug": null,
+            "title": "Dr. Stone: Science Future",
+            "anilist_id": 172019,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/dr-stone-science-future/s1/ep_{ep}.srt"
                 }
             }
         },
