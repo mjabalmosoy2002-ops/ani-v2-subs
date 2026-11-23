@@ -1,32 +1,48 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 66,
+  "uploaded_episodes": 97,
   "skipped_existing": 0,
-  "updated_at": "2026-11-23T07:59:32.171942+00:00",
+  "updated_at": "2026-11-23T09:22:35.582445+00:00",
   "completed_animes": [
+    "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "hotel-inhumans-season-2-u4pgt",
     "kanata-kara-9tdfw",
+    "mission-yozakura-family-season-2-part-2-l9bzv",
+    "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "tank-chair-kjquw",
     "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "processed_slugs": [
+    "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "hotel-inhumans-season-2-u4pgt",
     "kanata-kara-9tdfw",
+    "mission-yozakura-family-season-2-part-2-l9bzv",
     "my-girlfriend-s-friend-6icla",
+    "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "tank-chair-kjquw",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+    "there-is-also-a-hole-in-the-student-organization-l9gqz",
     "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "retry_pending_slugs": [
+    "ace-of-diamond-act-ii-season-2-part-2-u6gir",
+    "aoashi-2nd-season",
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
+    "black-clover-season-2",
+    "blue-box-season-2",
     "dragon-ball-super-beerus-xtjlb",
     "i-m-dating-a-dark-summoner-wfo1x",
+    "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
+    "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "overgeared-rah7b",
-    "pan-dorobou-hqpci"
+    "pan-dorobou-hqpci",
+    "punirunes-puni-4-qxmzq",
+    "star-detective-precure-jjsd0",
+    "umayuru-full-gate-zf24t"
   ]
 }
