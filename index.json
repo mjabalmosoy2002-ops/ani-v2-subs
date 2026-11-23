@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 9,
+    "total_animes": 10,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -73,6 +73,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "bleach-thousand-year-blood-war-the-separation": {
+            "slug": "bleach-thousand-year-blood-war-the-separation",
+            "old_slug": null,
+            "title": "Bleach: Thousand-Year Blood War - The Separation",
+            "anilist_id": 159322,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/bleach-thousand-year-blood-war-the-separation/s1/ep_{ep}.srt"
                 }
             }
         },
