@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 11,
+    "total_animes": 12,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -149,6 +149,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "mission-yozakura-family-season-2": {
+            "slug": "mission-yozakura-family-season-2",
+            "old_slug": null,
+            "title": "Mission: Yozakura Family Season 2",
+            "anilist_id": 182578,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/mission-yozakura-family-season-2/s2/ep_{ep}.srt"
                 }
             }
         },
