@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 10,
+    "total_animes": 11,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -167,6 +167,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "the-exiled-heavy-knight-knows-how-to-game-the-system": {
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "old_slug": null,
+            "title": "The Exiled Heavy Knight Knows How to Game the System",
+            "anilist_id": 180136,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/the-exiled-heavy-knight-knows-how-to-game-the-system/s1/ep_{ep}.srt"
                 }
             }
         },
