@@ -1,23 +1,32 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 32,
+  "uploaded_episodes": 66,
   "skipped_existing": 0,
-  "updated_at": "2026-11-23T07:58:31.832042+00:00",
+  "updated_at": "2026-11-23T07:59:32.171942+00:00",
   "completed_animes": [
+    "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
+    "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "hotel-inhumans-season-2-u4pgt",
-    "kanata-kara-9tdfw"
+    "kanata-kara-9tdfw",
+    "tank-chair-kjquw",
+    "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "processed_slugs": [
+    "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
+    "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "hotel-inhumans-season-2-u4pgt",
     "kanata-kara-9tdfw",
     "my-girlfriend-s-friend-6icla",
-    "the-lonely-snow-widow-and-the-cursed-ring-htedc"
+    "tank-chair-kjquw",
+    "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+    "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "retry_pending_slugs": [
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "dragon-ball-super-beerus-xtjlb",
     "i-m-dating-a-dark-summoner-wfo1x",
+    "overgeared-rah7b",
     "pan-dorobou-hqpci"
   ]
 }
