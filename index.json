@@ -161,9 +161,10 @@
             "aliases": [],
             "seasons": {
                 "s2": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
