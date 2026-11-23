@@ -1,916 +1,1068 @@
 {
-  "schema_version": 4,
-  "total_animes": 33,
-  "animes": {
-    "a-gatherer-s-adventure-in-isekai": {
-      "slug": "a-gatherer-s-adventure-in-isekai",
-      "old_slug": null,
-      "title": "A Gatherer S Adventure In Isekai",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 3,
-          "episodes": [
-            2,
-            9,
-            10
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "ace-of-diamond-act-ii-season-2": {
-      "slug": "ace-of-diamond-act-ii-season-2",
-      "old_slug": null,
-      "title": "Ace Of Diamond Act Ii Season 2",
-      "anilist_id": 177634,
-      "mal_id": 58877,
-      "aliases": [],
-      "seasons": {
-        "s2": {
-          "count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/ace-of-diamond-act-ii-season-2/s2/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Ace of the Diamond act II -Second Season-",
-        "Ace of the Diamond act II Season 2",
-        "Diamond no Ace act II: Second Season",
-        "ダイヤのA actII -Second Season-"
-      ]
-    },
-    "ao-ashi": {
-      "slug": "ao-ashi",
-      "old_slug": null,
-      "title": "Ao Ashi",
-      "anilist_id": 134732,
-      "mal_id": 49052,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 2,
-          "episodes": [
-            2,
-            9
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/ao-ashi/s1/ep_{ep}.srt"
+    "schema_version": 4,
+    "total_animes": 34,
+    "animes": {
+        "a-gatherer-s-adventure-in-isekai": {
+            "slug": "a-gatherer-s-adventure-in-isekai",
+            "old_slug": null,
+            "title": "A Gatherer S Adventure In Isekai",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 3,
+                    "episodes": [
+                        2,
+                        9,
+                        10
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
+                }
+            }
         },
-        "s2": {
-          "count": 7,
-          "episodes": [
-            1,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/ao-ashi/s2/ep_{ep}.srt"
+        "ace-of-diamond-act-ii-season-2": {
+            "slug": "ace-of-diamond-act-ii-season-2",
+            "old_slug": null,
+            "title": "Ace Of Diamond Act Ii Season 2",
+            "anilist_id": 177634,
+            "mal_id": 58877,
+            "aliases": [],
+            "synonyms": [
+                "Ace of the Diamond act II -Second Season-",
+                "Ace of the Diamond act II Season 2",
+                "Diamond no Ace act II: Second Season",
+                "ダイヤのA actII -Second Season-"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s2": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/ace-of-diamond-act-ii-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "ao-ashi": {
+            "slug": "ao-ashi",
+            "old_slug": null,
+            "title": "Ao Ashi",
+            "anilist_id": 134732,
+            "mal_id": 49052,
+            "aliases": [],
+            "synonyms": [
+                "AOASHI แข็งเด็กหัวใจนักสู้",
+                "Ao Ashi - Playmaker",
+                "Aoashi",
+                "أواشي",
+                "アオアシ"
+            ],
+            "year": 2022,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 2,
+                    "episodes": [
+                        2,
+                        9
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/ao-ashi/s1/ep_{ep}.srt"
+                },
+                "s2": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/ao-ashi/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "aoashi-2nd-season": {
+            "slug": "aoashi-2nd-season",
+            "old_slug": null,
+            "title": "Aoashi 2Nd Season",
+            "anilist_id": 191788,
+            "mal_id": 61603,
+            "aliases": [],
+            "synonyms": [
+                "Aoashi 2nd Season",
+                "Aoashi Season 2",
+                "アオアシ 第2期"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/aoashi-2nd-season/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world": {
+            "slug": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world",
+            "old_slug": null,
+            "title": "As A Reincarnated Aristocrat I Ll Use My Appraisal Skill To Rise In The World",
+            "anilist_id": 164702,
+            "mal_id": 55265,
+            "aliases": [],
+            "synonyms": [
+                "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+                "KanteiSkill",
+                "Tensei Kizoku, Kantei Skill de Nariagaru",
+                "転生貴族、鑑定スキルで成り上がる"
+            ],
+            "year": 2024,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s3": {
+                    "count": 6,
+                    "episodes": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world/s3/ep_{ep}.srt"
+                }
+            }
+        },
+        "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3": {
+            "slug": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3",
+            "old_slug": null,
+            "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+            "anilist_id": 185756,
+            "mal_id": 60601,
+            "aliases": [
+                "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+                "転生貴族、鑑定スキルで成り上がる 第3期",
+                "Tensei Kizoku",
+                "Kantei Skill de Nariagaru 3rd Season"
+            ],
+            "synonyms": [
+                "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+                "転生貴族、鑑定スキルで成り上がる 第3期",
+                "Tensei Kizoku",
+                "Kantei Skill de Nariagaru 3rd Season"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s3": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3/s3/ep_{ep}.srt"
+                }
+            }
+        },
+        "black-clover": {
+            "slug": "black-clover",
+            "old_slug": null,
+            "title": "Black Clover",
+            "anilist_id": 97940,
+            "mal_id": 34572,
+            "aliases": [],
+            "synonyms": [
+                "Black Clover",
+                "Чёрный клевер",
+                "תלתן שחור",
+                "แบล็กโคลเวอร์",
+                "ブラッククローバー"
+            ],
+            "year": 2017,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/black-clover/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "black-clover-season-2": {
+            "slug": "black-clover-season-2",
+            "old_slug": null,
+            "title": "Black Clover Season 2",
+            "anilist_id": 195604,
+            "mal_id": 61967,
+            "aliases": [],
+            "synonyms": [
+                "Black Clover 2nd Season",
+                "Black Clover Season 2",
+                "ブラッククローバー 第2期"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/black-clover-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "bleach": {
+            "slug": "bleach",
+            "old_slug": null,
+            "title": "Bleach",
+            "anilist_id": 269,
+            "mal_id": 269,
+            "aliases": [],
+            "synonyms": [
+                "'בליץ",
+                "BLEACH",
+                "Bleach",
+                "Блич",
+                "بليتش",
+                "เทพมรณะ",
+                "ブリーチ"
+            ],
+            "year": 2004,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "bleach-thousand-year-blood-war-the-separation": {
+            "slug": "bleach-thousand-year-blood-war-the-separation",
+            "old_slug": null,
+            "title": "Bleach Thousand Year Blood War The Separation",
+            "anilist_id": 159322,
+            "mal_id": 53998,
+            "aliases": [],
+            "synonyms": [
+                "BLEACH TYBW",
+                "BLEACH 千年血戦篇 第2クール",
+                "BLEACH 千年血戦篇-訣別譚-",
+                "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+                "BLEACH: Thousand Year Blood War Part 2",
+                "BLEACH: Thousand-Year Blood War - The Separation"
+            ],
+            "year": 2023,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 2,
+                    "episodes": [
+                        2,
+                        3
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/bleach-thousand-year-blood-war-the-separation/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "classroom-of-the-elite-iv": {
+            "slug": "classroom-of-the-elite-iv",
+            "old_slug": null,
+            "title": "Classroom Of The Elite Iv",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s4": {
+                    "count": 3,
+                    "episodes": [
+                        1,
+                        2,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
+                }
+            }
+        },
+        "dragon-ball-super-beerus": {
+            "slug": "dragon-ball-super-beerus",
+            "old_slug": null,
+            "title": "Dragon Ball Super Beerus",
+            "anilist_id": 206814,
+            "mal_id": 63367,
+            "aliases": [],
+            "synonyms": [
+                "DBS Beerus",
+                "Dragon Ball Super: Beerus",
+                "ドラゴンボール超 ビルス"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 2,
+                    "episodes": [
+                        1,
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/dragon-ball-super-beerus/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "dreamland": {
+            "slug": "dreamland",
+            "old_slug": null,
+            "title": "Dreamland",
+            "anilist_id": 114466,
+            "mal_id": 51051,
+            "aliases": [],
+            "synonyms": [
+                "DREAMLAND"
+            ],
+            "year": 2018,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 6,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/dreamland/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg": {
+            "slug": "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
+            "old_slug": null,
+            "title": "Even Though I M A Super Timid Noble Girl I Accepted The Bet From My Cunning Fiance Cozcg",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "firefly-wedding": {
+            "slug": "firefly-wedding",
+            "old_slug": null,
+            "title": "Firefly Wedding",
+            "anilist_id": 205909,
+            "mal_id": 63293,
+            "aliases": [],
+            "synonyms": [
+                "Firefly Wedding",
+                "Hotaru no Yomeiri",
+                "ホタルの嫁入り"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/firefly-wedding/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "full-clearing-another-world-under-a-goddess-with-zero-believers": {
+            "slug": "full-clearing-another-world-under-a-goddess-with-zero-believers",
+            "old_slug": null,
+            "title": "Full Clearing Another World Under A Goddess With Zero Believers",
+            "anilist_id": 205896,
+            "mal_id": 63292,
+            "aliases": [],
+            "synonyms": [
+                "Clear the World Like a Game with the Zero Believer Goddess",
+                "Full Clearing Another World under a Goddess with Zero Believers",
+                "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+                "信者ゼロの女神サマと始める異世界攻略"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/full-clearing-another-world-under-a-goddess-with-zero-believers/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "gachiakuta": {
+            "slug": "gachiakuta",
+            "old_slug": null,
+            "title": "Gachiakuta",
+            "anilist_id": 178025,
+            "mal_id": 59062,
+            "aliases": [],
+            "synonyms": [
+                "Gachiakuta",
+                "Гачиакута",
+                "ガチアクタ"
+            ],
+            "year": 2025,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 3,
+                    "episodes": [
+                        5,
+                        6,
+                        14
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "horror-collector-mjlir": {
+            "slug": "horror-collector-mjlir",
+            "old_slug": null,
+            "title": "Horror Collector Mjlir",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/horror-collector-mjlir/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "hotel-inhumans-season-2": {
+            "slug": "hotel-inhumans-season-2",
+            "old_slug": null,
+            "title": "Hotel Inhumans Season 2",
+            "anilist_id": 199426,
+            "mal_id": 62590,
+            "aliases": [],
+            "synonyms": [
+                "HOTEL INHUMANS Season 2",
+                "Hotel Inhumans 2nd Season",
+                "ホテル・インヒューマンズ 第2期"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s2": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "kanata-kara": {
+            "slug": "kanata-kara",
+            "old_slug": null,
+            "title": "Kanata Kara",
+            "anilist_id": 209463,
+            "mal_id": 63753,
+            "aliases": [],
+            "synonyms": [
+                "From Far Away",
+                "Kanata Kara",
+                "彼方から"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/kanata-kara/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu": {
+            "slug": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
+            "old_slug": null,
+            "title": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
+            "anilist_id": 202250,
+            "mal_id": 62922,
+            "aliases": [],
+            "synonyms": [
+                "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+                "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
+                "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+                "Maryoku Revo",
+                "貸した魔力は【リボ払い】で強制徴収",
+                "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
+                "魔力リボ"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "magical-sisters-lulutto-lilly": {
+            "slug": "magical-sisters-lulutto-lilly",
+            "old_slug": null,
+            "title": "Magical Sisters Lulutto Lilly",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/magical-sisters-lulutto-lilly/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "magicalexplorer": {
+            "slug": "magicalexplorer",
+            "old_slug": null,
+            "title": "Magicalexplorer",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 9,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/magicalexplorer/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "mission-yozakura-family-season-2": {
+            "slug": "mission-yozakura-family-season-2",
+            "old_slug": null,
+            "title": "Mission Yozakura Family Season 2",
+            "anilist_id": 182578,
+            "mal_id": 60055,
+            "aliases": [],
+            "synonyms": [
+                "Mission: Yozakura Family Season 2",
+                "Yozakura-san Chi no Daisakusen 2nd Season",
+                "夜桜さんちの大作戦 第2期"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s2": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/mission-yozakura-family-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "one-piece": {
+            "slug": "one-piece",
+            "old_slug": null,
+            "title": "One Piece",
+            "anilist_id": 21,
+            "mal_id": 21,
+            "aliases": [],
+            "synonyms": [
+                "All'arrembaggio!",
+                "ONE PIECE",
+                "OP",
+                "Tutti all'arrembaggio!",
+                "Vua Hải Tặc",
+                "Ντρέηκ, το Κυνήγι του Θησαυρού",
+                "Ван-Пис",
+                "וואן פיס",
+                "ون بيس",
+                "วันพีซ",
+                "ワンピース",
+                "海贼王"
+            ],
+            "year": 1999,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 2,
+                    "episodes": [
+                        1,
+                        7
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "overgeared": {
+            "slug": "overgeared",
+            "old_slug": null,
+            "title": "Overgeared",
+            "anilist_id": 212888,
+            "mal_id": 64340,
+            "aliases": [],
+            "synonyms": [
+                "Overgeared",
+                "Tempal - Item no Chikara",
+                "Tempal: Item no Chikara",
+                "Temppal",
+                "テムパル～アイテムの力～",
+                "템빨"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 9,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/overgeared/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "ranma-1-2-2024": {
+            "slug": "ranma-1-2-2024",
+            "old_slug": null,
+            "title": "Ranma 1 2 2024",
+            "anilist_id": 178533,
+            "mal_id": 59145,
+            "aliases": [],
+            "synonyms": [
+                "Ranma 1/2 (2024)",
+                "Ranma 1/2 (New Anime)",
+                "Ranma 1/2 (Shinsaku Anime)",
+                "Ranma1/2 (2024)",
+                "らんま1/2 (2024)",
+                "らんま1/2 (新作アニメ)",
+                "乱马 1/2",
+                "란마1/2"
+            ],
+            "year": 2024,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s3": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/ranma-1-2-2024/s3/ep_{ep}.srt"
+                }
+            }
+        },
+        "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship": {
+            "slug": "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship",
+            "old_slug": null,
+            "title": "Reborn As A Space Mercenary I Woke Up Piloting The Strongest Starship",
+            "anilist_id": 186541,
+            "mal_id": 60948,
+            "aliases": [],
+            "synonyms": [
+                "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+                "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+                "Saikyosoubi",
+                "めざめざ",
+                "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "tank-chair-kjquw": {
+            "slug": "tank-chair-kjquw",
+            "old_slug": null,
+            "title": "Tank Chair Kjquw",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/tank-chair-kjquw/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "the-exiled-heavy-knight-knows-how-to-game-the-system": {
+            "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+            "old_slug": null,
+            "title": "The Exiled Heavy Knight Knows How To Game The System",
+            "anilist_id": 180136,
+            "mal_id": 59741,
+            "aliases": [],
+            "synonyms": [
+                "Juukishi",
+                "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
+                "The Exiled Heavy Knight Knows How to Game the System",
+                "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
+                "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+                "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน",
+                "追放された転生重騎士はゲーム知識で無双する"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/the-exiled-heavy-knight-knows-how-to-game-the-system/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "tokyo-revengers-war-of-the-three-titan-arc": {
+            "slug": "tokyo-revengers-war-of-the-three-titan-arc",
+            "old_slug": null,
+            "title": "Tokyo Revengers War Of The Three Titan Arc",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "umayuru-full-gate": {
+            "slug": "umayuru-full-gate",
+            "old_slug": null,
+            "title": "Umayuru Full Gate",
+            "anilist_id": 215835,
+            "mal_id": 64867,
+            "aliases": [],
+            "synonyms": [
+                "Umayuru: Full Gate!",
+                "うまゆるふるげ〜と!"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 6,
+                    "episodes": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/umayuru-full-gate/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "uncle-s-obsession-with-cute-things": {
+            "slug": "uncle-s-obsession-with-cute-things",
+            "old_slug": null,
+            "title": "Uncle S Obsession With Cute Things",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 8,
+                    "episodes": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/uncle-s-obsession-with-cute-things/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "vertex-force-sswex": {
+            "slug": "vertex-force-sswex",
+            "old_slug": null,
+            "title": "Vertex Force Sswex",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 7,
+                    "episodes": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/vertex-force-sswex/s1/ep_{ep}.srt"
+                }
+            }
         }
-      },
-      "year": 2022,
-      "synonyms": [
-        "AOASHI แข็งเด็กหัวใจนักสู้",
-        "Ao Ashi - Playmaker",
-        "Aoashi",
-        "أواشي",
-        "アオアシ"
-      ]
-    },
-    "aoashi-2nd-season": {
-      "slug": "aoashi-2nd-season",
-      "old_slug": null,
-      "title": "Aoashi 2Nd Season",
-      "anilist_id": 191788,
-      "mal_id": 61603,
-      "aliases": [],
-      "seasons": {
-        "s2": {
-          "count": 1,
-          "episodes": [
-            1
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/aoashi-2nd-season/s2/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Aoashi 2nd Season",
-        "Aoashi Season 2",
-        "アオアシ 第2期"
-      ]
-    },
-    "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world": {
-      "slug": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world",
-      "old_slug": null,
-      "title": "As A Reincarnated Aristocrat I Ll Use My Appraisal Skill To Rise In The World",
-      "anilist_id": 164702,
-      "mal_id": 55265,
-      "aliases": [],
-      "seasons": {
-        "s3": {
-          "count": 6,
-          "episodes": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world/s3/ep_{ep}.srt"
-        }
-      },
-      "year": 2024,
-      "synonyms": [
-        "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
-        "KanteiSkill",
-        "Tensei Kizoku, Kantei Skill de Nariagaru",
-        "転生貴族、鑑定スキルで成り上がる"
-      ]
-    },
-    "black-clover": {
-      "slug": "black-clover",
-      "old_slug": null,
-      "title": "Black Clover",
-      "anilist_id": 97940,
-      "mal_id": 34572,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 1,
-          "episodes": [
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/black-clover/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2017,
-      "synonyms": [
-        "Black Clover",
-        "Чёрный клевер",
-        "תלתן שחור",
-        "แบล็กโคลเวอร์",
-        "ブラッククローバー"
-      ]
-    },
-    "black-clover-season-2": {
-      "slug": "black-clover-season-2",
-      "old_slug": null,
-      "title": "Black Clover Season 2",
-      "anilist_id": 195604,
-      "mal_id": 61967,
-      "aliases": [],
-      "seasons": {
-        "s2": {
-          "count": 1,
-          "episodes": [
-            1
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/black-clover-season-2/s2/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Black Clover 2nd Season",
-        "Black Clover Season 2",
-        "ブラッククローバー 第2期"
-      ]
-    },
-    "bleach": {
-      "slug": "bleach",
-      "old_slug": null,
-      "title": "Bleach",
-      "anilist_id": 269,
-      "mal_id": 269,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 1,
-          "episodes": [
-            1
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2004,
-      "synonyms": [
-        "'בליץ",
-        "BLEACH",
-        "Bleach",
-        "Блич",
-        "بليتش",
-        "เทพมรณะ",
-        "ブリーチ"
-      ]
-    },
-    "bleach-thousand-year-blood-war-the-separation": {
-      "slug": "bleach-thousand-year-blood-war-the-separation",
-      "old_slug": null,
-      "title": "Bleach Thousand Year Blood War The Separation",
-      "anilist_id": 159322,
-      "mal_id": 53998,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 2,
-          "episodes": [
-            2,
-            3
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/bleach-thousand-year-blood-war-the-separation/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2023,
-      "synonyms": [
-        "BLEACH TYBW",
-        "BLEACH 千年血戦篇 第2クール",
-        "BLEACH 千年血戦篇-訣別譚-",
-        "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
-        "BLEACH: Thousand Year Blood War Part 2",
-        "BLEACH: Thousand-Year Blood War - The Separation"
-      ]
-    },
-    "classroom-of-the-elite-iv": {
-      "slug": "classroom-of-the-elite-iv",
-      "old_slug": null,
-      "title": "Classroom Of The Elite Iv",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s4": {
-          "count": 3,
-          "episodes": [
-            1,
-            2,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
-        }
-      }
-    },
-    "dragon-ball-super-beerus": {
-      "slug": "dragon-ball-super-beerus",
-      "old_slug": null,
-      "title": "Dragon Ball Super Beerus",
-      "anilist_id": 206814,
-      "mal_id": 63367,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 2,
-          "episodes": [
-            1,
-            2
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/dragon-ball-super-beerus/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "DBS Beerus",
-        "Dragon Ball Super: Beerus",
-        "ドラゴンボール超 ビルス"
-      ]
-    },
-    "dreamland": {
-      "slug": "dreamland",
-      "old_slug": null,
-      "title": "Dreamland",
-      "anilist_id": 114466,
-      "mal_id": 51051,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 6,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/dreamland/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2018,
-      "synonyms": [
-        "DREAMLAND"
-      ]
-    },
-    "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg": {
-      "slug": "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
-      "old_slug": null,
-      "title": "Even Though I M A Super Timid Noble Girl I Accepted The Bet From My Cunning Fiance Cozcg",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "firefly-wedding": {
-      "slug": "firefly-wedding",
-      "old_slug": null,
-      "title": "Firefly Wedding",
-      "anilist_id": 205909,
-      "mal_id": 63293,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 1,
-          "episodes": [
-            1
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/firefly-wedding/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Firefly Wedding",
-        "Hotaru no Yomeiri",
-        "ホタルの嫁入り"
-      ]
-    },
-    "full-clearing-another-world-under-a-goddess-with-zero-believers": {
-      "slug": "full-clearing-another-world-under-a-goddess-with-zero-believers",
-      "old_slug": null,
-      "title": "Full Clearing Another World Under A Goddess With Zero Believers",
-      "anilist_id": 205896,
-      "mal_id": 63292,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/full-clearing-another-world-under-a-goddess-with-zero-believers/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Clear the World Like a Game with the Zero Believer Goddess",
-        "Full Clearing Another World under a Goddess with Zero Believers",
-        "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "信者ゼロの女神サマと始める異世界攻略"
-      ]
-    },
-    "gachiakuta": {
-      "slug": "gachiakuta",
-      "old_slug": null,
-      "title": "Gachiakuta",
-      "anilist_id": 178025,
-      "mal_id": 59062,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 3,
-          "episodes": [
-            5,
-            6,
-            14
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2025,
-      "synonyms": [
-        "Gachiakuta",
-        "Гачиакута",
-        "ガチアクタ"
-      ]
-    },
-    "horror-collector-mjlir": {
-      "slug": "horror-collector-mjlir",
-      "old_slug": null,
-      "title": "Horror Collector Mjlir",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/horror-collector-mjlir/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "hotel-inhumans-season-2": {
-      "slug": "hotel-inhumans-season-2",
-      "old_slug": null,
-      "title": "Hotel Inhumans Season 2",
-      "anilist_id": 199426,
-      "mal_id": 62590,
-      "aliases": [],
-      "seasons": {
-        "s2": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "HOTEL INHUMANS Season 2",
-        "Hotel Inhumans 2nd Season",
-        "ホテル・インヒューマンズ 第2期"
-      ]
-    },
-    "kanata-kara": {
-      "slug": "kanata-kara",
-      "old_slug": null,
-      "title": "Kanata Kara",
-      "anilist_id": 209463,
-      "mal_id": 63753,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/kanata-kara/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "From Far Away",
-        "Kanata Kara",
-        "彼方から"
-      ]
-    },
-    "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu": {
-      "slug": "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu",
-      "old_slug": null,
-      "title": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
-      "anilist_id": 202250,
-      "mal_id": 62922,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 1,
-          "episodes": [
-            2
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-        "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
-        "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-        "Maryoku Revo",
-        "貸した魔力は【リボ払い】で強制徴収",
-        "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
-        "魔力リボ"
-      ]
-    },
-    "magical-sisters-lulutto-lilly": {
-      "slug": "magical-sisters-lulutto-lilly",
-      "old_slug": null,
-      "title": "Magical Sisters Lulutto Lilly",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/magical-sisters-lulutto-lilly/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "magicalexplorer": {
-      "slug": "magicalexplorer",
-      "old_slug": null,
-      "title": "Magicalexplorer",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/magicalexplorer/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "mission-yozakura-family-season-2": {
-      "slug": "mission-yozakura-family-season-2",
-      "old_slug": null,
-      "title": "Mission Yozakura Family Season 2",
-      "anilist_id": 182578,
-      "mal_id": 60055,
-      "aliases": [],
-      "seasons": {
-        "s2": {
-          "count": 7,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/mission-yozakura-family-season-2/s2/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Mission: Yozakura Family Season 2",
-        "Yozakura-san Chi no Daisakusen 2nd Season",
-        "夜桜さんちの大作戦 第2期"
-      ]
-    },
-    "one-piece": {
-      "slug": "one-piece",
-      "old_slug": null,
-      "title": "One Piece",
-      "anilist_id": 21,
-      "mal_id": 21,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 2,
-          "episodes": [
-            1,
-            7
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 1999,
-      "synonyms": [
-        "All'arrembaggio!",
-        "ONE PIECE",
-        "OP",
-        "Tutti all'arrembaggio!",
-        "Vua Hải Tặc",
-        "Ντρέηκ, το Κυνήγι του Θησαυρού",
-        "Ван-Пис",
-        "וואן פיס",
-        "ون بيس",
-        "วันพีซ",
-        "ワンピース",
-        "海贼王"
-      ]
-    },
-    "overgeared": {
-      "slug": "overgeared",
-      "old_slug": null,
-      "title": "Overgeared",
-      "anilist_id": 212888,
-      "mal_id": 64340,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 9,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/overgeared/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Overgeared",
-        "Tempal - Item no Chikara",
-        "Tempal: Item no Chikara",
-        "Temppal",
-        "テムパル～アイテムの力～",
-        "템빨"
-      ]
-    },
-    "ranma-1-2-2024": {
-      "slug": "ranma-1-2-2024",
-      "old_slug": null,
-      "title": "Ranma 1 2 2024",
-      "anilist_id": 178533,
-      "mal_id": 59145,
-      "aliases": [],
-      "seasons": {
-        "s3": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/ranma-1-2-2024/s3/ep_{ep}.srt"
-        }
-      },
-      "year": 2024,
-      "synonyms": [
-        "Ranma 1/2 (2024)",
-        "Ranma 1/2 (New Anime)",
-        "Ranma 1/2 (Shinsaku Anime)",
-        "Ranma1/2 (2024)",
-        "らんま1/2 (2024)",
-        "らんま1/2 (新作アニメ)",
-        "乱马 1/2",
-        "란마1/2"
-      ]
-    },
-    "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship": {
-      "slug": "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship",
-      "old_slug": null,
-      "title": "Reborn As A Space Mercenary I Woke Up Piloting The Strongest Starship",
-      "anilist_id": 186541,
-      "mal_id": 60948,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-        "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-        "Saikyosoubi",
-        "めざめざ",
-        "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
-      ]
-    },
-    "tank-chair-kjquw": {
-      "slug": "tank-chair-kjquw",
-      "old_slug": null,
-      "title": "Tank Chair Kjquw",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/tank-chair-kjquw/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "the-exiled-heavy-knight-knows-how-to-game-the-system": {
-      "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
-      "old_slug": null,
-      "title": "The Exiled Heavy Knight Knows How To Game The System",
-      "anilist_id": 180136,
-      "mal_id": 59741,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 1,
-          "episodes": [
-            2
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/the-exiled-heavy-knight-knows-how-to-game-the-system/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Juukishi",
-        "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
-        "The Exiled Heavy Knight Knows How to Game the System",
-        "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
-        "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-        "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน",
-        "追放された転生重騎士はゲーム知識で無双する"
-      ]
-    },
-    "tokyo-revengers-war-of-the-three-titan-arc": {
-      "slug": "tokyo-revengers-war-of-the-three-titan-arc",
-      "old_slug": null,
-      "title": "Tokyo Revengers War Of The Three Titan Arc",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 1,
-          "episodes": [
-            1
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "umayuru-full-gate": {
-      "slug": "umayuru-full-gate",
-      "old_slug": null,
-      "title": "Umayuru Full Gate",
-      "anilist_id": 215835,
-      "mal_id": 64867,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 6,
-          "episodes": [
-            1,
-            2,
-            4,
-            5,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/umayuru-full-gate/s1/ep_{ep}.srt"
-        }
-      },
-      "year": 2026,
-      "synonyms": [
-        "Umayuru: Full Gate!",
-        "うまゆるふるげ〜と!"
-      ]
-    },
-    "uncle-s-obsession-with-cute-things": {
-      "slug": "uncle-s-obsession-with-cute-things",
-      "old_slug": null,
-      "title": "Uncle S Obsession With Cute Things",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 8,
-          "episodes": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/uncle-s-obsession-with-cute-things/s1/ep_{ep}.srt"
-        }
-      }
-    },
-    "vertex-force-sswex": {
-      "slug": "vertex-force-sswex",
-      "old_slug": null,
-      "title": "Vertex Force Sswex",
-      "anilist_id": null,
-      "mal_id": null,
-      "aliases": [],
-      "seasons": {
-        "s1": {
-          "count": 7,
-          "episodes": [
-            1,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-          ],
-          "missing": [],
-          "path_pattern": "subtitles/vertex-force-sswex/s1/ep_{ep}.srt"
-        }
-      }
     }
-  }
 }
