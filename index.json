@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 17,
+    "total_animes": 18,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -321,6 +321,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "you-don-t-know-gunma-yet": {
+            "slug": "you-don-t-know-gunma-yet",
+            "old_slug": null,
+            "title": "You Don't Know Gunma Yet",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/you-don-t-know-gunma-yet/s1/ep_{ep}.srt"
                 }
             }
         }
