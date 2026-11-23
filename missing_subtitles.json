@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-11-23T07:58:31.832042+00:00",
+  "summary": {
+    "partial_missing_anime": 0,
+    "completely_missing_anime": 2
+  },
+  "partial_missing": [],
+  "completely_missing": [
+    {
+      "slug": "my-girlfriend-s-friend-6icla",
+      "title": "My Girlfriend's Friend",
+      "matched_folder": "my-girlfriend-s-friend-6icla",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/my-girlfriend-s-friend-6icla/ep-1"
+    },
+    {
+      "slug": "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+      "title": "The Lonely Snow Widow and the Cursed Ring",
+      "matched_folder": "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/the-lonely-snow-widow-and-the-cursed-ring-htedc/ep-1"
+    }
+  ],
+  "missing_animes": [
+    {
+      "slug": "my-girlfriend-s-friend-6icla",
+      "title": "My Girlfriend's Friend",
+      "matched_folder": "my-girlfriend-s-friend-6icla",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/my-girlfriend-s-friend-6icla/ep-1"
+    },
+    {
+      "slug": "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+      "title": "The Lonely Snow Widow and the Cursed Ring",
+      "matched_folder": "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/the-lonely-snow-widow-and-the-cursed-ring-htedc/ep-1"
+    }
+  ]
+}

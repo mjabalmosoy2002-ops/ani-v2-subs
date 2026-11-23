@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "last_page": 1,
+  "uploaded_episodes": 32,
+  "skipped_existing": 0,
+  "updated_at": "2026-11-23T07:58:31.832042+00:00",
+  "completed_animes": [
+    "hotel-inhumans-season-2-u4pgt",
+    "kanata-kara-9tdfw"
+  ],
+  "processed_slugs": [
+    "hotel-inhumans-season-2-u4pgt",
+    "kanata-kara-9tdfw",
+    "my-girlfriend-s-friend-6icla",
+    "the-lonely-snow-widow-and-the-cursed-ring-htedc"
+  ],
+  "retry_pending_slugs": [
+    "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
+    "dragon-ball-super-beerus-xtjlb",
+    "i-m-dating-a-dark-summoner-wfo1x",
+    "pan-dorobou-hqpci"
+  ]
+}
