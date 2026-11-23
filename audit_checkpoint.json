@@ -1,28 +1,37 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 42,
+  "uploaded_episodes": 78,
   "skipped_existing": 8,
-  "updated_at": "2026-11-23T09:24:30.779660+00:00",
+  "updated_at": "2026-11-23T09:58:48.744244+00:00",
   "completed_animes": [
+    "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
+    "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "kanata-kara-9tdfw",
     "overgeared-rah7b",
-    "tank-chair-kjquw"
+    "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
+    "tank-chair-kjquw",
+    "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "processed_slugs": [
+    "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
+    "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
     "kanata-kara-9tdfw",
     "my-girlfriend-s-friend-6icla",
     "overgeared-rah7b",
+    "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "tank-chair-kjquw",
-    "the-lonely-snow-widow-and-the-cursed-ring-htedc"
+    "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+    "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "retry_pending_slugs": [
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
     "dragon-ball-super-beerus-xtjlb",
     "hotel-inhumans-season-2-u4pgt",
     "i-m-dating-a-dark-summoner-wfo1x",
-    "pan-dorobou-hqpci"
+    "pan-dorobou-hqpci",
+    "umayuru-full-gate-zf24t"
   ]
 }
