@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 16,
+    "total_animes": 17,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -131,6 +131,24 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/dr-stone-science-future/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "dragon-ball-super-beerus": {
+            "slug": "dragon-ball-super-beerus",
+            "old_slug": null,
+            "title": "Dragon Ball Super: Beerus",
+            "anilist_id": null,
+            "mal_id": null,
+            "aliases": [],
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/dragon-ball-super-beerus/s1/ep_{ep}.srt"
                 }
             }
         },
