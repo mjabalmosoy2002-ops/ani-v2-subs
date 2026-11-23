@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-23T09:58:48.744244+00:00",
+  "updated_at": "2026-11-23T10:23:06.711533+00:00",
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 2
+    "completely_missing_anime": 3
   },
   "partial_missing": [],
   "completely_missing": [
@@ -26,6 +26,16 @@
       "status": "completely_missing",
       "reason": "no_cc",
       "source_url": "https://anichi.cz/watch/the-lonely-snow-widow-and-the-cursed-ring-htedc/ep-1"
+    },
+    {
+      "slug": "there-is-also-a-hole-in-the-student-organization-l9gqz",
+      "title": "Even the Student Council Has Its Holes!",
+      "matched_folder": "there-is-also-a-hole-in-the-student-organization",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1"
     }
   ],
   "missing_animes": [
@@ -48,6 +58,16 @@
       "status": "completely_missing",
       "reason": "no_cc",
       "source_url": "https://anichi.cz/watch/the-lonely-snow-widow-and-the-cursed-ring-htedc/ep-1"
+    },
+    {
+      "slug": "there-is-also-a-hole-in-the-student-organization-l9gqz",
+      "title": "Even the Student Council Has Its Holes!",
+      "matched_folder": "there-is-also-a-hole-in-the-student-organization",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/there-is-also-a-hole-in-the-student-organization-l9gqz/ep-1"
     }
   ]
 }
