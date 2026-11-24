@@ -1,12 +1,53 @@
 {
   "schema_version": 2,
-  "updated_at_ms": 1795521899496,
+  "updated_at": "2026-11-24T22:51:24.393401+00:00",
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 0,
-    "total_missing_episodes_in_partial": 0
+    "completely_missing_anime": 2
   },
   "partial_missing": [],
-  "completely_missing": [],
-  "missing_animes": []
+  "completely_missing": [
+    {
+      "slug": "proud-swordsman-qn69d",
+      "title": "Proud Swordsman",
+      "matched_folder": "proud-swordsman",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/proud-swordsman-qn69d/ep-1"
+    },
+    {
+      "slug": "strange-steel-fairy-rouran-sndsq",
+      "title": "Strange Steel Fairy Rouran",
+      "matched_folder": "strange-steel-fairy-rouran",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/strange-steel-fairy-rouran-sndsq/ep-1"
+    }
+  ],
+  "missing_animes": [
+    {
+      "slug": "proud-swordsman-qn69d",
+      "title": "Proud Swordsman",
+      "matched_folder": "proud-swordsman",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/proud-swordsman-qn69d/ep-1"
+    },
+    {
+      "slug": "strange-steel-fairy-rouran-sndsq",
+      "title": "Strange Steel Fairy Rouran",
+      "matched_folder": "strange-steel-fairy-rouran",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/strange-steel-fairy-rouran-sndsq/ep-1"
+    }
+  ]
 }
