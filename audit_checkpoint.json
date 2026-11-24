@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 419,
+  "uploaded_episodes": 452,
   "skipped_existing": 22,
-  "updated_at": "2026-11-24T23:04:27.615526+00:00",
+  "updated_at": "2026-11-24T23:06:13.378310+00:00",
   "completed_animes": [
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
     "battle-spirits-re-zekkai-no-ku-thbod",
@@ -16,7 +16,9 @@
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7",
     "horror-collector-mjlir",
     "hotel-inhumans-season-2-u4pgt",
+    "i-m-looking-for-a-zombie-4go9p",
     "kanata-kara-9tdfw",
+    "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "magicalexplorer-49d6g",
     "mission-yozakura-family-season-2-part-2-l9bzv",
     "overgeared-rah7b",
@@ -25,6 +27,7 @@
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
     "shiotaiou-no-satou-san-ga-ore-ni-dake-amai-kt1x9",
     "tank-chair-kjquw",
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "processed_slugs": [
@@ -39,7 +42,9 @@
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7",
     "horror-collector-mjlir",
     "hotel-inhumans-season-2-u4pgt",
+    "i-m-looking-for-a-zombie-4go9p",
     "kanata-kara-9tdfw",
+    "magical-sisters-lulutto-lilly-part-2-8iqk0",
     "magicalexplorer-49d6g",
     "mahou-shoujo-ikusei-keikaku-restart-tpssv",
     "mission-yozakura-family-season-2-part-2-l9bzv",
@@ -53,10 +58,12 @@
     "strange-steel-fairy-rouran-sndsq",
     "tank-chair-kjquw",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
+    "the-seven-knights-of-the-marronnier-kingdom-oqdfc",
     "there-is-also-a-hole-in-the-student-organization-l9gqz",
     "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "retry_pending_slugs": [
+    "a-wild-last-boss-appeared-season-2-vuehs",
     "aoashi-2nd-season",
     "aoki-denshou-welsh-shedar-ri0vi",
     "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-sztz8",
@@ -67,6 +74,7 @@
     "dragon-ball-super-beerus-xtjlb",
     "fullmetal-alchemist-premium-ova-collection-ivv8m",
     "i-m-dating-a-dark-summoner-wfo1x",
+    "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95",
     "mao-fv7yd",
     "nia-liston-the-merciless-maiden-wjjhe",
     "one-piece-odmau",
@@ -81,6 +89,7 @@
     "touch-tcheh",
     "umayuru-full-gate-zf24t",
     "ushiro-no-shoumen-kamui-san-1f2b5",
+    "vertex-force-sswex",
     "yugo-the-negotiator-tckw7"
   ]
 }
