@@ -1,9 +1,9 @@
 {
   "schema_version": 3,
   "last_page": 1,
-  "uploaded_episodes": 30,
-  "skipped_existing": 35,
-  "updated_at_ms": 1795520400478,
+  "uploaded_episodes": 11,
+  "skipped_existing": 0,
+  "updated_at_ms": 1795521899496,
   "note": "",
   "in_progress_animes": {
     "a-tale-of-the-secret-saint-z50ms": 2,
@@ -60,7 +60,6 @@
     "oriental-martial-academy-s9n7r": 10,
     "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2": 10,
     "pan-dorobou-hqpci": 1,
-    "psyren-wmsqi": 1,
     "re-zero-starting-life-in-another-world-season-4-4hk9h": 9,
     "renegade-immortal-movie-slaying-the-blood-progenitor-4ak1z": 10,
     "renegade-immortal-ogxqp": 10,
@@ -100,12 +99,12 @@
   "uploaded_episodes_by_slug": {
     "golden-curse-daoau": [1, 2, 3, 4, 5, 6],
     "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-yqrq7": [1, 2, 3, 4, 7],
-    "psyren-wmsqi": [1],
+    "psyren-wmsqi": [1, 2, 3, 4, 5, 6],
     "resident-evil-vendetta-vk4ol": [1],
     "shiguang-dailiren-iii": [1, 2, 3, 4],
-    "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee": [1],
+    "so-what-s-wrong-with-getting-reborn-as-a-goblin-tp4ee": [1, 2, 3, 4, 6, 7, 8],
     "tenmaku-no-jaadugar-76376": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
   },
-  "completed_animes": ["dreamland-z8wn3", "hotel-inhumans-season-2-u4pgt", "kanata-kara-9tdfw", "resident-evil-vendetta-vk4ol", "tenmaku-no-jaadugar-76376"],
-  "processed_slugs": ["a-returner-s-magic-should-be-special-season-2", "awol-absent-without-leave-zgpge", "code-geass-lelouch-of-the-rebellion-r2-picture-dramas-pun9i", "dreamland-z8wn3", "gambler-densetsu-tetsuya-yy1ng", "horror-collector-mjlir", "hotel-inhumans-season-2-u4pgt", "i-m-dating-a-dark-summoner-wfo1x", "kanata-kara-9tdfw", "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95", "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995", "kirarin-revolution-c59ge", "lupin-the-thiiirrrd-ky11o", "magicalexplorer-49d6g", "mahou-shoujo-ikusei-keikaku-restart-tpssv", "marika-s-love-meter-malfunction-0cit4", "resident-evil-vendetta-vk4ol", "super-doll-licca-chan-ffgfq", "tenmaku-no-jaadugar-76376", "the-ramparts-of-ice-season-2-qgjev", "there-is-also-a-hole-in-the-student-organization-l9gqz"]
+  "completed_animes": ["dreamland-z8wn3", "hotel-inhumans-season-2-u4pgt", "kanata-kara-9tdfw", "psyren-wmsqi", "resident-evil-vendetta-vk4ol", "tenmaku-no-jaadugar-76376"],
+  "processed_slugs": ["a-returner-s-magic-should-be-special-season-2", "awol-absent-without-leave-zgpge", "code-geass-lelouch-of-the-rebellion-r2-picture-dramas-pun9i", "dreamland-z8wn3", "gambler-densetsu-tetsuya-yy1ng", "horror-collector-mjlir", "hotel-inhumans-season-2-u4pgt", "i-m-dating-a-dark-summoner-wfo1x", "kanata-kara-9tdfw", "kashita-maryoku-wa-revo-barai-de-kyousei-choushuu-mgd95", "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-ac995", "kirarin-revolution-c59ge", "lupin-the-thiiirrrd-ky11o", "magicalexplorer-49d6g", "mahou-shoujo-ikusei-keikaku-restart-tpssv", "marika-s-love-meter-malfunction-0cit4", "psyren-wmsqi", "resident-evil-vendetta-vk4ol", "super-doll-licca-chan-ffgfq", "tenmaku-no-jaadugar-76376", "the-ramparts-of-ice-season-2-qgjev", "there-is-also-a-hole-in-the-student-organization-l9gqz"]
 }
