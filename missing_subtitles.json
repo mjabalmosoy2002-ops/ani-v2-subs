@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-24T22:53:14.557177+00:00",
+  "updated_at": "2026-11-24T23:04:27.615526+00:00",
   "summary": {
     "partial_missing_anime": 0,
-    "completely_missing_anime": 2
+    "completely_missing_anime": 3
   },
   "partial_missing": [],
   "completely_missing": [
@@ -26,6 +26,16 @@
       "status": "completely_missing",
       "reason": "no_cc",
       "source_url": "https://anichi.cz/watch/strange-steel-fairy-rouran-sndsq/ep-1"
+    },
+    {
+      "slug": "mahou-shoujo-ikusei-keikaku-restart-tpssv",
+      "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "matched_folder": "mahou-shoujo-ikusei-keikaku-restart",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/mahou-shoujo-ikusei-keikaku-restart-tpssv/ep-1"
     }
   ],
   "missing_animes": [
@@ -48,6 +58,16 @@
       "status": "completely_missing",
       "reason": "no_cc",
       "source_url": "https://anichi.cz/watch/strange-steel-fairy-rouran-sndsq/ep-1"
+    },
+    {
+      "slug": "mahou-shoujo-ikusei-keikaku-restart-tpssv",
+      "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "matched_folder": "mahou-shoujo-ikusei-keikaku-restart",
+      "season": 1,
+      "is_movie": false,
+      "status": "completely_missing",
+      "reason": "no_cc",
+      "source_url": "https://anichi.cz/watch/mahou-shoujo-ikusei-keikaku-restart-tpssv/ep-1"
     }
   ]
 }
