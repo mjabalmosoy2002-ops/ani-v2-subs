@@ -1,11 +1,12 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 131,
-  "skipped_existing": 0,
-  "updated_at": "2026-11-23T10:23:06.711533+00:00",
+  "uploaded_episodes": 349,
+  "skipped_existing": 7,
+  "updated_at": "2026-11-24T22:51:24.393401+00:00",
   "completed_animes": [
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
+    "dark-machine-the-animation-jt0nm",
     "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
@@ -21,6 +22,7 @@
   ],
   "processed_slugs": [
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
+    "dark-machine-the-animation-jt0nm",
     "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
     "full-clearing-another-world-under-a-goddess-with-zero-believers-pqyvl",
@@ -30,15 +32,22 @@
     "magicalexplorer-49d6g",
     "mission-yozakura-family-season-2-part-2-l9bzv",
     "my-girlfriend-s-friend-6icla",
+    "proud-swordsman-qn69d",
     "ranma-1-2-2024-season-3-jmxy2",
     "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-i1d5s",
+    "strange-steel-fairy-rouran-sndsq",
     "tank-chair-kjquw",
     "the-lonely-snow-widow-and-the-cursed-ring-htedc",
     "there-is-also-a-hole-in-the-student-organization-l9gqz",
     "uncle-s-obsession-with-cute-things-jbqqb"
   ],
   "retry_pending_slugs": [
+    "aoki-denshou-welsh-shedar-ri0vi",
+    "fullmetal-alchemist-premium-ova-collection-ivv8m",
     "pan-dorobou-hqpci",
-    "punirunes-puni-4-qxmzq"
+    "punirunes-puni-4-qxmzq",
+    "red-river-993eb",
+    "touch-tcheh",
+    "yugo-the-negotiator-tckw7"
   ]
 }
