@@ -1,11 +1,12 @@
 {
   "schema_version": 2,
   "last_page": 1,
-  "uploaded_episodes": 349,
+  "uploaded_episodes": 388,
   "skipped_existing": 7,
-  "updated_at": "2026-11-24T22:51:24.393401+00:00",
+  "updated_at": "2026-11-24T22:53:14.557177+00:00",
   "completed_animes": [
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
+    "chitose-is-in-the-ramune-bottle-part-2-q6hus",
     "dark-machine-the-animation-jt0nm",
     "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
@@ -22,6 +23,7 @@
   ],
   "processed_slugs": [
     "ace-of-diamond-act-ii-season-2-part-2-u6gir",
+    "chitose-is-in-the-ramune-bottle-part-2-q6hus",
     "dark-machine-the-animation-jt0nm",
     "dreamland-z8wn3",
     "even-though-i-m-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-cozcg",
@@ -43,10 +45,15 @@
   ],
   "retry_pending_slugs": [
     "aoki-denshou-welsh-shedar-ri0vi",
+    "choujun-choujou-senpai-gouba",
     "fullmetal-alchemist-premium-ova-collection-ivv8m",
+    "one-piece-odmau",
     "pan-dorobou-hqpci",
     "punirunes-puni-4-qxmzq",
     "red-river-993eb",
+    "suikoden-the-anime-gowvw",
+    "the-classroom-of-a-black-cat-and-a-witch-bavvd",
+    "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-szoin",
     "touch-tcheh",
     "yugo-the-negotiator-tckw7"
   ]
