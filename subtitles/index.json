@@ -382,9 +382,10 @@
             "format": "TV",
             "seasons": {
                 "s2": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        11
+                        11,
+                        12
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/blue-lock-season-2/s2/ep_{ep}.srt"
