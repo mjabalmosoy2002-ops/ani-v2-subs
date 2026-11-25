@@ -1,13 +1,13 @@
 {
     "schema_version": 4,
-    "total_animes": 33,
+    "total_animes": 37,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
             "old_slug": null,
             "title": "A Gatherer S Adventure In Isekai",
-            "anilist_id": null,
-            "mal_id": null,
+            "anilist_id": 187663,
+            "mal_id": 61174,
             "aliases": [],
             "synonyms": [],
             "year": null,
@@ -16,11 +16,12 @@
             "format": null,
             "seasons": {
                 "s1": {
-                    "count": 3,
+                    "count": 4,
                     "episodes": [
                         2,
                         9,
-                        10
+                        10,
+                        11
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
@@ -67,7 +68,13 @@
             "title": "Ao Ashi",
             "anilist_id": 134732,
             "mal_id": 49052,
-            "aliases": [],
+            "aliases": [
+                "AOASHI แข็งเด็กหัวใจนักสู้",
+                "Ao Ashi - Playmaker",
+                "Aoashi",
+                "أواشي",
+                "アオアシ"
+            ],
             "synonyms": [
                 "AOASHI แข็งเด็กหัวใจนักสู้",
                 "Ao Ashi - Playmaker",
@@ -236,7 +243,15 @@
             "title": "Bleach",
             "anilist_id": 269,
             "mal_id": 269,
-            "aliases": [],
+            "aliases": [
+                "'בליץ",
+                "BLEACH",
+                "Bleach",
+                "Блич",
+                "بليتش",
+                "เทพมรณะ",
+                "ブリーチ"
+            ],
             "synonyms": [
                 "'בליץ",
                 "BLEACH",
@@ -267,7 +282,14 @@
             "title": "Bleach Thousand Year Blood War The Separation",
             "anilist_id": 159322,
             "mal_id": 53998,
-            "aliases": [],
+            "aliases": [
+                "BLEACH TYBW",
+                "BLEACH 千年血戦篇 第2クール",
+                "BLEACH 千年血戦篇-訣別譚-",
+                "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+                "BLEACH: Thousand Year Blood War Part 2",
+                "BLEACH: Thousand-Year Blood War - The Separation"
+            ],
             "synonyms": [
                 "BLEACH TYBW",
                 "BLEACH 千年血戦篇 第2クール",
@@ -296,8 +318,8 @@
             "slug": "classroom-of-the-elite-iv",
             "old_slug": null,
             "title": "Classroom Of The Elite Iv",
-            "anilist_id": null,
-            "mal_id": null,
+            "anilist_id": 180745,
+            "mal_id": 59708,
             "aliases": [],
             "synonyms": [],
             "year": null,
@@ -317,13 +339,42 @@
                 }
             }
         },
+        "dr-stone-science-future": {
+            "slug": "dr-stone-science-future",
+            "old_slug": null,
+            "title": "Dr. Stone: Science Future",
+            "anilist_id": 172019,
+            "mal_id": 57592,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 3,
+                    "episodes": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/dr-stone-science-future/s1/ep_{ep}.srt"
+                }
+            }
+        },
         "dragon-ball-super-beerus": {
             "slug": "dragon-ball-super-beerus",
             "old_slug": null,
             "title": "Dragon Ball Super Beerus",
             "anilist_id": 206814,
             "mal_id": 63367,
-            "aliases": [],
+            "aliases": [
+                "DBS Beerus",
+                "Dragon Ball Super: Beerus",
+                "ドラゴンボール超 ビルス"
+            ],
             "synonyms": [
                 "DBS Beerus",
                 "Dragon Ball Super: Beerus",
@@ -411,7 +462,11 @@
             "title": "Firefly Wedding",
             "anilist_id": 205909,
             "mal_id": 63293,
-            "aliases": [],
+            "aliases": [
+                "Firefly Wedding",
+                "Hotaru no Yomeiri",
+                "ホタルの嫁入り"
+            ],
             "synonyms": [
                 "Firefly Wedding",
                 "Hotaru no Yomeiri",
@@ -472,7 +527,11 @@
             "title": "Gachiakuta",
             "anilist_id": 178025,
             "mal_id": 59062,
-            "aliases": [],
+            "aliases": [
+                "Gachiakuta",
+                "Гачиакута",
+                "ガチアクタ"
+            ],
             "synonyms": [
                 "Gachiakuta",
                 "Гачиакута",
@@ -530,7 +589,11 @@
             "title": "Hotel Inhumans Season 2",
             "anilist_id": 199426,
             "mal_id": 62590,
-            "aliases": [],
+            "aliases": [
+                "HOTEL INHUMANS Season 2",
+                "Hotel Inhumans 2nd Season",
+                "ホテル・インヒューマンズ 第2期"
+            ],
             "synonyms": [
                 "HOTEL INHUMANS Season 2",
                 "Hotel Inhumans 2nd Season",
@@ -623,6 +686,30 @@
                 }
             }
         },
+        "magical-sisters-lulutto": {
+            "slug": "magical-sisters-lulutto",
+            "old_slug": null,
+            "title": "Magical Sisters Lulutto Lilly",
+            "anilist_id": 178749,
+            "mal_id": 59176,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 2,
+                    "episodes": [
+                        1,
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/magical-sisters-lulutto/s1/ep_{ep}.srt"
+                }
+            }
+        },
         "magical-sisters-lulutto-lilly": {
             "slug": "magical-sisters-lulutto-lilly",
             "old_slug": null,
@@ -689,7 +776,11 @@
             "title": "Mission Yozakura Family Season 2",
             "anilist_id": 182578,
             "mal_id": 60055,
-            "aliases": [],
+            "aliases": [
+                "Mission: Yozakura Family Season 2",
+                "Yozakura-san Chi no Daisakusen 2nd Season",
+                "夜桜さんちの大作戦 第2期"
+            ],
             "synonyms": [
                 "Mission: Yozakura Family Season 2",
                 "Yozakura-san Chi no Daisakusen 2nd Season",
@@ -716,13 +807,49 @@
                 }
             }
         },
+        "naruto-shippuden": {
+            "slug": "naruto-shippuden",
+            "old_slug": null,
+            "title": "Naruto: Shippuden",
+            "anilist_id": 1735,
+            "mal_id": 1735,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/naruto-shippuden/s1/ep_{ep}.srt"
+                }
+            }
+        },
         "one-piece": {
             "slug": "one-piece",
             "old_slug": null,
             "title": "One Piece",
             "anilist_id": 21,
             "mal_id": 21,
-            "aliases": [],
+            "aliases": [
+                "All'arrembaggio!",
+                "ONE PIECE",
+                "OP",
+                "Tutti all'arrembaggio!",
+                "Vua Hải Tặc",
+                "Ντρέηκ, το Κυνήγι του Θησαυρού",
+                "Ван-Пис",
+                "וואן פיס",
+                "ون بيس",
+                "วันพีซ",
+                "ワンピース",
+                "海贼王"
+            ],
             "synonyms": [
                 "All'arrembaggio!",
                 "ONE PIECE",
@@ -739,14 +866,15 @@
             ],
             "year": 1999,
             "release_year": null,
-            "duration": null,
-            "format": null,
+            "duration": 24,
+            "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 2,
+                    "count": 3,
                     "episodes": [
                         1,
-                        7
+                        7,
+                        42
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
@@ -902,7 +1030,15 @@
             "title": "The Exiled Heavy Knight Knows How To Game The System",
             "anilist_id": 180136,
             "mal_id": 59741,
-            "aliases": [],
+            "aliases": [
+                "Juukishi",
+                "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
+                "The Exiled Heavy Knight Knows How to Game the System",
+                "The Exiled Reincarnated Heavy Knight Is Unrivaled in Game Knowledge",
+                "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+                "เกิดใหม่เป็นอัศวินเกราะหนักผู้ถูกขับไล่แต่ใช้ความรู้จากเกมจนไร้เทียมทาน",
+                "追放された転生重騎士はゲーム知識で無双する"
+            ],
             "synonyms": [
                 "Juukishi",
                 "Kesatria Kelas Berat Tereinkarnasi yang Diasingkan Jadi Tanpa Tanding Dengan Pengetahuan Gimnya",
@@ -931,8 +1067,8 @@
             "slug": "tokyo-revengers-war-of-the-three-titan-arc",
             "old_slug": null,
             "title": "Tokyo Revengers War Of The Three Titan Arc",
-            "anilist_id": null,
-            "mal_id": null,
+            "anilist_id": 178083,
+            "mal_id": 59088,
             "aliases": [],
             "synonyms": [],
             "year": null,
@@ -1037,6 +1173,31 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/vertex-force-sswex/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "you-don-t-know-gunma-yet": {
+            "slug": "you-don-t-know-gunma-yet",
+            "old_slug": null,
+            "title": "You Don't Know Gunma Yet",
+            "anilist_id": 101042,
+            "mal_id": 37258,
+            "aliases": [],
+            "synonyms": [],
+            "year": null,
+            "release_year": null,
+            "duration": null,
+            "format": null,
+            "seasons": {
+                "s1": {
+                    "count": 3,
+                    "episodes": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/you-don-t-know-gunma-yet/s1/ep_{ep}.srt"
                 }
             }
         }
