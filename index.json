@@ -48,9 +48,10 @@
             "format": "TV",
             "seasons": {
                 "special_s2": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-returner-s-magic-should-be-special-season-2/special/s2/ep_{ep}.srt"
