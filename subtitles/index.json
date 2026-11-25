@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 40,
+    "total_animes": 41,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1139,6 +1139,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "seirei-gensouki-spirit-chronicles-season-2": {
+            "slug": "seirei-gensouki-spirit-chronicles-season-2",
+            "old_slug": null,
+            "title": "Seirei Gensouki: Spirit Chronicles Season 2",
+            "anilist_id": 141182,
+            "mal_id": 50306,
+            "aliases": [
+                "Seirei Gensouki 2",
+                "精霊幻想記2"
+            ],
+            "synonyms": [
+                "Seirei Gensouki 2",
+                "精霊幻想記2"
+            ],
+            "year": 2024,
+            "release_year": null,
+            "duration": 23,
+            "format": "TV",
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
                 }
             }
         },
