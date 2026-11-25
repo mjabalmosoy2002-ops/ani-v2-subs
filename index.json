@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 38,
+    "total_animes": 39,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -25,6 +25,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "a-returner-s-magic-should-be-special-season-2": {
+            "slug": "a-returner-s-magic-should-be-special-season-2",
+            "old_slug": null,
+            "title": "A Returner's Magic Should be Special Season 2",
+            "anilist_id": 172192,
+            "mal_id": 57612,
+            "aliases": [
+                "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+                "帰還者の魔法は特別です 第2期"
+            ],
+            "synonyms": [
+                "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+                "帰還者の魔法は特別です 第2期"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "special_s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/a-returner-s-magic-should-be-special-season-2/special/s2/ep_{ep}.srt"
                 }
             }
         },
