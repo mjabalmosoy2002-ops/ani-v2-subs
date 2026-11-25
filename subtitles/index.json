@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 46,
+    "total_animes": 47,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1325,6 +1325,45 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "reincarnated-as-a-sword": {
+            "slug": "reincarnated-as-a-sword",
+            "old_slug": null,
+            "title": "Reincarnated as a Sword Season 2",
+            "anilist_id": 159042,
+            "mal_id": 53913,
+            "aliases": [
+                "Tensei Shitara Ken Deshita 2nd Season",
+                "転生したら剣でした 第2期",
+                "Reincarnated as a Sword II",
+                "I Became the Sword by Transmigrating 2",
+                "TenKen 2",
+                "ซวยเหลือหลาย เกิดใหม่กลายเป็นดาบ ภาค 2",
+                "TENKEN - Reincarnato in una spada"
+            ],
+            "synonyms": [
+                "Tensei Shitara Ken Deshita 2nd Season",
+                "転生したら剣でした 第2期",
+                "Reincarnated as a Sword II",
+                "I Became the Sword by Transmigrating 2",
+                "TenKen 2",
+                "ซวยเหลือหลาย เกิดใหม่กลายเป็นดาบ ภาค 2",
+                "TENKEN - Reincarnato in una spada"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": 23,
+            "format": "ONA",
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/reincarnated-as-a-sword/s2/ep_{ep}.srt"
                 }
             }
         },
