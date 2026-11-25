@@ -34,7 +34,12 @@
             "title": "Ace Of Diamond Act Ii Season 2",
             "anilist_id": 177634,
             "mal_id": 58877,
-            "aliases": [],
+            "aliases": [
+                "Ace of the Diamond act II -Second Season-",
+                "Ace of the Diamond act II Season 2",
+                "Diamond no Ace act II: Second Season",
+                "ダイヤのA actII -Second Season-"
+            ],
             "synonyms": [
                 "Ace of the Diamond act II -Second Season-",
                 "Ace of the Diamond act II Season 2",
@@ -118,7 +123,11 @@
             "title": "Aoashi 2Nd Season",
             "anilist_id": 191788,
             "mal_id": 61603,
-            "aliases": [],
+            "aliases": [
+                "Aoashi 2nd Season",
+                "Aoashi Season 2",
+                "アオアシ 第2期"
+            ],
             "synonyms": [
                 "Aoashi 2nd Season",
                 "Aoashi Season 2",
@@ -145,7 +154,12 @@
             "title": "As A Reincarnated Aristocrat I Ll Use My Appraisal Skill To Rise In The World",
             "anilist_id": 164702,
             "mal_id": 55265,
-            "aliases": [],
+            "aliases": [
+                "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+                "KanteiSkill",
+                "Tensei Kizoku, Kantei Skill de Nariagaru",
+                "転生貴族、鑑定スキルで成り上がる"
+            ],
             "synonyms": [
                 "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
                 "KanteiSkill",
@@ -402,7 +416,9 @@
             "title": "Dreamland",
             "anilist_id": 114466,
             "mal_id": 51051,
-            "aliases": [],
+            "aliases": [
+                "DREAMLAND"
+            ],
             "synonyms": [
                 "DREAMLAND"
             ],
@@ -493,7 +509,12 @@
             "title": "Full Clearing Another World Under A Goddess With Zero Believers",
             "anilist_id": 205896,
             "mal_id": 63292,
-            "aliases": [],
+            "aliases": [
+                "Clear the World Like a Game with the Zero Believer Goddess",
+                "Full Clearing Another World under a Goddess with Zero Believers",
+                "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+                "信者ゼロの女神サマと始める異世界攻略"
+            ],
             "synonyms": [
                 "Clear the World Like a Game with the Zero Believer Goddess",
                 "Full Clearing Another World under a Goddess with Zero Believers",
@@ -627,7 +648,11 @@
             "title": "Kanata Kara",
             "anilist_id": 209463,
             "mal_id": 63753,
-            "aliases": [],
+            "aliases": [
+                "From Far Away",
+                "Kanata Kara",
+                "彼方から"
+            ],
             "synonyms": [
                 "From Far Away",
                 "Kanata Kara",
@@ -661,7 +686,15 @@
             "title": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
             "anilist_id": 202250,
             "mal_id": 62922,
-            "aliases": [],
+            "aliases": [
+                "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+                "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
+                "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+                "Maryoku Revo",
+                "貸した魔力は【リボ払い】で強制徴収",
+                "貸した魔力は【リボ払い】で強制徴収～用済みとパーティー追放された俺は、可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す。～",
+                "魔力リボ"
+            ],
             "synonyms": [
                 "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
                 "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
@@ -870,11 +903,12 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 3,
+                    "count": 4,
                     "episodes": [
                         1,
                         7,
-                        42
+                        42,
+                        43
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
@@ -887,7 +921,14 @@
             "title": "Overgeared",
             "anilist_id": 212888,
             "mal_id": 64340,
-            "aliases": [],
+            "aliases": [
+                "Overgeared",
+                "Tempal - Item no Chikara",
+                "Tempal: Item no Chikara",
+                "Temppal",
+                "テムパル～アイテムの力～",
+                "템빨"
+            ],
             "synonyms": [
                 "Overgeared",
                 "Tempal - Item no Chikara",
@@ -925,7 +966,16 @@
             "title": "Ranma 1 2 2024",
             "anilist_id": 178533,
             "mal_id": 59145,
-            "aliases": [],
+            "aliases": [
+                "Ranma 1/2 (2024)",
+                "Ranma 1/2 (New Anime)",
+                "Ranma 1/2 (Shinsaku Anime)",
+                "Ranma1/2 (2024)",
+                "らんま1/2 (2024)",
+                "らんま1/2 (新作アニメ)",
+                "乱马 1/2",
+                "란마1/2"
+            ],
             "synonyms": [
                 "Ranma 1/2 (2024)",
                 "Ranma 1/2 (New Anime)",
@@ -964,7 +1014,13 @@
             "title": "Reborn As A Space Mercenary I Woke Up Piloting The Strongest Starship",
             "anilist_id": 186541,
             "mal_id": 60948,
-            "aliases": [],
+            "aliases": [
+                "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+                "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+                "Saikyosoubi",
+                "めざめざ",
+                "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+            ],
             "synonyms": [
                 "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
                 "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
@@ -1092,7 +1148,10 @@
             "title": "Umayuru Full Gate",
             "anilist_id": 215835,
             "mal_id": 64867,
-            "aliases": [],
+            "aliases": [
+                "Umayuru: Full Gate!",
+                "うまゆるふるげ〜と!"
+            ],
             "synonyms": [
                 "Umayuru: Full Gate!",
                 "うまゆるふるげ〜と!"
