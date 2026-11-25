@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 39,
+    "total_animes": 40,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -359,6 +359,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/bleach-thousand-year-blood-war-the-separation/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "blue-lock-season-2": {
+            "slug": "blue-lock-season-2",
+            "old_slug": null,
+            "title": "Blue Lock Season 2",
+            "anilist_id": 106130,
+            "mal_id": 54865,
+            "aliases": [
+                "Blue Lock vs. U-20 Japan",
+                "ブルーロック VS. U-20 JAPAN"
+            ],
+            "synonyms": [
+                "Blue Lock vs. U-20 Japan",
+                "ブルーロック VS. U-20 JAPAN"
+            ],
+            "year": 2024,
+            "release_year": null,
+            "duration": 25,
+            "format": "TV",
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        11
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/blue-lock-season-2/s2/ep_{ep}.srt"
                 }
             }
         },
