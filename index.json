@@ -8,12 +8,20 @@
             "title": "A Gatherer S Adventure In Isekai",
             "anilist_id": 187663,
             "mal_id": 61174,
-            "aliases": [],
-            "synonyms": [],
-            "year": null,
+            "aliases": [
+                "Sozai Saishuka no Isekai Ryokouki",
+                "素材採取家の異世界旅行記",
+                "Material Collector's Another World Travels"
+            ],
+            "synonyms": [
+                "Sozai Saishuka no Isekai Ryokouki",
+                "素材採取家の異世界旅行記",
+                "Material Collector's Another World Travels"
+            ],
+            "year": 2025,
             "release_year": null,
-            "duration": null,
-            "format": null,
+            "duration": 24,
+            "format": "ONA",
             "seasons": {
                 "s1": {
                     "count": 4,
@@ -25,6 +33,14 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
+                },
+                "special_s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/special/s1/ep_{ep}.srt"
                 }
             }
         },
