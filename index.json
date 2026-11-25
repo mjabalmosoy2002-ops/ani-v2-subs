@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 47,
+    "total_animes": 48,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1493,6 +1493,43 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/the-exiled-heavy-knight-knows-how-to-game-the-system/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life": {
+            "slug": "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life",
+            "old_slug": null,
+            "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+            "anilist_id": 207329,
+            "mal_id": 63431,
+            "aliases": [
+                "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+                "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
+                "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+                "Chii-Fuyo",
+                "チー付与",
+                "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
+            ],
+            "synonyms": [
+                "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+                "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
+                "The Exiled Cheating Magician Enjoys an Unrestrained Second Life.: I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?",
+                "Chii-Fuyo",
+                "チー付与",
+                "The Laid-Off Cheat-Granting Mage Enjoys a New Life"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/s1/ep_{ep}.srt"
                 }
             }
         },
