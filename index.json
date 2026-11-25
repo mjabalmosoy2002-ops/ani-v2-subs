@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 43,
+    "total_animes": 44,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -251,6 +251,65 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3/s3/ep_{ep}.srt"
+                }
+            }
+        },
+        "attack-on-titan": {
+            "slug": "attack-on-titan",
+            "old_slug": null,
+            "title": "Attack on Titan",
+            "anilist_id": 16498,
+            "mal_id": 16498,
+            "aliases": [
+                "Shingeki no Kyojin",
+                "進撃の巨人",
+                "SnK",
+                "AoT",
+                "Ataque a los Titanes",
+                "Ataque dos Titãs",
+                "L'Attacco dei Giganti",
+                "מתקפת הטיטאנים",
+                "进击的巨人",
+                "L’Attaque des Titans",
+                "الهجوم على العمالقة",
+                "ผ่าพิภพไททัน",
+                "حمله به تایتان",
+                "Ataque de Titãs",
+                "Atak Tytanów",
+                "Атака титанов",
+                "Đại Chiến Titan"
+            ],
+            "synonyms": [
+                "Shingeki no Kyojin",
+                "進撃の巨人",
+                "SnK",
+                "AoT",
+                "Ataque a los Titanes",
+                "Ataque dos Titãs",
+                "L'Attacco dei Giganti",
+                "מתקפת הטיטאנים",
+                "进击的巨人",
+                "L’Attaque des Titans",
+                "الهجوم على العمالقة",
+                "ผ่าพิภพไททัน",
+                "حمله به تایتان",
+                "Ataque de Titãs",
+                "Atak Tytanów",
+                "Атака титанов",
+                "Đại Chiến Titan"
+            ],
+            "year": 2013,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/attack-on-titan/s1/ep_{ep}.srt"
                 }
             }
         },
