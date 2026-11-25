@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 42,
+    "total_animes": 43,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -592,6 +592,39 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/firefly-wedding/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "frieren-beyond-journey-s-end": {
+            "slug": "frieren-beyond-journey-s-end",
+            "old_slug": null,
+            "title": "Frieren: Beyond Journey’s End Season 2",
+            "anilist_id": 182255,
+            "mal_id": 59978,
+            "aliases": [
+                "Sousou no Frieren 2nd Season",
+                "葬送のフリーレン 第2期",
+                "Провожающая в последний путь Фрирен 2",
+                "장송의 프리렌 2기"
+            ],
+            "synonyms": [
+                "Sousou no Frieren 2nd Season",
+                "葬送のフリーレン 第2期",
+                "Провожающая в последний путь Фрирен 2",
+                "장송의 프리렌 2기"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/frieren-beyond-journey-s-end/s2/ep_{ep}.srt"
                 }
             }
         },
