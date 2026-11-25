@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 45,
+    "total_animes": 46,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1108,6 +1108,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/naruto-shippuden/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "nia-liston-the-merciless-maiden": {
+            "slug": "nia-liston-the-merciless-maiden",
+            "old_slug": null,
+            "title": "Nia Liston: The Merciless Maiden",
+            "anilist_id": 206949,
+            "mal_id": 63382,
+            "aliases": [
+                "Kyouran Reijou Nia Liston",
+                "凶乱令嬢ニア・リストン"
+            ],
+            "synonyms": [
+                "Kyouran Reijou Nia Liston",
+                "凶乱令嬢ニア・リストン"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/nia-liston-the-merciless-maiden/s1/ep_{ep}.srt"
                 }
             }
         },
