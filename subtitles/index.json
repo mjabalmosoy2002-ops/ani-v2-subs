@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 44,
+    "total_animes": 45,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -311,6 +311,51 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/attack-on-titan/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "attack-on-titan-2017": {
+            "slug": "attack-on-titan-2017",
+            "old_slug": null,
+            "title": "Attack on Titan Season 2",
+            "anilist_id": 20958,
+            "mal_id": 25777,
+            "aliases": [
+                "Shingeki no Kyojin Season 2",
+                "進撃の巨人 Season２",
+                "SnK 2",
+                "AoT 2",
+                "+מתקפת הטיטאנים עונה 2",
+                "L'Attacco dei Giganti 2",
+                "L'Attacco dei Giganti - Seconda Stagione",
+                "ผ่าพิภพไททัน ภาค 2",
+                "حمله به تایتان فصل 2",
+                "Атака титанов 2"
+            ],
+            "synonyms": [
+                "Shingeki no Kyojin Season 2",
+                "進撃の巨人 Season２",
+                "SnK 2",
+                "AoT 2",
+                "+מתקפת הטיטאנים עונה 2",
+                "L'Attacco dei Giganti 2",
+                "L'Attacco dei Giganti - Seconda Stagione",
+                "ผ่าพิภพไททัน ภาค 2",
+                "حمله به تایتان فصل 2",
+                "Атака титанов 2"
+            ],
+            "year": 2017,
+            "release_year": null,
+            "duration": 25,
+            "format": "TV",
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/attack-on-titan-2017/s2/ep_{ep}.srt"
                 }
             }
         },
