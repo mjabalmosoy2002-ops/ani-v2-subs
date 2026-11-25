@@ -219,10 +219,11 @@
             "format": "TV",
             "seasons": {
                 "s2": {
-                    "count": 2,
+                    "count": 3,
                     "episodes": [
                         1,
-                        2
+                        2,
+                        8
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/black-clover-season-2/s2/ep_{ep}.srt"
