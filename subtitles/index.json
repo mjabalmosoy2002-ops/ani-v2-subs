@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 37,
+    "total_animes": 38,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -325,6 +325,33 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/bleach-thousand-year-blood-war-the-separation/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "case-closed": {
+            "slug": "case-closed",
+            "old_slug": null,
+            "title": "Case Closed",
+            "anilist_id": 235,
+            "mal_id": 235,
+            "aliases": [
+                "Detective Conan"
+            ],
+            "synonyms": [
+                "Detective Conan"
+            ],
+            "year": 1996,
+            "release_year": null,
+            "duration": 25,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        31
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/case-closed/s1/ep_{ep}.srt"
                 }
             }
         },
