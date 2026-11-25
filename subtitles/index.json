@@ -1192,9 +1192,10 @@
             "format": "ONA",
             "seasons": {
                 "special_s1": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/squishy-black-clover/special/s1/ep_{ep}.srt"
