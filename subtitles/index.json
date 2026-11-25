@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 41,
+    "total_animes": 42,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1169,6 +1169,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "squishy-black-clover": {
+            "slug": "squishy-black-clover",
+            "old_slug": null,
+            "title": "Squishy! Black Clover",
+            "anilist_id": 110318,
+            "mal_id": 40031,
+            "aliases": [
+                "Mugyutto! Black Clover",
+                "むぎゅっと！ブラッククローバー"
+            ],
+            "synonyms": [
+                "Mugyutto! Black Clover",
+                "むぎゅっと！ブラッククローバー"
+            ],
+            "year": 2019,
+            "release_year": null,
+            "duration": 7,
+            "format": "ONA",
+            "seasons": {
+                "special_s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/squishy-black-clover/special/s1/ep_{ep}.srt"
                 }
             }
         },
