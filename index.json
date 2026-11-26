@@ -1574,9 +1574,10 @@
             "format": "TV",
             "seasons": {
                 "s3": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_8838/s3/ep_{ep}.srt"
