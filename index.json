@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 50,
+    "total_animes": 51,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -963,6 +963,55 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hunter-x-hunter-the-last-mission/movie/ep_{ep}.srt"
+                }
+            }
+        },
+        "kaguya-sama-love-is-war-ultra-romantic": {
+            "slug": "kaguya-sama-love-is-war-ultra-romantic",
+            "old_slug": null,
+            "title": "Kaguya-sama: Love is War -Ultra Romantic-",
+            "anilist_id": 125367,
+            "mal_id": 43608,
+            "aliases": [
+                "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+                "かぐや様は告らせたい-ウルトラロマンティック-",
+                "Kaguya-sama: Love is War Season 3",
+                "辉夜大小姐想让我告白～天才们的恋爱头脑战～ 3",
+                "辉夜大小姐想让我告白～天才们的恋爱头脑战～ 第三季",
+                "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3",
+                "สารภาพรักกับคุณคางุยะซะดี ๆ ~สงครามประสาทความรักของเหล่าอัจฉริยะ~ ภาค 3",
+                "สารภาพรักกับคุณคางุยะ ซะดี ๆ -อุลตร้า โรแมนติก-",
+                "Kaguya-sama wa Kokurasetai 3rd Season",
+                "Kaguya-sama: Cuộc Chiến Tỏ Tình - Ultra Romantic",
+                "Госпожа Кагуя: в любви как на войне. Ультраромантика",
+                "Nona Kaguya Ingin Ditembak: Ultra Romantic"
+            ],
+            "synonyms": [
+                "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+                "かぐや様は告らせたい-ウルトラロマンティック-",
+                "Kaguya-sama: Love is War Season 3",
+                "辉夜大小姐想让我告白～天才们的恋爱头脑战～ 3",
+                "辉夜大小姐想让我告白～天才们的恋爱头脑战～ 第三季",
+                "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3",
+                "สารภาพรักกับคุณคางุยะซะดี ๆ ~สงครามประสาทความรักของเหล่าอัจฉริยะ~ ภาค 3",
+                "สารภาพรักกับคุณคางุยะ ซะดี ๆ -อุลตร้า โรแมนติก-",
+                "Kaguya-sama wa Kokurasetai 3rd Season",
+                "Kaguya-sama: Cuộc Chiến Tỏ Tình - Ultra Romantic",
+                "Госпожа Кагуя: в любви как на войне. Ультраромантика",
+                "Nona Kaguya Ingin Ditembak: Ultra Romantic"
+            ],
+            "year": 2022,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/kaguya-sama-love-is-war-ultra-romantic/s1/ep_{ep}.srt"
                 }
             }
         },
