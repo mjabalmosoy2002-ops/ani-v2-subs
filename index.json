@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 48,
+    "total_animes": 49,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -887,6 +887,47 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hotel-inhumans-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "hunter-x-hunter-2011": {
+            "slug": "hunter-x-hunter-2011",
+            "old_slug": null,
+            "title": "Hunter x Hunter (2011)",
+            "anilist_id": 11061,
+            "mal_id": 11061,
+            "aliases": [
+                "HUNTER×HUNTER (2011)",
+                "ハンター×ハンター",
+                "HxH",
+                "全职猎人",
+                "האנטר האנטר",
+                "ฮันเตอร์ x ฮันเตอร์",
+                "القناص",
+                "Мисливець X Мисливець"
+            ],
+            "synonyms": [
+                "HUNTER×HUNTER (2011)",
+                "ハンター×ハンター",
+                "HxH",
+                "全职猎人",
+                "האנטר האנטר",
+                "ฮันเตอร์ x ฮันเตอร์",
+                "القناص",
+                "Мисливець X Мисливець"
+            ],
+            "year": 2011,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/hunter-x-hunter-2011/s1/ep_{ep}.srt"
                 }
             }
         },
