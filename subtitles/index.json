@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 51,
+    "total_animes": 52,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1522,6 +1522,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_6542": {
+            "slug": "sl_6542",
+            "old_slug": null,
+            "title": "Jujutsu Kaisen 2nd Season",
+            "anilist_id": 145064,
+            "mal_id": 51009,
+            "aliases": [
+                "呪術廻戦",
+                "jujutsu-kaisen-2nd-season-hk2c9"
+            ],
+            "synonyms": [
+                "呪術廻戦",
+                "jujutsu-kaisen-2nd-season-hk2c9"
+            ],
+            "year": 2023,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s2": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
                 }
             }
         },
