@@ -922,10 +922,11 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 2,
+                    "count": 3,
                     "episodes": [
                         1,
-                        2
+                        2,
+                        3
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hunter-x-hunter-2011/s1/ep_{ep}.srt"
