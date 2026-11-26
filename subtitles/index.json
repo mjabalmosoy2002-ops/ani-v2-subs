@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 49,
+    "total_animes": 50,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -928,6 +928,41 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hunter-x-hunter-2011/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "hunter-x-hunter-the-last-mission": {
+            "slug": "hunter-x-hunter-the-last-mission",
+            "old_slug": null,
+            "title": "Hunter x Hunter: The Last Mission",
+            "anilist_id": 19951,
+            "mal_id": 19951,
+            "aliases": [
+                "HUNTER×HUNTER: THE LAST MISSION",
+                "劇場版 HUNTER×HUNTER THE LAST MISSION",
+                "HxH",
+                "HxH: The Last Mission",
+                "Hunter x Hunter: A Última Missão"
+            ],
+            "synonyms": [
+                "HUNTER×HUNTER: THE LAST MISSION",
+                "劇場版 HUNTER×HUNTER THE LAST MISSION",
+                "HxH",
+                "HxH: The Last Mission",
+                "Hunter x Hunter: A Última Missão"
+            ],
+            "year": 2013,
+            "release_year": null,
+            "duration": 98,
+            "format": "MOVIE",
+            "seasons": {
+                "movie": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/hunter-x-hunter-the-last-mission/movie/ep_{ep}.srt"
                 }
             }
         },
