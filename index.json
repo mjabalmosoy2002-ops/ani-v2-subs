@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 52,
+    "total_animes": 53,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1551,6 +1551,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_8838": {
+            "slug": "sl_8838",
+            "old_slug": null,
+            "title": "Kusuriya no Hitorigoto 3rd Season",
+            "anilist_id": 195516,
+            "mal_id": 61987,
+            "aliases": [
+                "薬屋のひとりごと 第3期",
+                "kusuriya-no-hitorigoto-3rd-season"
+            ],
+            "synonyms": [
+                "薬屋のひとりごと 第3期",
+                "kusuriya-no-hitorigoto-3rd-season"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s3": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_8838/s3/ep_{ep}.srt"
                 }
             }
         },
