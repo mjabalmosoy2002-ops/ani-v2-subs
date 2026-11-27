@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 71,
+    "total_animes": 72,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1765,6 +1765,36 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_1561/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_1796": {
+            "slug": "sl_1796",
+            "old_slug": null,
+            "title": "Outbreak Company",
+            "anilist_id": 19369,
+            "mal_id": 19369,
+            "aliases": [
+                "アウトブレイク・カンパニー",
+                "outbreak-company-nhuvy"
+            ],
+            "synonyms": [
+                "アウトブレイク・カンパニー",
+                "outbreak-company-nhuvy"
+            ],
+            "year": 2013,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 2,
+                    "episodes": [
+                        1,
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_1796/s1/ep_{ep}.srt"
                 }
             }
         },
