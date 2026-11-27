@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 54,
+    "total_animes": 55,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1501,6 +1501,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/reincarnated-as-a-sword/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "romelia-war-chronicle": {
+            "slug": "romelia-war-chronicle",
+            "old_slug": null,
+            "title": "Romelia War Chronicle",
+            "anilist_id": 180894,
+            "mal_id": 59787,
+            "aliases": [
+                "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+                "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+            ],
+            "synonyms": [
+                "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+                "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "ONA",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/romelia-war-chronicle/s1/ep_{ep}.srt"
                 }
             }
         },
