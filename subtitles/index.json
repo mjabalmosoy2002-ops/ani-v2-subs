@@ -549,19 +549,26 @@
             "title": "Classroom Of The Elite Iv",
             "anilist_id": 180745,
             "mal_id": 59708,
-            "aliases": [],
-            "synonyms": [],
-            "year": null,
+            "aliases": [
+                "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+                "classroom-of-the-elite-iv-rzzt2"
+            ],
+            "synonyms": [
+                "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+                "classroom-of-the-elite-iv-rzzt2"
+            ],
+            "year": 2026,
             "release_year": null,
-            "duration": null,
-            "format": null,
+            "duration": 24,
+            "format": "TV",
             "seasons": {
                 "s4": {
-                    "count": 3,
+                    "count": 4,
                     "episodes": [
                         1,
                         2,
-                        7
+                        7,
+                        15
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
