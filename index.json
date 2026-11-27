@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 64,
+    "total_animes": 65,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1572,6 +1572,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_1057": {
+            "slug": "sl_1057",
+            "old_slug": null,
+            "title": "Bleach",
+            "anilist_id": 176311,
+            "mal_id": 269,
+            "aliases": [
+                "BLEACH - ブリーチ -",
+                "bleach-yaa9n"
+            ],
+            "synonyms": [
+                "BLEACH - ブリーチ -",
+                "bleach-yaa9n"
+            ],
+            "year": 2004,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_1057/s1/ep_{ep}.srt"
                 }
             }
         },
