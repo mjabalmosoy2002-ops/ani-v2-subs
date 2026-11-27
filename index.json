@@ -1791,15 +1791,19 @@
             "mal_id": 2596,
             "aliases": [
                 "神霊狩 GHOST HOUND",
-                "ghost-hound-uauht"
+                "ghost-hound-uauht",
+                "Shinreigari: Ghost Hound",
+                "神霊狩 Ghost Hound"
             ],
             "synonyms": [
                 "神霊狩 GHOST HOUND",
-                "ghost-hound-uauht"
+                "ghost-hound-uauht",
+                "Shinreigari: Ghost Hound",
+                "神霊狩 Ghost Hound"
             ],
             "year": 2007,
             "release_year": null,
-            "duration": null,
+            "duration": 25,
             "format": "TV",
             "seasons": {
                 "s1": {
