@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 63,
+    "total_animes": 64,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1720,6 +1720,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_6629": {
+            "slug": "sl_6629",
+            "old_slug": null,
+            "title": "Blue Exorcist: Beyond the Snow Saga",
+            "anilist_id": 176311,
+            "mal_id": 58516,
+            "aliases": [
+                "青の祓魔師 雪ノ果篇",
+                "blue-exorcist-beyond-the-snow-saga-0fu0m"
+            ],
+            "synonyms": [
+                "青の祓魔師 雪ノ果篇",
+                "blue-exorcist-beyond-the-snow-saga-0fu0m"
+            ],
+            "year": 2024,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_6629/s1/ep_{ep}.srt"
                 }
             }
         },
