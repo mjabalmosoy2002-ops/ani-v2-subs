@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 53,
+    "total_animes": 54,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1560,6 +1560,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_8315": {
+            "slug": "sl_8315",
+            "old_slug": null,
+            "title": "Jack-of-All-Trades, Party of None",
+            "anilist_id": 187264,
+            "mal_id": 61128,
+            "aliases": [
+                "勇者パーティを追い出された器用貧乏",
+                "jack-of-all-trades-party-of-none-h9sl8"
+            ],
+            "synonyms": [
+                "勇者パーティを追い出された器用貧乏",
+                "jack-of-all-trades-party-of-none-h9sl8"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_8315/s1/ep_{ep}.srt"
                 }
             }
         },
