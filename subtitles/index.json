@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 57,
+    "total_animes": 58,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1651,6 +1651,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_7013": {
+            "slug": "sl_7013",
+            "old_slug": null,
+            "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
+            "anilist_id": 129192,
+            "mal_id": 47163,
+            "aliases": [
+                "転生賢者の異世界ライフ ~第二の職業を得て、世界最強になりました~",
+                "my-isekai-life-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world-maaba"
+            ],
+            "synonyms": [
+                "転生賢者の異世界ライフ ~第二の職業を得て、世界最強になりました~",
+                "my-isekai-life-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world-maaba"
+            ],
+            "year": 2022,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_7013/s1/ep_{ep}.srt"
                 }
             }
         },
