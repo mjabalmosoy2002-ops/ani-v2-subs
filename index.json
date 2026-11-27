@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 61,
+    "total_animes": 62,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1837,6 +1837,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/squishy-black-clover/special/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "steel-ball-run-jojo-s-bizarre-adventure-stage": {
+            "slug": "steel-ball-run-jojo-s-bizarre-adventure-stage",
+            "old_slug": null,
+            "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+            "anilist_id": 210482,
+            "mal_id": 61469,
+            "aliases": [
+                "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+                "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+            ],
+            "synonyms": [
+                "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+                "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "ONA",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/steel-ball-run-jojo-s-bizarre-adventure-stage/s1/ep_{ep}.srt"
                 }
             }
         },
