@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 55,
+    "total_animes": 56,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1622,6 +1622,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_82": {
+            "slug": "sl_82",
+            "old_slug": null,
+            "title": "Ghost Hound",
+            "anilist_id": 2596,
+            "mal_id": 2596,
+            "aliases": [
+                "神霊狩 GHOST HOUND",
+                "ghost-hound-uauht"
+            ],
+            "synonyms": [
+                "神霊狩 GHOST HOUND",
+                "ghost-hound-uauht"
+            ],
+            "year": 2007,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_82/s1/ep_{ep}.srt"
                 }
             }
         },
