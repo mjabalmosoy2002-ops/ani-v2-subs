@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 66,
+    "total_animes": 67,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1645,6 +1645,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_1057/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_1057-2013": {
+            "slug": "sl_1057-2013",
+            "old_slug": null,
+            "title": "Bleach",
+            "anilist_id": 16498,
+            "mal_id": 269,
+            "aliases": [
+                "BLEACH - ブリーチ -",
+                "Attack on Titan"
+            ],
+            "synonyms": [
+                "BLEACH - ブリーチ -",
+                "Attack on Titan"
+            ],
+            "year": 2013,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_1057-2013/s1/ep_{ep}.srt"
                 }
             }
         },
