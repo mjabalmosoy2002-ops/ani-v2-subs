@@ -563,12 +563,13 @@
             "format": "TV",
             "seasons": {
                 "s4": {
-                    "count": 4,
+                    "count": 5,
                     "episodes": [
                         1,
                         2,
                         7,
-                        15
+                        15,
+                        16
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/classroom-of-the-elite-iv/s4/ep_{ep}.srt"
