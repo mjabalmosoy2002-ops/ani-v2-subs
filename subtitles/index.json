@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 58,
+    "total_animes": 59,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1883,6 +1883,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "the-vermilion-mask": {
+            "slug": "the-vermilion-mask",
+            "old_slug": null,
+            "title": "The Vermilion Mask",
+            "anilist_id": 195571,
+            "mal_id": 61999,
+            "aliases": [
+                "Shuiro no Kamen",
+                "朱色の仮面"
+            ],
+            "synonyms": [
+                "Shuiro no Kamen",
+                "朱色の仮面"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/the-vermilion-mask/s1/ep_{ep}.srt"
                 }
             }
         },
