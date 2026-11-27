@@ -1697,9 +1697,10 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 3,
+                    "count": 4,
                     "episodes": [
                         1,
+                        2,
                         20,
                         24
                     ],
