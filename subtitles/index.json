@@ -1770,9 +1770,10 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        3
+                        3,
+                        4
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_8158/s1/ep_{ep}.srt"
