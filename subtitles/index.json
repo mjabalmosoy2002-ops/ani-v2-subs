@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 59,
+    "total_animes": 60,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -830,6 +830,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/gachiakuta/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "horror-collector": {
+            "slug": "horror-collector",
+            "old_slug": null,
+            "title": "HORROR COLLECTOR",
+            "anilist_id": 203473,
+            "mal_id": 63053,
+            "aliases": [
+                "Kyoufu Collector",
+                "恐怖コレクター"
+            ],
+            "synonyms": [
+                "Kyoufu Collector",
+                "恐怖コレクター"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/horror-collector/s1/ep_{ep}.srt"
                 }
             }
         },
