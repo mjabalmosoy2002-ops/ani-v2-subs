@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 60,
+    "total_animes": 61,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1598,6 +1598,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_1077/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_1103": {
+            "slug": "sl_1103",
+            "old_slug": null,
+            "title": "JUJUTSU KAISEN",
+            "anilist_id": 113415,
+            "mal_id": 40748,
+            "aliases": [
+                "呪術廻戦",
+                "jujutsu-kaisen-tv-8ssye"
+            ],
+            "synonyms": [
+                "呪術廻戦",
+                "jujutsu-kaisen-tv-8ssye"
+            ],
+            "year": 2020,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_1103/s1/ep_{ep}.srt"
                 }
             }
         },
