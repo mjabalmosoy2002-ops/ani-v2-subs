@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 62,
+    "total_animes": 63,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1747,6 +1747,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_7013/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_8158": {
+            "slug": "sl_8158",
+            "old_slug": null,
+            "title": "A Gatherer's Adventure in Isekai",
+            "anilist_id": 195604,
+            "mal_id": 61174,
+            "aliases": [
+                "素材採取家の異世界旅行記",
+                "a-gatherer-s-adventure-in-isekai-j0b85"
+            ],
+            "synonyms": [
+                "素材採取家の異世界旅行記",
+                "a-gatherer-s-adventure-in-isekai-j0b85"
+            ],
+            "year": 2025,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        3
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_8158/s1/ep_{ep}.srt"
                 }
             }
         },
