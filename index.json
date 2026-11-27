@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 69,
+    "total_animes": 70,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1822,6 +1822,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_2121-2017/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_4079": {
+            "slug": "sl_4079",
+            "old_slug": null,
+            "title": "Shattered Angels",
+            "anilist_id": 1810,
+            "mal_id": 1810,
+            "aliases": [
+                "京四郎と永遠(とわ)の空",
+                "shattered-angels-u1tzh"
+            ],
+            "synonyms": [
+                "京四郎と永遠(とわ)の空",
+                "shattered-angels-u1tzh"
+            ],
+            "year": 2007,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        9
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_4079/s1/ep_{ep}.srt"
                 }
             }
         },
