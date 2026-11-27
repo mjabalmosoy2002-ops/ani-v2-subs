@@ -11,12 +11,14 @@
             "aliases": [
                 "Sozai Saishuka no Isekai Ryokouki",
                 "素材採取家の異世界旅行記",
-                "Material Collector's Another World Travels"
+                "Material Collector's Another World Travels",
+                "a-gatherer-s-adventure-in-isekai-j0b85"
             ],
             "synonyms": [
                 "Sozai Saishuka no Isekai Ryokouki",
                 "素材採取家の異世界旅行記",
-                "Material Collector's Another World Travels"
+                "Material Collector's Another World Travels",
+                "a-gatherer-s-adventure-in-isekai-j0b85"
             ],
             "year": 2025,
             "release_year": null,
@@ -24,12 +26,13 @@
             "format": "ONA",
             "seasons": {
                 "s1": {
-                    "count": 4,
+                    "count": 5,
                     "episodes": [
                         2,
                         9,
                         10,
-                        11
+                        11,
+                        12
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
