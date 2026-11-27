@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 68,
+    "total_animes": 69,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -2226,6 +2226,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "tougen-anki-nikko-kegon-falls-arc": {
+            "slug": "tougen-anki-nikko-kegon-falls-arc",
+            "old_slug": null,
+            "title": "Tougen Anki: Nikko Kegon Falls Arc",
+            "anilist_id": 204650,
+            "mal_id": 63181,
+            "aliases": [
+                "Tougen Anki: Nikko・Kegon no Taki-hen",
+                "桃源暗鬼 日光・華厳の滝編"
+            ],
+            "synonyms": [
+                "Tougen Anki: Nikko・Kegon no Taki-hen",
+                "桃源暗鬼 日光・華厳の滝編"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        9
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/tougen-anki-nikko-kegon-falls-arc/s1/ep_{ep}.srt"
                 }
             }
         },
