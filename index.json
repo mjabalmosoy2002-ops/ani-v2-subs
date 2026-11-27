@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 73,
+    "total_animes": 53,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -11,14 +11,12 @@
             "aliases": [
                 "Sozai Saishuka no Isekai Ryokouki",
                 "素材採取家の異世界旅行記",
-                "Material Collector's Another World Travels",
-                "a-gatherer-s-adventure-in-isekai-j0b85"
+                "Material Collector's Another World Travels"
             ],
             "synonyms": [
                 "Sozai Saishuka no Isekai Ryokouki",
                 "素材採取家の異世界旅行記",
-                "Material Collector's Another World Travels",
-                "a-gatherer-s-adventure-in-isekai-j0b85"
+                "Material Collector's Another World Travels"
             ],
             "year": 2025,
             "release_year": null,
@@ -26,13 +24,12 @@
             "format": "ONA",
             "seasons": {
                 "s1": {
-                    "count": 5,
+                    "count": 4,
                     "episodes": [
                         2,
                         9,
                         10,
-                        11,
-                        12
+                        11
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/a-gatherer-s-adventure-in-isekai/s1/ep_{ep}.srt"
@@ -297,8 +294,7 @@
                 "Ataque de Titãs",
                 "Atak Tytanów",
                 "Атака титанов",
-                "Đại Chiến Titan",
-                "attack-on-titan-bgaoa"
+                "Đại Chiến Titan"
             ],
             "synonyms": [
                 "Shingeki no Kyojin",
@@ -317,8 +313,7 @@
                 "Ataque de Titãs",
                 "Atak Tytanów",
                 "Атака титанов",
-                "Đại Chiến Titan",
-                "attack-on-titan-bgaoa"
+                "Đại Chiến Titan"
             ],
             "year": 2013,
             "release_year": null,
@@ -326,14 +321,10 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 6,
+                    "count": 2,
                     "episodes": [
                         1,
-                        2,
-                        9,
-                        10,
-                        11,
-                        12
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/attack-on-titan/s1/ep_{ep}.srt"
@@ -394,40 +385,22 @@
             "mal_id": 61967,
             "aliases": [
                 "Black Clover 2nd Season",
-                "ブラッククローバー 第2期",
-                "black-clover-season-2",
-                "進撃の巨人",
-                "Black Clover Season 2"
+                "ブラッククローバー 第2期"
             ],
             "synonyms": [
                 "Black Clover 2nd Season",
-                "ブラッククローバー 第2期",
-                "black-clover-season-2",
-                "進撃の巨人",
-                "Black Clover Season 2"
+                "ブラッククローバー 第2期"
             ],
             "year": 2026,
             "release_year": null,
             "duration": null,
             "format": "TV",
             "seasons": {
-                "s1": {
+                "s2": {
                     "count": 3,
                     "episodes": [
                         1,
                         2,
-                        3
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/black-clover-season-2/s1/ep_{ep}.srt"
-                },
-                "s2": {
-                    "count": 5,
-                    "episodes": [
-                        1,
-                        2,
-                        3,
-                        4,
                         8
                     ],
                     "missing": [],
@@ -850,36 +823,6 @@
                 }
             }
         },
-        "horror-collector": {
-            "slug": "horror-collector",
-            "old_slug": null,
-            "title": "HORROR COLLECTOR",
-            "anilist_id": 203473,
-            "mal_id": 63053,
-            "aliases": [
-                "Kyoufu Collector",
-                "恐怖コレクター"
-            ],
-            "synonyms": [
-                "Kyoufu Collector",
-                "恐怖コレクター"
-            ],
-            "year": 2026,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        1,
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/horror-collector/s1/ep_{ep}.srt"
-                }
-            }
-        },
         "horror-collector-mjlir": {
             "slug": "horror-collector-mjlir",
             "old_slug": null,
@@ -979,11 +922,10 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 3,
+                    "count": 2,
                     "episodes": [
                         1,
-                        2,
-                        3
+                        2
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hunter-x-hunter-2011/s1/ep_{ep}.srt"
@@ -1022,35 +964,6 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hunter-x-hunter-the-last-mission/movie/ep_{ep}.srt"
-                }
-            }
-        },
-        "i-m-dating-a-dark-summoner": {
-            "slug": "i-m-dating-a-dark-summoner",
-            "old_slug": null,
-            "title": "I'm Dating a Dark Summoner",
-            "anilist_id": 208025,
-            "mal_id": 63509,
-            "aliases": [
-                "Dark Summoner to Dekiteiru",
-                "ダークサモナーとデキている"
-            ],
-            "synonyms": [
-                "Dark Summoner to Dekiteiru",
-                "ダークサモナーとデキている"
-            ],
-            "year": 2026,
-            "release_year": null,
-            "duration": null,
-            "format": "TV_SHORT",
-            "seasons": {
-                "s1": {
-                    "count": 1,
-                    "episodes": [
-                        1
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/i-m-dating-a-dark-summoner/s1/ep_{ep}.srt"
                 }
             }
         },
@@ -1373,8 +1286,7 @@
                 "ون بيس",
                 "วันพีซ",
                 "ワンピース",
-                "海贼王",
-                "one-piece-odmau"
+                "海贼王"
             ],
             "synonyms": [
                 "All'arrembaggio!",
@@ -1388,8 +1300,7 @@
                 "ون بيس",
                 "วันพีซ",
                 "ワンピース",
-                "海贼王",
-                "one-piece-odmau"
+                "海贼王"
             ],
             "year": 1999,
             "release_year": null,
@@ -1397,13 +1308,10 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 9,
+                    "count": 6,
                     "episodes": [
                         1,
-                        2,
                         7,
-                        11,
-                        12,
                         42,
                         43,
                         61,
@@ -1618,309 +1526,6 @@
                 }
             }
         },
-        "sl_1057": {
-            "slug": "sl_1057",
-            "old_slug": null,
-            "title": "Bleach",
-            "anilist_id": 176311,
-            "mal_id": 269,
-            "aliases": [
-                "BLEACH - ブリーチ -",
-                "bleach-yaa9n"
-            ],
-            "synonyms": [
-                "BLEACH - ブリーチ -",
-                "bleach-yaa9n"
-            ],
-            "year": 2004,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        2,
-                        3
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_1057/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_1057-2013": {
-            "slug": "sl_1057-2013",
-            "old_slug": null,
-            "title": "Bleach",
-            "anilist_id": 16498,
-            "mal_id": 269,
-            "aliases": [
-                "BLEACH - ブリーチ -",
-                "Attack on Titan"
-            ],
-            "synonyms": [
-                "BLEACH - ブリーチ -",
-                "Attack on Titan"
-            ],
-            "year": 2013,
-            "release_year": null,
-            "duration": 24,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        1,
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_1057-2013/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_1077": {
-            "slug": "sl_1077",
-            "old_slug": null,
-            "title": "Ghost Hunt",
-            "anilist_id": 1571,
-            "mal_id": 1571,
-            "aliases": [
-                "ゴーストハント",
-                "ghost-hunt-mjnye"
-            ],
-            "synonyms": [
-                "ゴーストハント",
-                "ghost-hunt-mjnye"
-            ],
-            "year": 2006,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 1,
-                    "episodes": [
-                        1
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_1077/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_1103": {
-            "slug": "sl_1103",
-            "old_slug": null,
-            "title": "JUJUTSU KAISEN",
-            "anilist_id": 113415,
-            "mal_id": 40748,
-            "aliases": [
-                "呪術廻戦",
-                "jujutsu-kaisen-tv-8ssye"
-            ],
-            "synonyms": [
-                "呪術廻戦",
-                "jujutsu-kaisen-tv-8ssye"
-            ],
-            "year": 2020,
-            "release_year": null,
-            "duration": 24,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 4,
-                    "episodes": [
-                        1,
-                        2,
-                        20,
-                        24
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_1103/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_1561": {
-            "slug": "sl_1561",
-            "old_slug": null,
-            "title": "Monster",
-            "anilist_id": 19,
-            "mal_id": 19,
-            "aliases": [
-                "モンスター",
-                "monster-kwntq"
-            ],
-            "synonyms": [
-                "モンスター",
-                "monster-kwntq"
-            ],
-            "year": 2004,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 1,
-                    "episodes": [
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_1561/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_1796": {
-            "slug": "sl_1796",
-            "old_slug": null,
-            "title": "Outbreak Company",
-            "anilist_id": 19369,
-            "mal_id": 19369,
-            "aliases": [
-                "アウトブレイク・カンパニー",
-                "outbreak-company-nhuvy"
-            ],
-            "synonyms": [
-                "アウトブレイク・カンパニー",
-                "outbreak-company-nhuvy"
-            ],
-            "year": 2013,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 6,
-                    "episodes": [
-                        1,
-                        2,
-                        3,
-                        4,
-                        5,
-                        6
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_1796/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_2121": {
-            "slug": "sl_2121",
-            "old_slug": null,
-            "title": "Black Clover",
-            "anilist_id": 97940,
-            "mal_id": 34572,
-            "aliases": [
-                "ブラッククローバー",
-                "black-clover-g7tjy"
-            ],
-            "synonyms": [
-                "ブラッククローバー",
-                "black-clover-g7tjy"
-            ],
-            "year": 2017,
-            "release_year": null,
-            "duration": 24,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        9,
-                        10
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_2121/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_2121-2017": {
-            "slug": "sl_2121-2017",
-            "old_slug": null,
-            "title": "Black Clover",
-            "anilist_id": 16498,
-            "mal_id": 34572,
-            "aliases": [
-                "ブラッククローバー"
-            ],
-            "synonyms": [
-                "ブラッククローバー"
-            ],
-            "year": 2017,
-            "release_year": null,
-            "duration": 24,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 1,
-                    "episodes": [
-                        1
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_2121-2017/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_2670": {
-            "slug": "sl_2670",
-            "old_slug": null,
-            "title": "Tokyo Ghoul √A",
-            "anilist_id": 20850,
-            "mal_id": 27899,
-            "aliases": [
-                "東京喰種√A",
-                "tokyo-ghoul-a-ks20e"
-            ],
-            "synonyms": [
-                "東京喰種√A",
-                "tokyo-ghoul-a-ks20e"
-            ],
-            "year": 2015,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        2,
-                        3
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_2670/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_4079": {
-            "slug": "sl_4079",
-            "old_slug": null,
-            "title": "Shattered Angels",
-            "anilist_id": 1810,
-            "mal_id": 1810,
-            "aliases": [
-                "京四郎と永遠(とわ)の空",
-                "shattered-angels-u1tzh"
-            ],
-            "synonyms": [
-                "京四郎と永遠(とわ)の空",
-                "shattered-angels-u1tzh"
-            ],
-            "year": 2007,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 4,
-                    "episodes": [
-                        2,
-                        3,
-                        4,
-                        9
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_4079/s1/ep_{ep}.srt"
-                }
-            }
-        },
         "sl_6542": {
             "slug": "sl_6542",
             "old_slug": null,
@@ -1947,139 +1552,6 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_6629": {
-            "slug": "sl_6629",
-            "old_slug": null,
-            "title": "Blue Exorcist: Beyond the Snow Saga",
-            "anilist_id": 176311,
-            "mal_id": 58516,
-            "aliases": [
-                "青の祓魔師 雪ノ果篇",
-                "blue-exorcist-beyond-the-snow-saga-0fu0m"
-            ],
-            "synonyms": [
-                "青の祓魔師 雪ノ果篇",
-                "blue-exorcist-beyond-the-snow-saga-0fu0m"
-            ],
-            "year": 2024,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        1,
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_6629/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_7013": {
-            "slug": "sl_7013",
-            "old_slug": null,
-            "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
-            "anilist_id": 129192,
-            "mal_id": 47163,
-            "aliases": [
-                "転生賢者の異世界ライフ ~第二の職業を得て、世界最強になりました~",
-                "my-isekai-life-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world-maaba",
-                "Tensei Kenja no Isekai Life: Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
-                "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
-                "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
-                "เกิดใหม่ในต่างโลกเป็นปราชญ์แกร่งสุดโดยไม่รู้ตัว"
-            ],
-            "synonyms": [
-                "転生賢者の異世界ライフ ~第二の職業を得て、世界最強になりました~",
-                "my-isekai-life-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world-maaba",
-                "Tensei Kenja no Isekai Life: Daini no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
-                "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
-                "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～",
-                "เกิดใหม่ในต่างโลกเป็นปราชญ์แกร่งสุดโดยไม่รู้ตัว"
-            ],
-            "year": 2022,
-            "release_year": null,
-            "duration": 24,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 3,
-                    "episodes": [
-                        1,
-                        2,
-                        3
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_7013/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_8158": {
-            "slug": "sl_8158",
-            "old_slug": null,
-            "title": "A Gatherer's Adventure in Isekai",
-            "anilist_id": 195604,
-            "mal_id": 61174,
-            "aliases": [
-                "素材採取家の異世界旅行記",
-                "a-gatherer-s-adventure-in-isekai-j0b85"
-            ],
-            "synonyms": [
-                "素材採取家の異世界旅行記",
-                "a-gatherer-s-adventure-in-isekai-j0b85"
-            ],
-            "year": 2025,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        3,
-                        4
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_8158/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "sl_82": {
-            "slug": "sl_82",
-            "old_slug": null,
-            "title": "Ghost Hound",
-            "anilist_id": 2596,
-            "mal_id": 2596,
-            "aliases": [
-                "神霊狩 GHOST HOUND",
-                "ghost-hound-uauht",
-                "Shinreigari: Ghost Hound",
-                "神霊狩 Ghost Hound"
-            ],
-            "synonyms": [
-                "神霊狩 GHOST HOUND",
-                "ghost-hound-uauht",
-                "Shinreigari: Ghost Hound",
-                "神霊狩 Ghost Hound"
-            ],
-            "year": 2007,
-            "release_year": null,
-            "duration": 25,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        1,
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/sl_82/s1/ep_{ep}.srt"
                 }
             }
         },
@@ -2140,36 +1612,6 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/squishy-black-clover/special/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "steel-ball-run-jojo-s-bizarre-adventure-stage": {
-            "slug": "steel-ball-run-jojo-s-bizarre-adventure-stage",
-            "old_slug": null,
-            "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-            "anilist_id": 210482,
-            "mal_id": 61469,
-            "aliases": [
-                "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-                "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-            ],
-            "synonyms": [
-                "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
-                "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
-            ],
-            "year": 2026,
-            "release_year": null,
-            "duration": null,
-            "format": "ONA",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        1,
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/steel-ball-run-jojo-s-bizarre-adventure-stage/s1/ep_{ep}.srt"
                 }
             }
         },
@@ -2280,36 +1722,6 @@
                 }
             }
         },
-        "the-vermilion-mask": {
-            "slug": "the-vermilion-mask",
-            "old_slug": null,
-            "title": "The Vermilion Mask",
-            "anilist_id": 195571,
-            "mal_id": 61999,
-            "aliases": [
-                "Shuiro no Kamen",
-                "朱色の仮面"
-            ],
-            "synonyms": [
-                "Shuiro no Kamen",
-                "朱色の仮面"
-            ],
-            "year": 2026,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 2,
-                    "episodes": [
-                        1,
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/the-vermilion-mask/s1/ep_{ep}.srt"
-                }
-            }
-        },
         "tokyo-revengers-war-of-the-three-titan-arc": {
             "slug": "tokyo-revengers-war-of-the-three-titan-arc",
             "old_slug": null,
@@ -2330,35 +1742,6 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/tokyo-revengers-war-of-the-three-titan-arc/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "tougen-anki-nikko-kegon-falls-arc": {
-            "slug": "tougen-anki-nikko-kegon-falls-arc",
-            "old_slug": null,
-            "title": "Tougen Anki: Nikko Kegon Falls Arc",
-            "anilist_id": 204650,
-            "mal_id": 63181,
-            "aliases": [
-                "Tougen Anki: Nikko・Kegon no Taki-hen",
-                "桃源暗鬼 日光・華厳の滝編"
-            ],
-            "synonyms": [
-                "Tougen Anki: Nikko・Kegon no Taki-hen",
-                "桃源暗鬼 日光・華厳の滝編"
-            ],
-            "year": 2026,
-            "release_year": null,
-            "duration": null,
-            "format": "TV",
-            "seasons": {
-                "s1": {
-                    "count": 1,
-                    "episodes": [
-                        9
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/tougen-anki-nikko-kegon-falls-arc/s1/ep_{ep}.srt"
                 }
             }
         },
@@ -2452,35 +1835,6 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/vertex-force-sswex/s1/ep_{ep}.srt"
-                }
-            }
-        },
-        "what-she-fell-on-was-the-tip-of-my-dick": {
-            "slug": "what-she-fell-on-was-the-tip-of-my-dick",
-            "old_slug": null,
-            "title": "What She Fell on Was the Tip of My Dick",
-            "anilist_id": 101981,
-            "mal_id": 37281,
-            "aliases": [
-                "Joshi Ochi!: 2-kai kara Onna no Ko ga... Futte kita!?",
-                "じょしおちっ！～2階から女の子が…降ってきた！？～"
-            ],
-            "synonyms": [
-                "Joshi Ochi!: 2-kai kara Onna no Ko ga... Futte kita!?",
-                "じょしおちっ！～2階から女の子が…降ってきた！？～"
-            ],
-            "year": 2018,
-            "release_year": null,
-            "duration": null,
-            "format": "ONA",
-            "seasons": {
-                "s1": {
-                    "count": 1,
-                    "episodes": [
-                        2
-                    ],
-                    "missing": [],
-                    "path_pattern": "subtitles/what-she-fell-on-was-the-tip-of-my-dick/s1/ep_{ep}.srt"
                 }
             }
         },
