@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 54,
+    "total_animes": 55,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1531,6 +1531,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_1561": {
+            "slug": "sl_1561",
+            "old_slug": null,
+            "title": "Monster",
+            "anilist_id": 19,
+            "mal_id": 19,
+            "aliases": [
+                "モンスター",
+                "monster-kwntq"
+            ],
+            "synonyms": [
+                "モンスター",
+                "monster-kwntq"
+            ],
+            "year": 2004,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_1561/s1/ep_{ep}.srt"
                 }
             }
         },
