@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 55,
+    "total_animes": 56,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1561,6 +1561,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_6": {
+            "slug": "sl_6",
+            "old_slug": null,
+            "title": "My Hero Academia",
+            "anilist_id": 21459,
+            "mal_id": 31964,
+            "aliases": [
+                "僕のヒーローアカデミア",
+                "my-hero-academia-kuzfp"
+            ],
+            "synonyms": [
+                "僕のヒーローアカデミア",
+                "my-hero-academia-kuzfp"
+            ],
+            "year": 2016,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_6/s1/ep_{ep}.srt"
                 }
             }
         },
