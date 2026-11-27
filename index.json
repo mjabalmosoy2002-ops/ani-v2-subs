@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 70,
+    "total_animes": 71,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1822,6 +1822,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_2121-2017/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_2670": {
+            "slug": "sl_2670",
+            "old_slug": null,
+            "title": "Tokyo Ghoul √A",
+            "anilist_id": 20850,
+            "mal_id": 27899,
+            "aliases": [
+                "東京喰種√A",
+                "tokyo-ghoul-a-ks20e"
+            ],
+            "synonyms": [
+                "東京喰種√A",
+                "tokyo-ghoul-a-ks20e"
+            ],
+            "year": 2015,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        2
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_2670/s1/ep_{ep}.srt"
                 }
             }
         },
