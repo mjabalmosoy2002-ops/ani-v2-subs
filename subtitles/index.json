@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 56,
+    "total_animes": 57,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1534,6 +1534,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_1077": {
+            "slug": "sl_1077",
+            "old_slug": null,
+            "title": "Ghost Hunt",
+            "anilist_id": 1571,
+            "mal_id": 1571,
+            "aliases": [
+                "ゴーストハント",
+                "ghost-hunt-mjnye"
+            ],
+            "synonyms": [
+                "ゴーストハント",
+                "ghost-hunt-mjnye"
+            ],
+            "year": 2006,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_1077/s1/ep_{ep}.srt"
                 }
             }
         },
