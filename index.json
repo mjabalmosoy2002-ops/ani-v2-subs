@@ -1845,8 +1845,9 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
+                        4,
                         9
                     ],
                     "missing": [],
