@@ -294,7 +294,8 @@
                 "Ataque de Titãs",
                 "Atak Tytanów",
                 "Атака титанов",
-                "Đại Chiến Titan"
+                "Đại Chiến Titan",
+                "attack-on-titan-bgaoa"
             ],
             "synonyms": [
                 "Shingeki no Kyojin",
@@ -313,7 +314,8 @@
                 "Ataque de Titãs",
                 "Atak Tytanów",
                 "Атака титанов",
-                "Đại Chiến Titan"
+                "Đại Chiến Titan",
+                "attack-on-titan-bgaoa"
             ],
             "year": 2013,
             "release_year": null,
@@ -321,12 +323,13 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 4,
+                    "count": 5,
                     "episodes": [
                         1,
                         2,
                         9,
-                        10
+                        10,
+                        11
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/attack-on-titan/s1/ep_{ep}.srt"
