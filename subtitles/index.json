@@ -323,13 +323,14 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 5,
+                    "count": 6,
                     "episodes": [
                         1,
                         2,
                         9,
                         10,
-                        11
+                        11,
+                        12
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/attack-on-titan/s1/ep_{ep}.srt"
