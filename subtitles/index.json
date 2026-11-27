@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 67,
+    "total_animes": 68,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1795,6 +1795,33 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_2121/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_2121-2017": {
+            "slug": "sl_2121-2017",
+            "old_slug": null,
+            "title": "Black Clover",
+            "anilist_id": 16498,
+            "mal_id": 34572,
+            "aliases": [
+                "ブラッククローバー"
+            ],
+            "synonyms": [
+                "ブラッククローバー"
+            ],
+            "year": 2017,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_2121-2017/s1/ep_{ep}.srt"
                 }
             }
         },
