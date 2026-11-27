@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 53,
+    "total_animes": 54,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1531,6 +1531,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/seirei-gensouki-spirit-chronicles-season-2/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_2121": {
+            "slug": "sl_2121",
+            "old_slug": null,
+            "title": "Black Clover",
+            "anilist_id": 97940,
+            "mal_id": 34572,
+            "aliases": [
+                "ブラッククローバー",
+                "black-clover-g7tjy"
+            ],
+            "synonyms": [
+                "ブラッククローバー",
+                "black-clover-g7tjy"
+            ],
+            "year": 2017,
+            "release_year": null,
+            "duration": 24,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        9
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_2121/s1/ep_{ep}.srt"
                 }
             }
         },
