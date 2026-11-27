@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 65,
+    "total_animes": 66,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1008,6 +1008,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/hunter-x-hunter-the-last-mission/movie/ep_{ep}.srt"
+                }
+            }
+        },
+        "i-m-dating-a-dark-summoner": {
+            "slug": "i-m-dating-a-dark-summoner",
+            "old_slug": null,
+            "title": "I'm Dating a Dark Summoner",
+            "anilist_id": 208025,
+            "mal_id": 63509,
+            "aliases": [
+                "Dark Summoner to Dekiteiru",
+                "ダークサモナーとデキている"
+            ],
+            "synonyms": [
+                "Dark Summoner to Dekiteiru",
+                "ダークサモナーとデキている"
+            ],
+            "year": 2026,
+            "release_year": null,
+            "duration": null,
+            "format": "TV_SHORT",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/i-m-dating-a-dark-summoner/s1/ep_{ep}.srt"
                 }
             }
         },
