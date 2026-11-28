@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 58,
+    "total_animes": 59,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1654,6 +1654,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6805/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_6871": {
+            "slug": "sl_6871",
+            "old_slug": null,
+            "title": "The Demon Slayer: Kimetsu no Yaiba Mugen Train Arc TV",
+            "anilist_id": 129874,
+            "mal_id": 49926,
+            "aliases": [
+                "鬼滅の刃 無限列車編",
+                "the-demon-slayer-kimetsu-no-yaiba-mugen-train-arc-tv-jsqtn"
+            ],
+            "synonyms": [
+                "鬼滅の刃 無限列車編",
+                "the-demon-slayer-kimetsu-no-yaiba-mugen-train-arc-tv-jsqtn"
+            ],
+            "year": 2021,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_6871/s1/ep_{ep}.srt"
                 }
             }
         },
