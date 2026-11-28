@@ -1321,7 +1321,7 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 9,
+                    "count": 10,
                     "episodes": [
                         1,
                         7,
@@ -1331,7 +1331,8 @@
                         72,
                         84,
                         85,
-                        92
+                        92,
+                        123
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/one-piece/s1/ep_{ep}.srt"
