@@ -1297,7 +1297,8 @@
                 "ون بيس",
                 "วันพีซ",
                 "ワンピース",
-                "海贼王"
+                "海贼王",
+                "one-piece-odmau"
             ],
             "synonyms": [
                 "All'arrembaggio!",
@@ -1311,7 +1312,8 @@
                 "ون بيس",
                 "วันพีซ",
                 "ワンピース",
-                "海贼王"
+                "海贼王",
+                "one-piece-odmau"
             ],
             "year": 1999,
             "release_year": null,
@@ -1319,13 +1321,14 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 6,
+                    "count": 7,
                     "episodes": [
                         1,
                         7,
                         42,
                         43,
                         61,
+                        72,
                         92
                     ],
                     "missing": [],
