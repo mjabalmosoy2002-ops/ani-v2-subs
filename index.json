@@ -385,11 +385,13 @@
             "mal_id": 61967,
             "aliases": [
                 "Black Clover 2nd Season",
-                "ブラッククローバー 第2期"
+                "ブラッククローバー 第2期",
+                "black-clover-season-2"
             ],
             "synonyms": [
                 "Black Clover 2nd Season",
-                "ブラッククローバー 第2期"
+                "ブラッククローバー 第2期",
+                "black-clover-season-2"
             ],
             "year": 2026,
             "release_year": null,
@@ -397,10 +399,11 @@
             "format": "TV",
             "seasons": {
                 "s2": {
-                    "count": 3,
+                    "count": 4,
                     "episodes": [
                         1,
                         2,
+                        3,
                         8
                     ],
                     "missing": [],
