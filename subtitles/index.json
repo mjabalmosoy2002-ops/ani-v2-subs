@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 59,
+    "total_animes": 60,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1695,6 +1695,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6871/s1/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_6905": {
+            "slug": "sl_6905",
+            "old_slug": null,
+            "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+            "anilist_id": 145139,
+            "mal_id": 51019,
+            "aliases": [
+                "劇場版 鬼滅の刃 無限列車編",
+                "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-ditks"
+            ],
+            "synonyms": [
+                "劇場版 鬼滅の刃 無限列車編",
+                "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-ditks"
+            ],
+            "year": 2023,
+            "release_year": null,
+            "duration": null,
+            "format": "TV",
+            "seasons": {
+                "s1": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_6905/s1/ep_{ep}.srt"
                 }
             }
         },
