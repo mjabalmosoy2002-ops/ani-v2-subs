@@ -1321,7 +1321,7 @@
             "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 8,
+                    "count": 9,
                     "episodes": [
                         1,
                         7,
@@ -1330,6 +1330,7 @@
                         61,
                         72,
                         84,
+                        85,
                         92
                     ],
                     "missing": [],
