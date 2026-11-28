@@ -424,7 +424,9 @@
                 "Блич",
                 "بليتش",
                 "เทพมรณะ",
-                "ブリーチ"
+                "ブリーチ",
+                "BLEACH - ブリーチ -",
+                "bleach-yaa9n"
             ],
             "synonyms": [
                 "'בליץ",
@@ -433,17 +435,20 @@
                 "Блич",
                 "بليتش",
                 "เทพมรณะ",
-                "ブリーチ"
+                "ブリーチ",
+                "BLEACH - ブリーチ -",
+                "bleach-yaa9n"
             ],
             "year": 2004,
             "release_year": null,
             "duration": null,
-            "format": null,
+            "format": "TV",
             "seasons": {
                 "s1": {
-                    "count": 1,
+                    "count": 2,
                     "episodes": [
-                        1
+                        1,
+                        32
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/bleach/s1/ep_{ep}.srt"
