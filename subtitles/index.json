@@ -1,6 +1,6 @@
 {
     "schema_version": 4,
-    "total_animes": 56,
+    "total_animes": 57,
     "animes": {
         "a-gatherer-s-adventure-in-isekai": {
             "slug": "a-gatherer-s-adventure-in-isekai",
@@ -1623,6 +1623,35 @@
                     ],
                     "missing": [],
                     "path_pattern": "subtitles/sl_6542/s2/ep_{ep}.srt"
+                }
+            }
+        },
+        "sl_8260": {
+            "slug": "sl_8260",
+            "old_slug": null,
+            "title": "Chainsaw Man the Movie: Reze Arc",
+            "anilist_id": 171627,
+            "mal_id": 57555,
+            "aliases": [
+                "劇場版 チェンソーマン レゼ篇",
+                "chainsaw-man-the-movie-reze-arc-rjojz"
+            ],
+            "synonyms": [
+                "劇場版 チェンソーマン レゼ篇",
+                "chainsaw-man-the-movie-reze-arc-rjojz"
+            ],
+            "year": 2025,
+            "release_year": null,
+            "duration": null,
+            "format": "Movie",
+            "seasons": {
+                "movie": {
+                    "count": 1,
+                    "episodes": [
+                        1
+                    ],
+                    "missing": [],
+                    "path_pattern": "subtitles/sl_8260/movie/ep_{ep}.srt"
                 }
             }
         },
